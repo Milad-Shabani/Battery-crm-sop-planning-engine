@@ -1,0 +1,181 @@
+employee_id,full_name,role,department,production_line_id,shift,employment_type,hire_date,monthly_wage_irr
+E0001,Donald Walker,Service Representative,Customer Service,,Evening (14:00-22:00),Part-time,2023-05-25,70462258
+E0002,Stephanie Miller,Production Operator,Production,L2,Evening (14:00-22:00),Full-time,2024-04-05,56735029
+E0003,Daniel Wagner,Production Operator,Production,L4,Night (22:00-06:00),Full-time,2021-06-15,61111167
+E0004,Matthew Gardner,Logistics Coordinator,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2017-12-05,74370037
+E0005,Rhonda Smith,Production Operator,Production,L1,Evening (14:00-22:00),Full-time,2019-08-29,61513801
+E0006,Gina Moore,Logistics Coordinator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2024-11-17,77390165
+E0007,Brandon Davis,Finance / Admin,Corporate,,Day Office,Full-time,2026-03-25,73991465
+E0008,Renee Blair,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2025-04-02,56750930
+E0009,Jamie Arnold,Sales Representative,Sales / CRM,,Night (22:00-06:00),Seasonal,2022-06-23,76251029
+E0010,Shannon Ray,Line Supervisor,Production,L3,Morning (06:00-14:00),Full-time,2025-02-02,95244210
+E0011,Darren Roberts,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2023-12-23,57702371
+E0012,Brian Ramirez,QC / Battery Test Technician,Production,L1,Night (22:00-06:00),Full-time,2018-05-27,83372617
+E0013,Jacob Clark,Procurement Officer,Corporate,,Evening (14:00-22:00),Full-time,2023-05-13,79174754
+E0014,Maria Lynch,Sales Representative,Sales / CRM,,Night (22:00-06:00),Full-time,2020-01-27,81015654
+E0015,Carla Gray,Production Operator,Production,L4,Night (22:00-06:00),Full-time,2019-03-21,52171376
+E0016,Kristin Cohen,Service Representative,Customer Service,,Evening (14:00-22:00),Full-time,2026-07-08,65599430
+E0017,Crystal Johnson,Production Operator,Production,L2,Evening (14:00-22:00),Full-time,2025-03-18,51268520
+E0018,Daniel Hahn,Sales Representative,Sales / CRM,,Night (22:00-06:00),Full-time,2020-07-03,80644889
+E0019,Matthew Foster,Forklift Operator,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2025-07-05,59050592
+E0020,Derek Wright,Production Operator,Production,L2,Morning (06:00-14:00),Part-time,2025-11-06,53466851
+E0021,Kevin Hurst,Production Operator,Production,L2,Night (22:00-06:00),Full-time,2022-09-12,60761941
+E0022,Zachary Hicks,Forklift Operator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2021-04-03,63402361
+E0023,Brian Burton,QC / Battery Test Technician,Production,L2,Night (22:00-06:00),Full-time,2018-07-03,79747784
+E0024,Arthur James,Production Operator,Production,L4,Night (22:00-06:00),Full-time,2024-10-03,56122390
+E0025,Tricia Valencia,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2026-07-30,57761540
+E0026,Melanie Herrera,QC / Battery Test Technician,Production,L1,Morning (06:00-14:00),Full-time,2017-10-17,74450662
+E0027,Ashley Graham,Production Operator,Production,L2,Evening (14:00-22:00),Seasonal,2020-01-27,59599096
+E0028,Sherri Baker,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Full-time,2021-09-27,83496913
+E0029,Thomas Harrell,Service Representative,Customer Service,,Morning (06:00-14:00),Full-time,2022-02-26,65878249
+E0030,Lisa Hernandez,Production Operator,Production,L3,Evening (14:00-22:00),Full-time,2020-05-09,51090718
+E0031,Paula Moreno,Production Operator,Production,L4,Night (22:00-06:00),Full-time,2024-06-29,52215768
+E0032,Alec Hickman,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Full-time,2017-09-11,79230704
+E0033,Elizabeth Brown,Logistics Coordinator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2025-07-12,68406010
+E0034,Angelica Tucker,QC / Battery Test Technician,Production,L3,Night (22:00-06:00),Full-time,2025-07-10,84540444
+E0035,Pamela Anderson,Production Operator,Production,L1,Night (22:00-06:00),Full-time,2018-04-23,55440993
+E0036,Deborah Brennan,Plant Management,Corporate,,Day Office,Full-time,2021-12-06,139493255
+E0037,Joshua Blair,Maintenance Technician,Corporate,,Morning (06:00-14:00),Full-time,2021-06-19,78216774
+E0038,Zachary Santos,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2019-06-27,63086923
+E0039,Barbara Walker,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Part-time,2021-08-07,51141847
+E0040,Crystal Robinson,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2020-09-15,53438570
+E0041,Crystal Whitehead,QC / Battery Test Technician,Production,L2,Morning (06:00-14:00),Full-time,2018-04-29,81828194
+E0042,David Caldwell,Production Operator,Production,L1,Morning (06:00-14:00),Full-time,2025-05-11,56054768
+E0043,Timothy Duncan,Production Operator,Production,L3,Morning (06:00-14:00),Full-time,2019-08-08,58521098
+E0044,Rhonda Lee,Production Operator,Production,L3,Evening (14:00-22:00),Full-time,2021-11-27,54139532
+E0045,Jeff Owens,Forklift Operator,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2018-07-22,57614453
+E0046,Victoria Garcia,Service Representative,Customer Service,,Night (22:00-06:00),Seasonal,2024-03-12,68239803
+E0047,Scott Wright,Warehouse Staff,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2021-04-13,52480849
+E0048,Javier Ramirez,Production Operator,Production,L3,Morning (06:00-14:00),Full-time,2019-05-22,52888249
+E0049,Jessica Callahan,Finance / Admin,Corporate,,Day Office,Full-time,2019-12-02,76039966
+E0050,Zachary Huff,Finance / Admin,Corporate,,Day Office,Full-time,2022-08-07,80624006
+E0051,Sarah Martin,Service Representative,Customer Service,,Evening (14:00-22:00),Full-time,2026-05-02,68415025
+E0052,James Brown,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Full-time,2022-01-09,73402123
+E0053,Mrs. Rachel Gibson,Production Operator,Production,L1,Morning (06:00-14:00),Full-time,2021-01-26,57281923
+E0054,Whitney Peters,Production Operator,Production,L2,Evening (14:00-22:00),Part-time,2021-06-19,63621527
+E0055,Edward Novak,Production Operator,Production,L4,Night (22:00-06:00),Seasonal,2024-02-06,57979512
+E0056,Nicole Brown,Production Operator,Production,L4,Morning (06:00-14:00),Full-time,2022-11-09,58362339
+E0057,Sarah Moore,Sales Representative,Sales / CRM,,Night (22:00-06:00),Full-time,2022-11-26,74927078
+E0058,Cody Larson,Maintenance Technician,Corporate,,Morning (06:00-14:00),Full-time,2026-04-06,82763506
+E0059,Bryan Zamora,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Full-time,2023-09-18,76363322
+E0060,Lisa Barnes,Production Operator,Production,L3,Morning (06:00-14:00),Full-time,2019-11-21,63349592
+E0061,Taylor Harris,Production Operator,Production,L2,Night (22:00-06:00),Full-time,2022-11-24,58969987
+E0062,James Powers,Logistics Coordinator,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2024-01-30,72861959
+E0063,Paul Jones,QC / Battery Test Technician,Production,L1,Night (22:00-06:00),Full-time,2020-05-14,77787026
+E0064,Dr. Angel Lewis MD,Service Representative,Customer Service,,Evening (14:00-22:00),Full-time,2021-10-12,67962420
+E0065,Sherry Wood,Production Operator,Production,L2,Morning (06:00-14:00),Full-time,2026-01-06,49410843
+E0066,Michele Carr,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2019-02-05,52982242
+E0067,Aimee Montoya,Line Supervisor,Production,L4,Evening (14:00-22:00),Full-time,2026-07-01,88669086
+E0068,Teresa Taylor,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2020-05-12,50712857
+E0069,Juan Nelson,Service Representative,Customer Service,,Morning (06:00-14:00),Full-time,2018-09-21,62013733
+E0070,Christina Walters,Maintenance Technician,Corporate,,Evening (14:00-22:00),Full-time,2023-02-01,80152571
+E0071,Taylor Mathis Jr.,Production Operator,Production,L1,Night (22:00-06:00),Full-time,2020-01-18,56495375
+E0072,Aaron Wise,Production Operator,Production,L4,Evening (14:00-22:00),Full-time,2021-06-21,56934450
+E0073,Patrick Arnold,Production Operator,Production,L1,Night (22:00-06:00),Full-time,2023-05-17,62050863
+E0074,Benjamin Ware,QC / Battery Test Technician,Production,L1,Night (22:00-06:00),Full-time,2021-07-04,81200337
+E0075,Sandra Aguilar,Procurement Officer,Corporate,,Morning (06:00-14:00),Full-time,2025-10-02,77910853
+E0076,Eric Nolan,Production Operator,Production,L3,Evening (14:00-22:00),Full-time,2019-01-05,54947771
+E0077,Stephanie Clark,Line Supervisor,Production,L4,Evening (14:00-22:00),Full-time,2024-10-16,100464571
+E0078,Richard Henson,Production Operator,Production,L2,Night (22:00-06:00),Full-time,2019-12-01,61709753
+E0079,Brittany Spears,Finance / Admin,Corporate,,Day Office,Seasonal,2021-04-25,73513900
+E0080,Rita Keith,Service Representative,Customer Service,,Evening (14:00-22:00),Full-time,2025-05-27,66286046
+E0081,Evelyn Galvan,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2017-11-29,60985967
+E0082,Rita Adams,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2024-11-05,56283975
+E0083,Shane Garrison,Production Operator,Production,L2,Evening (14:00-22:00),Full-time,2024-09-18,64909400
+E0084,Julia Torres,Line Supervisor,Production,L2,Evening (14:00-22:00),Full-time,2019-09-04,95454702
+E0085,Alexander Lee,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Full-time,2024-10-14,83500178
+E0086,Tracy Ramirez,Finance / Admin,Corporate,,Day Office,Full-time,2020-08-14,80109647
+E0087,William Herrera,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2023-05-31,58411952
+E0088,Wesley White,Warehouse Staff,Warehouse & Logistics,,Night (22:00-06:00),Full-time,2026-01-26,52310304
+E0089,Brian Hamilton,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Full-time,2026-04-11,77537395
+E0090,Larry Dixon,Maintenance Technician,Corporate,,Morning (06:00-14:00),Full-time,2024-03-10,91382584
+E0091,Dawn Fletcher,Production Operator,Production,L3,Night (22:00-06:00),Full-time,2021-02-15,53311971
+E0092,Kimberly Ball,Service Representative,Customer Service,,Evening (14:00-22:00),Full-time,2017-09-15,63904278
+E0093,Helen Jones,HR / Support,Corporate,,Day Office,Full-time,2024-04-23,58933759
+E0094,Erik Charles,Production Operator,Production,L3,Evening (14:00-22:00),Full-time,2023-08-14,62621248
+E0095,Eric Ortiz,Maintenance Technician,Corporate,,Evening (14:00-22:00),Full-time,2024-02-10,85317466
+E0096,Cameron Fisher,Sales Representative,Sales / CRM,,Night (22:00-06:00),Full-time,2021-04-13,70047046
+E0097,Stephanie Gilbert,Plant Management,Corporate,,Day Office,Full-time,2026-01-29,138673622
+E0098,April Mitchell,Production Operator,Production,L4,Evening (14:00-22:00),Full-time,2020-05-17,55716225
+E0099,Mary Marshall,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Full-time,2021-07-11,79231512
+E0100,John Santana,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Full-time,2021-08-20,77709885
+E0101,Bradley Robertson,Production Operator,Production,L2,Night (22:00-06:00),Part-time,2024-10-16,53765855
+E0102,Robert Potter,QC / Battery Test Technician,Production,L1,Morning (06:00-14:00),Full-time,2023-05-04,77910999
+E0103,Curtis Johnson,Service Representative,Customer Service,,Night (22:00-06:00),Full-time,2023-09-10,66745704
+E0104,Samuel Jones,CRM / IT Administrator,Corporate,,Day Office,Full-time,2019-11-16,84567280
+E0105,Cheyenne Horton,Production Operator,Production,L2,Night (22:00-06:00),Full-time,2021-05-22,49985910
+E0106,Matthew Smith,Maintenance Technician,Corporate,,Morning (06:00-14:00),Full-time,2022-02-06,89338202
+E0107,Ashley Coleman,Service Representative,Customer Service,,Night (22:00-06:00),Full-time,2024-05-22,60294888
+E0108,Kelly Williams,QC / Battery Test Technician,Production,L1,Morning (06:00-14:00),Part-time,2019-04-06,82305096
+E0109,Joyce Solis,Production Operator,Production,L2,Night (22:00-06:00),Part-time,2019-11-30,56112895
+E0110,Linda Dodson DVM,Procurement Officer,Corporate,,Morning (06:00-14:00),Seasonal,2023-08-24,75650500
+E0111,Kathy Rivas,Logistics Coordinator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2023-02-27,73416845
+E0112,Natasha Wells,Production Operator,Production,L1,Morning (06:00-14:00),Full-time,2022-07-30,58787104
+E0113,Mark Cannon,Production Operator,Production,L1,Night (22:00-06:00),Full-time,2020-01-02,56936644
+E0114,Denise Jones,Production Operator,Production,L1,Morning (06:00-14:00),Full-time,2022-05-05,52814110
+E0115,Francisco Fernandez,Production Operator,Production,L2,Night (22:00-06:00),Full-time,2020-03-28,60997735
+E0116,Michael Mccarthy,Plant Management,Corporate,,Day Office,Full-time,2018-12-04,149356869
+E0117,Joshua Perry,Procurement Officer,Corporate,,Evening (14:00-22:00),Full-time,2018-04-07,83714343
+E0118,Taylor Silva,Logistics Coordinator,Warehouse & Logistics,,Morning (06:00-14:00),Part-time,2019-07-15,70122398
+E0119,Pamela James,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Full-time,2023-11-24,81514340
+E0120,Paul Castaneda,CRM / IT Administrator,Corporate,,Day Office,Full-time,2017-09-29,82771309
+E0121,Paul Payne,Maintenance Technician,Corporate,,Morning (06:00-14:00),Full-time,2026-03-13,83575653
+E0122,Daniel Graham,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Full-time,2023-01-27,76164399
+E0123,Michael Powell,CRM / IT Administrator,Corporate,,Day Office,Full-time,2017-12-13,82911561
+E0124,Cameron Dean,Logistics Coordinator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2019-03-01,73947687
+E0125,Justin Johnson,HR / Support,Corporate,,Day Office,Full-time,2017-12-06,57892568
+E0126,Joel Williams,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Part-time,2023-06-05,79833508
+E0127,Gabriel Juarez,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2021-01-27,62904050
+E0128,Sandra King,Production Operator,Production,L4,Morning (06:00-14:00),Full-time,2021-01-27,62304960
+E0129,Joshua Cooke,QC / Battery Test Technician,Production,L4,Evening (14:00-22:00),Full-time,2018-06-03,82455632
+E0130,Rachael Pearson,QC / Battery Test Technician,Production,L4,Morning (06:00-14:00),Full-time,2020-10-24,76730463
+E0131,Christina Smith,Production Operator,Production,L2,Evening (14:00-22:00),Full-time,2024-06-02,62423973
+E0132,Michael Elliott,Maintenance Technician,Corporate,,Evening (14:00-22:00),Full-time,2019-01-19,82962544
+E0133,Pamela Jackson,Logistics Coordinator,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2019-08-21,71142966
+E0134,Ashley Weiss,Forklift Operator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2023-02-09,71290694
+E0135,Alexander Collins,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2026-04-19,55466080
+E0136,Jennifer Espinoza,Plant Management,Corporate,,Day Office,Full-time,2023-09-25,144318369
+E0137,Lori Garcia,Service Representative,Customer Service,,Morning (06:00-14:00),Full-time,2018-05-15,69362340
+E0138,Lindsay Martinez,Procurement Officer,Corporate,,Morning (06:00-14:00),Full-time,2024-07-31,77155005
+E0139,Hannah Patterson,Production Operator,Production,L2,Morning (06:00-14:00),Full-time,2026-06-20,50674375
+E0140,Gloria Atkinson,Production Operator,Production,L2,Night (22:00-06:00),Part-time,2020-12-30,63455448
+E0141,Tyler Reid,Production Operator,Production,L1,Evening (14:00-22:00),Full-time,2025-01-10,46141884
+E0142,Jessica Gross,HR / Support,Corporate,,Day Office,Seasonal,2025-01-30,65539537
+E0143,Robert Medina,Production Operator,Production,L4,Night (22:00-06:00),Full-time,2026-04-21,56810706
+E0144,Nicholas Adams,Logistics Coordinator,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2022-01-02,73878580
+E0145,Angelica Keith,Production Operator,Production,L1,Night (22:00-06:00),Full-time,2025-04-15,64515747
+E0146,Leonard Gray,Forklift Operator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2019-11-13,66243137
+E0147,Catherine Lewis,Production Operator,Production,L3,Evening (14:00-22:00),Full-time,2017-12-12,63820182
+E0148,Spencer Haynes,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Full-time,2024-10-22,76852918
+E0149,Travis Miller,Production Operator,Production,L2,Morning (06:00-14:00),Full-time,2020-02-27,51736963
+E0150,Peter Vaughn DDS,Production Operator,Production,L4,Morning (06:00-14:00),Full-time,2024-02-12,48422958
+E0151,Anna Walker,Production Operator,Production,L2,Morning (06:00-14:00),Full-time,2022-01-26,58990663
+E0152,Kevin Kennedy,Logistics Coordinator,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2023-11-11,71863260
+E0153,Patrick Rivera,Production Operator,Production,L3,Evening (14:00-22:00),Full-time,2022-06-05,60650663
+E0154,David Martinez,Procurement Officer,Corporate,,Morning (06:00-14:00),Full-time,2023-12-17,86440293
+E0155,Joshua Gill,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Part-time,2019-05-30,52085889
+E0156,John Hardy,Procurement Officer,Corporate,,Evening (14:00-22:00),Full-time,2019-05-06,76244915
+E0157,Diane Garcia,Production Operator,Production,L2,Morning (06:00-14:00),Part-time,2026-05-27,58204568
+E0158,Christopher Smith,Production Operator,Production,L2,Morning (06:00-14:00),Full-time,2019-06-04,57361406
+E0159,William Tran,Plant Management,Corporate,,Day Office,Full-time,2022-06-16,145751894
+E0160,Sean Henry,Maintenance Technician,Corporate,,Evening (14:00-22:00),Full-time,2023-11-30,85148143
+E0161,Julie Alexander,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Seasonal,2025-06-23,83644744
+E0162,Todd Woods,Warehouse Staff,Warehouse & Logistics,,Evening (14:00-22:00),Full-time,2019-05-03,56553817
+E0163,Benjamin Soto,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Full-time,2025-01-09,74011467
+E0164,Justin Torres,Production Operator,Production,L4,Evening (14:00-22:00),Full-time,2018-03-03,54650146
+E0165,Phillip Obrien,Logistics Coordinator,Warehouse & Logistics,,Night (22:00-06:00),Seasonal,2026-07-23,67610502
+E0166,Joseph Hayes,Production Operator,Production,L4,Night (22:00-06:00),Full-time,2024-09-29,56304344
+E0167,Wanda Torres,Production Operator,Production,L2,Morning (06:00-14:00),Full-time,2021-08-22,55917646
+E0168,Natalie Meza,CRM / IT Administrator,Corporate,,Day Office,Full-time,2023-03-26,74100151
+E0169,Matthew Moore,QC / Battery Test Technician,Production,L1,Night (22:00-06:00),Full-time,2019-07-18,78689649
+E0170,Aaron Hayes,Service Representative,Customer Service,,Morning (06:00-14:00),Full-time,2019-03-30,68492397
+E0171,David Mann,Line Supervisor,Production,L4,Night (22:00-06:00),Full-time,2022-12-27,96641104
+E0172,Michael Bradshaw,Sales Representative,Sales / CRM,,Morning (06:00-14:00),Full-time,2023-12-18,75073604
+E0173,Mary Peck,Sales Representative,Sales / CRM,,Evening (14:00-22:00),Full-time,2024-09-19,75844092
+E0174,Maria Kerr,Logistics Coordinator,Warehouse & Logistics,,Night (22:00-06:00),Part-time,2021-06-26,72628430
+E0175,Christopher Parker,Warehouse Staff,Warehouse & Logistics,,Morning (06:00-14:00),Full-time,2025-01-24,52966190
+E0176,Donna Martinez,Finance / Admin,Corporate,,Day Office,Full-time,2024-05-16,71237655
+E0177,Terri Mason,Procurement Officer,Corporate,,Night (22:00-06:00),Full-time,2023-11-01,88497311
+E0178,Andrew Reynolds,Production Operator,Production,L3,Evening (14:00-22:00),Full-time,2022-02-04,56855108
+E0179,Brandon Hayden,Finance / Admin,Corporate,,Day Office,Full-time,2020-07-26,77718244
+E0180,Tiffany Key,Production Operator,Production,L2,Night (22:00-06:00),Full-time,2025-02-23,66210739

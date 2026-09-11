@@ -1,0 +1,1801 @@
+lead_id,created_date,source,owner,status,qualified_date,disqualify_reason
+LEAD00001,2025-05-01,Web Inquiry,E0096,Disqualified,2025-05-15,No Longer Interested
+LEAD00002,2024-03-30,Trade Show,E0089,Disqualified,2024-04-17,No Budget
+LEAD00003,2025-08-20,Cold Outreach,E0148,Disqualified,2025-08-31,Wrong Fit
+LEAD00004,2024-07-07,Trade Show,E0014,Disqualified,2024-07-13,Wrong Fit
+LEAD00005,2025-05-01,Partner Channel,E0009,Qualified,2025-05-13,
+LEAD00006,2024-10-23,Cold Outreach,E0100,Qualified,2024-10-30,
+LEAD00007,2024-03-05,Trade Show,E0126,Disqualified,2024-03-09,Unresponsive
+LEAD00008,2025-12-08,Web Inquiry,E0148,Disqualified,2025-12-21,Wrong Fit
+LEAD00009,2025-01-25,Web Inquiry,E0161,Qualified,2025-02-02,
+LEAD00010,2024-04-28,Trade Show,E0009,Disqualified,2024-05-06,No Longer Interested
+LEAD00011,2025-12-26,Partner Channel,E0099,Open,,
+LEAD00012,2025-09-17,Partner Channel,E0172,Disqualified,2025-09-25,Went With Competitor
+LEAD00013,2024-01-13,Trade Show,E0119,Qualified,2024-01-17,
+LEAD00014,2024-04-29,Referral,E0089,Disqualified,2024-05-09,Unresponsive
+LEAD00015,2024-03-14,Cold Outreach,E0059,Disqualified,2024-03-23,No Budget
+LEAD00016,2024-09-03,Partner Channel,E0099,Qualified,2024-09-13,
+LEAD00017,2024-10-20,Web Inquiry,E0028,Qualified,2024-10-25,
+LEAD00018,2025-05-09,Referral,E0032,Disqualified,2025-05-21,No Longer Interested
+LEAD00019,2025-06-19,Web Inquiry,E0014,Qualified,2025-06-22,
+LEAD00020,2025-03-26,Referral,E0163,Disqualified,2025-04-05,Went With Competitor
+LEAD00021,2024-11-18,Trade Show,E0009,Disqualified,2024-12-05,Wrong Fit
+LEAD00022,2025-11-28,Partner Channel,E0096,Disqualified,2025-11-30,No Longer Interested
+LEAD00023,2024-09-30,Referral,E0096,Disqualified,2024-10-15,Went With Competitor
+LEAD00024,2024-10-27,Trade Show,E0085,Disqualified,2024-11-03,Went With Competitor
+LEAD00025,2024-10-20,Web Inquiry,E0163,Disqualified,2024-11-08,Wrong Fit
+LEAD00026,2025-11-16,Referral,E0059,Disqualified,2025-11-20,Wrong Fit
+LEAD00027,2025-12-21,Referral,E0014,Disqualified,2025-12-31,No Longer Interested
+LEAD00028,2025-11-07,Trade Show,E0032,Disqualified,2025-11-13,Went With Competitor
+LEAD00029,2025-03-04,Partner Channel,E0126,Qualified,2025-03-24,
+LEAD00030,2025-06-06,Trade Show,E0161,Disqualified,2025-06-19,No Longer Interested
+LEAD00031,2024-10-27,Trade Show,E0032,Qualified,2024-11-01,
+LEAD00032,2024-01-15,Web Inquiry,E0100,Qualified,2024-01-18,
+LEAD00033,2025-03-07,Cold Outreach,E0161,Disqualified,2025-03-27,No Longer Interested
+LEAD00034,2025-08-05,Partner Channel,E0122,Qualified,2025-08-11,
+LEAD00035,2024-03-20,Trade Show,E0089,Qualified,2024-03-25,
+LEAD00036,2025-10-19,Trade Show,E0122,Qualified,2025-11-03,
+LEAD00037,2025-01-31,Cold Outreach,E0059,Disqualified,2025-02-04,Unresponsive
+LEAD00038,2025-01-17,Web Inquiry,E0057,Disqualified,2025-02-05,Unresponsive
+LEAD00039,2025-09-14,Partner Channel,E0057,Qualified,2025-09-25,
+LEAD00040,2024-05-23,Cold Outreach,E0028,Qualified,2024-06-09,
+LEAD00041,2025-12-08,Cold Outreach,E0018,Qualified,2025-12-13,
+LEAD00042,2024-05-11,Cold Outreach,E0085,Qualified,2024-05-13,
+LEAD00043,2025-06-25,Web Inquiry,E0089,Disqualified,2025-07-11,No Budget
+LEAD00044,2025-09-09,Cold Outreach,E0014,Qualified,2025-09-27,
+LEAD00045,2025-04-21,Cold Outreach,E0089,Disqualified,2025-05-02,Unresponsive
+LEAD00046,2024-03-04,Web Inquiry,E0100,Disqualified,2024-03-23,Unresponsive
+LEAD00047,2025-05-20,Referral,E0089,Qualified,2025-06-02,
+LEAD00048,2025-02-02,Trade Show,E0161,Disqualified,2025-02-09,Wrong Fit
+LEAD00049,2025-12-24,Trade Show,E0089,Qualified,2025-12-31,
+LEAD00050,2024-05-28,Partner Channel,E0100,Disqualified,2024-06-09,No Longer Interested
+LEAD00051,2024-06-09,Referral,E0161,Disqualified,2024-06-22,No Budget
+LEAD00052,2024-08-07,Trade Show,E0028,Disqualified,2024-08-14,Went With Competitor
+LEAD00053,2025-09-03,Referral,E0096,Disqualified,2025-09-14,Wrong Fit
+LEAD00054,2025-12-14,Trade Show,E0018,Qualified,2025-12-31,
+LEAD00055,2025-12-07,Trade Show,E0126,Qualified,2025-12-18,
+LEAD00056,2024-07-20,Trade Show,E0122,Qualified,2024-07-31,
+LEAD00057,2025-06-05,Cold Outreach,E0099,Qualified,2025-06-23,
+LEAD00058,2025-05-13,Trade Show,E0032,Qualified,2025-06-02,
+LEAD00059,2024-08-19,Trade Show,E0052,Qualified,2024-08-31,
+LEAD00060,2025-07-14,Partner Channel,E0052,Qualified,2025-07-28,
+LEAD00061,2025-04-23,Cold Outreach,E0119,Qualified,2025-05-10,
+LEAD00062,2024-07-29,Cold Outreach,E0059,Qualified,2024-08-16,
+LEAD00063,2024-09-08,Web Inquiry,E0096,Qualified,2024-09-18,
+LEAD00064,2024-04-16,Partner Channel,E0100,Qualified,2024-04-27,
+LEAD00065,2024-10-18,Web Inquiry,E0173,Qualified,2024-10-30,
+LEAD00066,2025-07-17,Cold Outreach,E0163,Disqualified,2025-07-31,No Budget
+LEAD00067,2025-03-04,Partner Channel,E0052,Disqualified,2025-03-15,Unresponsive
+LEAD00068,2024-11-27,Referral,E0119,Disqualified,2024-11-30,No Budget
+LEAD00069,2025-09-01,Partner Channel,E0018,Disqualified,2025-09-15,Wrong Fit
+LEAD00070,2024-07-29,Trade Show,E0032,Qualified,2024-08-02,
+LEAD00071,2024-05-16,Trade Show,E0028,Disqualified,2024-06-05,No Budget
+LEAD00072,2024-06-03,Cold Outreach,E0057,Qualified,2024-06-05,
+LEAD00073,2024-11-15,Referral,E0119,Disqualified,2024-12-05,Wrong Fit
+LEAD00074,2025-12-19,Trade Show,E0096,Disqualified,2025-12-30,Went With Competitor
+LEAD00075,2025-02-07,Trade Show,E0018,Disqualified,2025-02-14,Unresponsive
+LEAD00076,2025-04-16,Cold Outreach,E0014,Disqualified,2025-04-23,No Budget
+LEAD00077,2025-09-06,Referral,E0059,Disqualified,2025-09-24,Wrong Fit
+LEAD00078,2025-01-16,Partner Channel,E0126,Qualified,2025-01-23,
+LEAD00079,2025-02-21,Partner Channel,E0163,Disqualified,2025-02-24,No Longer Interested
+LEAD00080,2024-03-24,Cold Outreach,E0057,Qualified,2024-04-09,
+LEAD00081,2024-08-02,Trade Show,E0014,Disqualified,2024-08-12,Unresponsive
+LEAD00082,2025-10-28,Trade Show,E0172,Disqualified,2025-11-09,Wrong Fit
+LEAD00083,2025-06-24,Web Inquiry,E0126,Disqualified,2025-07-11,No Longer Interested
+LEAD00084,2024-08-30,Cold Outreach,E0148,Disqualified,2024-09-17,Wrong Fit
+LEAD00085,2025-03-13,Trade Show,E0163,Disqualified,2025-03-31,Went With Competitor
+LEAD00086,2025-07-31,Referral,E0100,Qualified,2025-08-06,
+LEAD00087,2024-02-09,Cold Outreach,E0089,Qualified,2024-02-18,
+LEAD00088,2025-10-22,Referral,E0119,Disqualified,2025-11-06,No Longer Interested
+LEAD00089,2024-07-18,Cold Outreach,E0014,Qualified,2024-07-22,
+LEAD00090,2024-05-30,Web Inquiry,E0119,Qualified,2024-06-19,
+LEAD00091,2025-10-20,Web Inquiry,E0052,Disqualified,2025-11-04,Wrong Fit
+LEAD00092,2025-12-14,Cold Outreach,E0148,Open,,
+LEAD00093,2024-05-01,Referral,E0163,Disqualified,2024-05-14,Wrong Fit
+LEAD00094,2025-10-14,Trade Show,E0122,Qualified,2025-10-21,
+LEAD00095,2025-02-04,Referral,E0014,Disqualified,2025-02-16,No Budget
+LEAD00096,2025-02-17,Cold Outreach,E0119,Disqualified,2025-03-07,Went With Competitor
+LEAD00097,2024-12-10,Referral,E0096,Qualified,2024-12-15,
+LEAD00098,2025-06-12,Trade Show,E0018,Qualified,2025-07-02,
+LEAD00099,2025-03-08,Trade Show,E0122,Disqualified,2025-03-10,Unresponsive
+LEAD00100,2024-07-21,Referral,E0100,Disqualified,2024-08-04,Wrong Fit
+LEAD00101,2024-04-05,Referral,E0057,Disqualified,2024-04-10,Wrong Fit
+LEAD00102,2025-06-12,Cold Outreach,E0163,Qualified,2025-06-19,
+LEAD00103,2024-09-22,Referral,E0089,Disqualified,2024-09-30,No Budget
+LEAD00104,2024-11-10,Partner Channel,E0119,Disqualified,2024-11-17,Unresponsive
+LEAD00105,2025-12-07,Cold Outreach,E0009,Disqualified,2025-12-20,Unresponsive
+LEAD00106,2024-08-25,Partner Channel,E0099,Disqualified,2024-09-11,Went With Competitor
+LEAD00107,2024-03-06,Referral,E0126,Disqualified,2024-03-16,Went With Competitor
+LEAD00108,2025-05-23,Partner Channel,E0014,Disqualified,2025-06-06,Unresponsive
+LEAD00109,2025-08-14,Partner Channel,E0126,Qualified,2025-08-17,
+LEAD00110,2024-10-06,Cold Outreach,E0096,Qualified,2024-10-10,
+LEAD00111,2025-09-25,Partner Channel,E0018,Qualified,2025-10-12,
+LEAD00112,2025-05-29,Referral,E0085,Disqualified,2025-06-16,Unresponsive
+LEAD00113,2024-06-15,Web Inquiry,E0028,Qualified,2024-07-04,
+LEAD00114,2025-09-13,Referral,E0057,Disqualified,2025-10-01,Wrong Fit
+LEAD00115,2025-01-08,Partner Channel,E0018,Disqualified,2025-01-19,Wrong Fit
+LEAD00116,2024-07-16,Partner Channel,E0119,Disqualified,2024-08-05,No Budget
+LEAD00117,2025-05-07,Cold Outreach,E0099,Disqualified,2025-05-20,Unresponsive
+LEAD00118,2024-05-30,Cold Outreach,E0161,Qualified,2024-06-18,
+LEAD00119,2024-09-07,Partner Channel,E0059,Disqualified,2024-09-09,Went With Competitor
+LEAD00120,2024-08-21,Trade Show,E0096,Disqualified,2024-09-09,No Budget
+LEAD00121,2024-06-14,Partner Channel,E0122,Qualified,2024-06-23,
+LEAD00122,2024-11-05,Web Inquiry,E0148,Disqualified,2024-11-24,Wrong Fit
+LEAD00123,2025-12-21,Trade Show,E0172,Open,,
+LEAD00124,2025-06-15,Web Inquiry,E0085,Qualified,2025-07-01,
+LEAD00125,2025-04-25,Trade Show,E0059,Disqualified,2025-05-07,No Longer Interested
+LEAD00126,2024-11-15,Partner Channel,E0032,Qualified,2024-12-01,
+LEAD00127,2025-04-15,Cold Outreach,E0173,Disqualified,2025-05-05,No Longer Interested
+LEAD00128,2025-05-21,Cold Outreach,E0009,Qualified,2025-06-10,
+LEAD00129,2024-05-11,Cold Outreach,E0085,Qualified,2024-05-15,
+LEAD00130,2025-12-27,Partner Channel,E0089,Disqualified,2025-12-31,Wrong Fit
+LEAD00131,2024-04-23,Cold Outreach,E0018,Qualified,2024-04-26,
+LEAD00132,2024-06-19,Referral,E0028,Disqualified,2024-06-28,Unresponsive
+LEAD00133,2024-10-06,Referral,E0126,Disqualified,2024-10-17,No Budget
+LEAD00134,2025-07-07,Trade Show,E0100,Qualified,2025-07-23,
+LEAD00135,2024-04-24,Web Inquiry,E0052,Qualified,2024-05-05,
+LEAD00136,2024-12-14,Referral,E0096,Qualified,2024-12-25,
+LEAD00137,2025-11-05,Partner Channel,E0148,Disqualified,2025-11-08,Went With Competitor
+LEAD00138,2024-11-01,Cold Outreach,E0122,Qualified,2024-11-06,
+LEAD00139,2025-10-07,Referral,E0163,Qualified,2025-10-25,
+LEAD00140,2025-03-15,Web Inquiry,E0009,Disqualified,2025-03-24,Unresponsive
+LEAD00141,2025-08-13,Trade Show,E0122,Disqualified,2025-08-24,No Longer Interested
+LEAD00142,2024-03-27,Web Inquiry,E0009,Qualified,2024-04-15,
+LEAD00143,2024-10-15,Partner Channel,E0032,Qualified,2024-11-04,
+LEAD00144,2024-08-18,Trade Show,E0089,Qualified,2024-09-07,
+LEAD00145,2024-10-29,Cold Outreach,E0126,Disqualified,2024-11-01,Unresponsive
+LEAD00146,2024-07-18,Web Inquiry,E0009,Disqualified,2024-07-22,No Longer Interested
+LEAD00147,2024-10-11,Trade Show,E0052,Disqualified,2024-10-21,No Budget
+LEAD00148,2025-03-21,Partner Channel,E0014,Disqualified,2025-03-26,No Longer Interested
+LEAD00149,2024-12-08,Cold Outreach,E0052,Disqualified,2024-12-21,Went With Competitor
+LEAD00150,2024-06-13,Web Inquiry,E0059,Disqualified,2024-06-22,Unresponsive
+LEAD00151,2024-06-30,Referral,E0163,Qualified,2024-07-17,
+LEAD00152,2024-02-04,Web Inquiry,E0018,Qualified,2024-02-23,
+LEAD00153,2024-01-02,Partner Channel,E0089,Disqualified,2024-01-04,No Longer Interested
+LEAD00154,2024-01-30,Cold Outreach,E0122,Disqualified,2024-02-15,Went With Competitor
+LEAD00155,2024-07-16,Web Inquiry,E0009,Disqualified,2024-08-03,Unresponsive
+LEAD00156,2025-07-19,Referral,E0009,Qualified,2025-07-27,
+LEAD00157,2025-12-04,Web Inquiry,E0052,Disqualified,2025-12-16,No Budget
+LEAD00158,2025-05-14,Trade Show,E0052,Disqualified,2025-06-01,Unresponsive
+LEAD00159,2024-05-24,Cold Outreach,E0018,Disqualified,2024-06-02,Unresponsive
+LEAD00160,2025-09-12,Cold Outreach,E0172,Disqualified,2025-09-20,No Budget
+LEAD00161,2024-04-20,Referral,E0163,Qualified,2024-04-25,
+LEAD00162,2025-05-09,Partner Channel,E0163,Disqualified,2025-05-21,No Longer Interested
+LEAD00163,2024-03-14,Cold Outreach,E0100,Disqualified,2024-03-23,Wrong Fit
+LEAD00164,2024-02-08,Partner Channel,E0163,Disqualified,2024-02-28,Wrong Fit
+LEAD00165,2024-09-04,Referral,E0014,Qualified,2024-09-11,
+LEAD00166,2025-05-26,Partner Channel,E0014,Disqualified,2025-06-11,No Budget
+LEAD00167,2025-03-17,Trade Show,E0018,Disqualified,2025-04-01,Unresponsive
+LEAD00168,2025-02-03,Web Inquiry,E0172,Qualified,2025-02-06,
+LEAD00169,2024-04-24,Trade Show,E0032,Disqualified,2024-05-04,Went With Competitor
+LEAD00170,2025-12-03,Referral,E0057,Qualified,2025-12-14,
+LEAD00171,2025-09-18,Cold Outreach,E0163,Disqualified,2025-10-05,Unresponsive
+LEAD00172,2024-06-16,Web Inquiry,E0059,Qualified,2024-06-22,
+LEAD00173,2025-08-13,Web Inquiry,E0172,Qualified,2025-08-30,
+LEAD00174,2024-02-26,Cold Outreach,E0163,Disqualified,2024-03-01,No Longer Interested
+LEAD00175,2024-05-25,Partner Channel,E0032,Qualified,2024-06-04,
+LEAD00176,2025-08-31,Web Inquiry,E0126,Disqualified,2025-09-02,Unresponsive
+LEAD00177,2025-07-12,Cold Outreach,E0089,Disqualified,2025-07-17,Unresponsive
+LEAD00178,2024-11-04,Referral,E0018,Qualified,2024-11-17,
+LEAD00179,2024-09-10,Web Inquiry,E0173,Disqualified,2024-09-28,Unresponsive
+LEAD00180,2024-12-09,Cold Outreach,E0126,Disqualified,2024-12-18,No Longer Interested
+LEAD00181,2025-08-01,Trade Show,E0096,Disqualified,2025-08-17,Went With Competitor
+LEAD00182,2025-06-07,Web Inquiry,E0057,Qualified,2025-06-20,
+LEAD00183,2025-02-15,Partner Channel,E0126,Disqualified,2025-02-22,No Longer Interested
+LEAD00184,2024-05-13,Web Inquiry,E0119,Disqualified,2024-05-17,Went With Competitor
+LEAD00185,2024-02-29,Trade Show,E0057,Disqualified,2024-03-05,Wrong Fit
+LEAD00186,2024-11-25,Web Inquiry,E0148,Disqualified,2024-11-30,Unresponsive
+LEAD00187,2025-01-27,Cold Outreach,E0122,Qualified,2025-02-10,
+LEAD00188,2025-08-08,Partner Channel,E0096,Disqualified,2025-08-17,Went With Competitor
+LEAD00189,2025-02-08,Cold Outreach,E0009,Disqualified,2025-02-28,Unresponsive
+LEAD00190,2025-03-09,Cold Outreach,E0032,Disqualified,2025-03-21,No Longer Interested
+LEAD00191,2024-06-09,Web Inquiry,E0028,Disqualified,2024-06-13,No Longer Interested
+LEAD00192,2025-10-21,Cold Outreach,E0161,Disqualified,2025-11-08,Wrong Fit
+LEAD00193,2024-08-30,Referral,E0119,Qualified,2024-09-14,
+LEAD00194,2025-09-23,Web Inquiry,E0173,Disqualified,2025-10-04,Wrong Fit
+LEAD00195,2025-05-14,Web Inquiry,E0009,Qualified,2025-05-21,
+LEAD00196,2024-07-18,Partner Channel,E0100,Disqualified,2024-07-24,Wrong Fit
+LEAD00197,2025-01-01,Cold Outreach,E0009,Qualified,2025-01-19,
+LEAD00198,2025-08-03,Trade Show,E0119,Disqualified,2025-08-10,No Longer Interested
+LEAD00199,2024-03-30,Partner Channel,E0059,Disqualified,2024-04-16,Unresponsive
+LEAD00200,2025-04-09,Referral,E0018,Qualified,2025-04-14,
+LEAD00201,2024-07-24,Partner Channel,E0172,Qualified,2024-07-29,
+LEAD00202,2024-03-29,Web Inquiry,E0059,Disqualified,2024-04-01,Wrong Fit
+LEAD00203,2024-12-15,Trade Show,E0014,Disqualified,2024-12-19,Unresponsive
+LEAD00204,2024-07-11,Cold Outreach,E0028,Disqualified,2024-07-31,No Longer Interested
+LEAD00205,2024-04-02,Referral,E0096,Disqualified,2024-04-19,Wrong Fit
+LEAD00206,2025-07-04,Partner Channel,E0057,Qualified,2025-07-12,
+LEAD00207,2025-05-30,Trade Show,E0009,Qualified,2025-06-19,
+LEAD00208,2025-09-09,Cold Outreach,E0028,Qualified,2025-09-25,
+LEAD00209,2025-04-30,Referral,E0126,Disqualified,2025-05-15,No Longer Interested
+LEAD00210,2024-04-23,Cold Outreach,E0028,Qualified,2024-05-04,
+LEAD00211,2025-06-22,Cold Outreach,E0161,Qualified,2025-07-02,
+LEAD00212,2025-05-28,Referral,E0119,Disqualified,2025-06-16,Went With Competitor
+LEAD00213,2024-10-04,Partner Channel,E0028,Disqualified,2024-10-20,Wrong Fit
+LEAD00214,2024-08-25,Trade Show,E0100,Disqualified,2024-09-01,Wrong Fit
+LEAD00215,2025-10-26,Referral,E0172,Qualified,2025-10-31,
+LEAD00216,2024-05-13,Cold Outreach,E0018,Qualified,2024-06-02,
+LEAD00217,2024-03-31,Trade Show,E0099,Qualified,2024-04-07,
+LEAD00218,2024-03-12,Partner Channel,E0089,Disqualified,2024-04-01,Wrong Fit
+LEAD00219,2025-12-11,Web Inquiry,E0163,Open,,
+LEAD00220,2024-03-13,Referral,E0126,Disqualified,2024-03-20,No Longer Interested
+LEAD00221,2024-08-26,Trade Show,E0126,Disqualified,2024-09-03,Unresponsive
+LEAD00222,2024-12-03,Web Inquiry,E0163,Disqualified,2024-12-23,No Longer Interested
+LEAD00223,2025-08-08,Partner Channel,E0032,Disqualified,2025-08-27,Unresponsive
+LEAD00224,2024-03-25,Trade Show,E0096,Disqualified,2024-03-28,No Budget
+LEAD00225,2024-09-15,Partner Channel,E0163,Disqualified,2024-09-19,No Longer Interested
+LEAD00226,2025-03-18,Trade Show,E0018,Qualified,2025-03-31,
+LEAD00227,2025-04-15,Trade Show,E0018,Disqualified,2025-04-17,No Longer Interested
+LEAD00228,2025-08-25,Web Inquiry,E0172,Qualified,2025-09-05,
+LEAD00229,2024-02-13,Trade Show,E0122,Qualified,2024-02-26,
+LEAD00230,2024-11-04,Web Inquiry,E0172,Disqualified,2024-11-24,Wrong Fit
+LEAD00231,2025-10-08,Trade Show,E0085,Disqualified,2025-10-26,Wrong Fit
+LEAD00232,2025-03-28,Partner Channel,E0148,Disqualified,2025-04-09,Went With Competitor
+LEAD00233,2025-11-03,Partner Channel,E0032,Disqualified,2025-11-12,Wrong Fit
+LEAD00234,2025-09-02,Partner Channel,E0009,Qualified,2025-09-08,
+LEAD00235,2025-12-05,Cold Outreach,E0018,Qualified,2025-12-15,
+LEAD00236,2025-08-24,Cold Outreach,E0161,Disqualified,2025-09-06,No Budget
+LEAD00237,2024-12-31,Partner Channel,E0163,Disqualified,2025-01-20,Went With Competitor
+LEAD00238,2024-08-16,Referral,E0119,Disqualified,2024-09-02,Unresponsive
+LEAD00239,2024-10-06,Web Inquiry,E0089,Disqualified,2024-10-14,No Budget
+LEAD00240,2025-02-16,Cold Outreach,E0161,Disqualified,2025-02-28,No Longer Interested
+LEAD00241,2025-08-25,Cold Outreach,E0163,Qualified,2025-09-01,
+LEAD00242,2024-12-12,Trade Show,E0100,Disqualified,2024-12-17,Went With Competitor
+LEAD00243,2025-01-10,Partner Channel,E0100,Disqualified,2025-01-25,Went With Competitor
+LEAD00244,2024-03-28,Trade Show,E0172,Disqualified,2024-04-04,Went With Competitor
+LEAD00245,2025-04-17,Partner Channel,E0085,Qualified,2025-04-28,
+LEAD00246,2024-05-25,Partner Channel,E0014,Qualified,2024-06-14,
+LEAD00247,2024-12-09,Partner Channel,E0161,Qualified,2024-12-13,
+LEAD00248,2024-03-02,Referral,E0172,Disqualified,2024-03-10,No Budget
+LEAD00249,2025-02-18,Referral,E0028,Qualified,2025-03-02,
+LEAD00250,2024-06-11,Partner Channel,E0122,Qualified,2024-07-01,
+LEAD00251,2025-05-25,Web Inquiry,E0018,Qualified,2025-06-03,
+LEAD00252,2025-11-30,Cold Outreach,E0126,Disqualified,2025-12-02,Went With Competitor
+LEAD00253,2024-01-31,Cold Outreach,E0028,Disqualified,2024-02-19,Wrong Fit
+LEAD00254,2025-10-24,Web Inquiry,E0100,Disqualified,2025-11-01,No Longer Interested
+LEAD00255,2024-08-02,Partner Channel,E0052,Qualified,2024-08-11,
+LEAD00256,2025-08-24,Trade Show,E0096,Disqualified,2025-08-27,Wrong Fit
+LEAD00257,2025-07-11,Partner Channel,E0018,Disqualified,2025-07-20,No Longer Interested
+LEAD00258,2025-09-09,Cold Outreach,E0018,Disqualified,2025-09-17,Went With Competitor
+LEAD00259,2025-04-27,Cold Outreach,E0100,Disqualified,2025-04-30,Wrong Fit
+LEAD00260,2025-11-02,Referral,E0122,Disqualified,2025-11-05,Went With Competitor
+LEAD00261,2024-01-11,Cold Outreach,E0122,Disqualified,2024-01-15,No Longer Interested
+LEAD00262,2024-05-17,Cold Outreach,E0085,Qualified,2024-05-28,
+LEAD00263,2024-03-04,Cold Outreach,E0100,Disqualified,2024-03-10,Unresponsive
+LEAD00264,2025-02-27,Cold Outreach,E0163,Qualified,2025-03-01,
+LEAD00265,2024-02-15,Referral,E0032,Disqualified,2024-02-18,Unresponsive
+LEAD00266,2024-10-01,Cold Outreach,E0028,Disqualified,2024-10-15,Went With Competitor
+LEAD00267,2024-08-20,Cold Outreach,E0009,Disqualified,2024-08-24,Went With Competitor
+LEAD00268,2024-05-20,Trade Show,E0057,Disqualified,2024-05-26,No Longer Interested
+LEAD00269,2025-06-14,Cold Outreach,E0119,Disqualified,2025-06-29,Wrong Fit
+LEAD00270,2024-04-09,Trade Show,E0032,Disqualified,2024-04-19,Wrong Fit
+LEAD00271,2025-01-05,Cold Outreach,E0172,Qualified,2025-01-22,
+LEAD00272,2025-09-25,Referral,E0126,Disqualified,2025-10-04,Wrong Fit
+LEAD00273,2025-12-25,Partner Channel,E0173,Qualified,2025-12-29,
+LEAD00274,2025-04-10,Web Inquiry,E0057,Disqualified,2025-04-18,No Longer Interested
+LEAD00275,2025-11-23,Web Inquiry,E0119,Disqualified,2025-11-25,No Longer Interested
+LEAD00276,2025-05-31,Trade Show,E0163,Disqualified,2025-06-19,Unresponsive
+LEAD00277,2025-08-06,Cold Outreach,E0122,Qualified,2025-08-16,
+LEAD00278,2025-10-12,Trade Show,E0032,Disqualified,2025-10-31,No Budget
+LEAD00279,2025-04-21,Cold Outreach,E0173,Qualified,2025-04-30,
+LEAD00280,2024-05-17,Partner Channel,E0122,Qualified,2024-05-30,
+LEAD00281,2025-07-11,Cold Outreach,E0161,Qualified,2025-07-28,
+LEAD00282,2025-12-25,Cold Outreach,E0059,Open,,
+LEAD00283,2024-11-26,Web Inquiry,E0009,Disqualified,2024-12-08,Wrong Fit
+LEAD00284,2024-12-24,Referral,E0085,Disqualified,2025-01-06,Went With Competitor
+LEAD00285,2024-12-25,Cold Outreach,E0099,Qualified,2025-01-05,
+LEAD00286,2024-09-08,Referral,E0096,Disqualified,2024-09-20,Went With Competitor
+LEAD00287,2024-06-19,Referral,E0163,Disqualified,2024-06-27,Unresponsive
+LEAD00288,2025-11-15,Referral,E0089,Disqualified,2025-11-28,Went With Competitor
+LEAD00289,2024-10-17,Referral,E0089,Disqualified,2024-10-19,Went With Competitor
+LEAD00290,2024-07-09,Trade Show,E0018,Qualified,2024-07-20,
+LEAD00291,2025-03-16,Trade Show,E0148,Qualified,2025-03-29,
+LEAD00292,2025-09-19,Referral,E0100,Qualified,2025-09-22,
+LEAD00293,2024-07-31,Trade Show,E0009,Disqualified,2024-08-02,No Budget
+LEAD00294,2024-04-28,Cold Outreach,E0126,Qualified,2024-05-08,
+LEAD00295,2025-06-05,Partner Channel,E0122,Qualified,2025-06-22,
+LEAD00296,2025-03-14,Referral,E0100,Qualified,2025-03-18,
+LEAD00297,2024-09-15,Trade Show,E0014,Qualified,2024-09-17,
+LEAD00298,2025-03-28,Web Inquiry,E0059,Qualified,2025-04-14,
+LEAD00299,2025-10-17,Trade Show,E0057,Disqualified,2025-10-25,Went With Competitor
+LEAD00300,2024-08-30,Web Inquiry,E0032,Disqualified,2024-09-07,Wrong Fit
+LEAD00301,2024-09-20,Partner Channel,E0057,Disqualified,2024-10-01,Wrong Fit
+LEAD00302,2025-03-22,Web Inquiry,E0161,Disqualified,2025-03-25,No Budget
+LEAD00303,2024-12-09,Trade Show,E0089,Qualified,2024-12-21,
+LEAD00304,2025-11-17,Referral,E0085,Disqualified,2025-12-04,Unresponsive
+LEAD00305,2024-04-26,Cold Outreach,E0057,Disqualified,2024-05-13,Unresponsive
+LEAD00306,2024-09-29,Cold Outreach,E0163,Disqualified,2024-10-04,Went With Competitor
+LEAD00307,2025-06-01,Partner Channel,E0018,Disqualified,2025-06-17,No Longer Interested
+LEAD00308,2024-03-28,Cold Outreach,E0057,Disqualified,2024-04-17,Unresponsive
+LEAD00309,2025-07-05,Referral,E0126,Disqualified,2025-07-15,Unresponsive
+LEAD00310,2024-11-30,Web Inquiry,E0099,Qualified,2024-12-12,
+LEAD00311,2024-10-29,Web Inquiry,E0100,Disqualified,2024-11-10,Unresponsive
+LEAD00312,2024-03-15,Web Inquiry,E0032,Disqualified,2024-03-20,Unresponsive
+LEAD00313,2024-06-06,Referral,E0100,Disqualified,2024-06-17,Wrong Fit
+LEAD00314,2025-04-25,Cold Outreach,E0126,Disqualified,2025-05-05,Unresponsive
+LEAD00315,2024-01-16,Trade Show,E0014,Disqualified,2024-02-05,No Longer Interested
+LEAD00316,2025-06-23,Referral,E0089,Disqualified,2025-06-30,Unresponsive
+LEAD00317,2025-01-28,Web Inquiry,E0014,Disqualified,2025-02-14,No Longer Interested
+LEAD00318,2024-01-26,Cold Outreach,E0085,Qualified,2024-01-28,
+LEAD00319,2025-08-09,Trade Show,E0173,Qualified,2025-08-19,
+LEAD00320,2025-08-29,Partner Channel,E0028,Disqualified,2025-08-31,No Budget
+LEAD00321,2024-07-13,Partner Channel,E0126,Qualified,2024-07-17,
+LEAD00322,2025-05-15,Partner Channel,E0173,Disqualified,2025-05-23,No Longer Interested
+LEAD00323,2024-01-27,Trade Show,E0148,Disqualified,2024-02-08,Wrong Fit
+LEAD00324,2024-11-21,Web Inquiry,E0032,Disqualified,2024-12-07,No Longer Interested
+LEAD00325,2025-01-26,Referral,E0161,Qualified,2025-01-29,
+LEAD00326,2024-01-05,Web Inquiry,E0052,Disqualified,2024-01-14,Wrong Fit
+LEAD00327,2025-03-12,Referral,E0126,Disqualified,2025-03-29,Went With Competitor
+LEAD00328,2024-05-10,Partner Channel,E0059,Disqualified,2024-05-16,Went With Competitor
+LEAD00329,2024-02-19,Cold Outreach,E0057,Qualified,2024-03-07,
+LEAD00330,2024-11-28,Trade Show,E0018,Disqualified,2024-12-02,Wrong Fit
+LEAD00331,2024-05-13,Trade Show,E0014,Disqualified,2024-05-21,Went With Competitor
+LEAD00332,2025-08-16,Partner Channel,E0089,Qualified,2025-08-24,
+LEAD00333,2025-12-23,Trade Show,E0161,Open,,
+LEAD00334,2024-02-03,Cold Outreach,E0059,Disqualified,2024-02-10,Unresponsive
+LEAD00335,2025-06-02,Web Inquiry,E0100,Disqualified,2025-06-19,No Budget
+LEAD00336,2025-05-23,Trade Show,E0163,Qualified,2025-05-25,
+LEAD00337,2025-12-16,Referral,E0163,Open,,
+LEAD00338,2024-01-13,Referral,E0018,Disqualified,2024-01-17,No Budget
+LEAD00339,2025-12-27,Cold Outreach,E0099,Open,,
+LEAD00340,2025-01-23,Referral,E0161,Disqualified,2025-01-27,No Longer Interested
+LEAD00341,2025-07-27,Cold Outreach,E0172,Disqualified,2025-08-13,Went With Competitor
+LEAD00342,2024-07-26,Web Inquiry,E0018,Disqualified,2024-07-28,No Longer Interested
+LEAD00343,2025-07-20,Trade Show,E0032,Disqualified,2025-07-26,Unresponsive
+LEAD00344,2025-07-22,Cold Outreach,E0032,Disqualified,2025-07-29,Wrong Fit
+LEAD00345,2024-10-28,Trade Show,E0173,Disqualified,2024-11-01,Wrong Fit
+LEAD00346,2024-04-22,Partner Channel,E0163,Qualified,2024-05-01,
+LEAD00347,2024-08-05,Referral,E0032,Disqualified,2024-08-16,Went With Competitor
+LEAD00348,2025-09-12,Partner Channel,E0059,Qualified,2025-09-20,
+LEAD00349,2025-03-05,Trade Show,E0119,Disqualified,2025-03-15,Went With Competitor
+LEAD00350,2025-07-07,Cold Outreach,E0052,Disqualified,2025-07-17,Wrong Fit
+LEAD00351,2025-07-06,Cold Outreach,E0161,Disqualified,2025-07-10,Went With Competitor
+LEAD00352,2025-12-13,Trade Show,E0009,Open,,
+LEAD00353,2025-10-29,Partner Channel,E0161,Qualified,2025-11-18,
+LEAD00354,2025-02-03,Cold Outreach,E0100,Qualified,2025-02-11,
+LEAD00355,2025-05-05,Referral,E0009,Disqualified,2025-05-13,Unresponsive
+LEAD00356,2024-06-09,Partner Channel,E0057,Qualified,2024-06-24,
+LEAD00357,2025-02-21,Partner Channel,E0148,Qualified,2025-03-06,
+LEAD00358,2025-06-26,Trade Show,E0172,Disqualified,2025-07-09,Went With Competitor
+LEAD00359,2025-08-14,Referral,E0163,Qualified,2025-08-17,
+LEAD00360,2025-01-26,Trade Show,E0059,Disqualified,2025-02-05,No Budget
+LEAD00361,2025-06-29,Referral,E0126,Disqualified,2025-07-01,Unresponsive
+LEAD00362,2024-01-16,Web Inquiry,E0085,Disqualified,2024-01-19,Wrong Fit
+LEAD00363,2024-04-30,Web Inquiry,E0100,Disqualified,2024-05-20,No Longer Interested
+LEAD00364,2024-05-12,Trade Show,E0057,Disqualified,2024-05-17,Unresponsive
+LEAD00365,2025-08-13,Trade Show,E0099,Disqualified,2025-09-01,Wrong Fit
+LEAD00366,2024-06-23,Trade Show,E0018,Disqualified,2024-06-28,No Longer Interested
+LEAD00367,2024-06-09,Referral,E0119,Disqualified,2024-06-21,No Longer Interested
+LEAD00368,2025-05-19,Trade Show,E0018,Disqualified,2025-05-27,Went With Competitor
+LEAD00369,2024-07-25,Referral,E0028,Disqualified,2024-08-11,Wrong Fit
+LEAD00370,2025-10-14,Web Inquiry,E0059,Disqualified,2025-10-26,Went With Competitor
+LEAD00371,2024-12-28,Referral,E0173,Disqualified,2025-01-09,Unresponsive
+LEAD00372,2024-05-01,Web Inquiry,E0028,Disqualified,2024-05-16,Unresponsive
+LEAD00373,2025-04-30,Cold Outreach,E0148,Qualified,2025-05-19,
+LEAD00374,2024-11-25,Web Inquiry,E0089,Qualified,2024-12-10,
+LEAD00375,2025-07-29,Partner Channel,E0163,Disqualified,2025-08-13,Went With Competitor
+LEAD00376,2025-04-05,Cold Outreach,E0028,Qualified,2025-04-20,
+LEAD00377,2025-09-19,Cold Outreach,E0163,Disqualified,2025-10-04,Went With Competitor
+LEAD00378,2025-09-05,Web Inquiry,E0032,Disqualified,2025-09-21,Wrong Fit
+LEAD00379,2024-09-08,Trade Show,E0096,Qualified,2024-09-10,
+LEAD00380,2025-10-01,Referral,E0148,Disqualified,2025-10-15,No Budget
+LEAD00381,2025-08-18,Trade Show,E0163,Disqualified,2025-09-02,Wrong Fit
+LEAD00382,2024-12-07,Referral,E0028,Qualified,2024-12-18,
+LEAD00383,2025-03-21,Trade Show,E0009,Disqualified,2025-04-10,No Longer Interested
+LEAD00384,2024-05-05,Referral,E0052,Disqualified,2024-05-14,No Budget
+LEAD00385,2025-10-02,Cold Outreach,E0014,Disqualified,2025-10-18,No Budget
+LEAD00386,2024-05-22,Cold Outreach,E0059,Disqualified,2024-06-06,Went With Competitor
+LEAD00387,2024-09-03,Trade Show,E0009,Disqualified,2024-09-17,Wrong Fit
+LEAD00388,2025-04-13,Referral,E0059,Qualified,2025-04-26,
+LEAD00389,2024-04-23,Cold Outreach,E0052,Qualified,2024-05-13,
+LEAD00390,2025-01-02,Web Inquiry,E0028,Disqualified,2025-01-17,Went With Competitor
+LEAD00391,2025-07-01,Partner Channel,E0163,Disqualified,2025-07-19,Went With Competitor
+LEAD00392,2024-02-14,Web Inquiry,E0099,Qualified,2024-03-04,
+LEAD00393,2024-03-30,Cold Outreach,E0172,Disqualified,2024-04-06,No Longer Interested
+LEAD00394,2025-11-26,Referral,E0028,Disqualified,2025-12-04,Unresponsive
+LEAD00395,2025-10-07,Referral,E0057,Disqualified,2025-10-25,No Budget
+LEAD00396,2025-04-26,Referral,E0173,Disqualified,2025-05-08,Went With Competitor
+LEAD00397,2024-01-26,Partner Channel,E0161,Qualified,2024-02-05,
+LEAD00398,2025-08-15,Referral,E0018,Qualified,2025-08-25,
+LEAD00399,2025-10-23,Partner Channel,E0057,Qualified,2025-11-01,
+LEAD00400,2024-09-30,Partner Channel,E0100,Qualified,2024-10-03,
+LEAD00401,2024-12-20,Trade Show,E0122,Disqualified,2025-01-04,Wrong Fit
+LEAD00402,2024-12-17,Web Inquiry,E0009,Qualified,2025-01-02,
+LEAD00403,2024-07-12,Partner Channel,E0126,Disqualified,2024-07-16,Unresponsive
+LEAD00404,2024-09-09,Cold Outreach,E0018,Disqualified,2024-09-23,No Budget
+LEAD00405,2024-07-01,Trade Show,E0018,Disqualified,2024-07-10,No Budget
+LEAD00406,2024-05-20,Cold Outreach,E0057,Disqualified,2024-05-29,No Budget
+LEAD00407,2024-02-29,Partner Channel,E0089,Disqualified,2024-03-09,Unresponsive
+LEAD00408,2025-10-31,Partner Channel,E0059,Disqualified,2025-11-17,No Longer Interested
+LEAD00409,2025-12-02,Trade Show,E0173,Disqualified,2025-12-07,Wrong Fit
+LEAD00410,2025-09-26,Referral,E0089,Qualified,2025-10-01,
+LEAD00411,2025-03-11,Cold Outreach,E0009,Disqualified,2025-03-23,Went With Competitor
+LEAD00412,2025-02-14,Referral,E0089,Qualified,2025-02-26,
+LEAD00413,2025-02-24,Trade Show,E0172,Disqualified,2025-03-11,Unresponsive
+LEAD00414,2024-09-06,Trade Show,E0100,Qualified,2024-09-14,
+LEAD00415,2024-08-19,Referral,E0032,Disqualified,2024-08-25,Wrong Fit
+LEAD00416,2024-08-01,Referral,E0089,Disqualified,2024-08-05,Wrong Fit
+LEAD00417,2025-08-11,Cold Outreach,E0100,Disqualified,2025-08-30,No Budget
+LEAD00418,2024-04-05,Partner Channel,E0163,Qualified,2024-04-18,
+LEAD00419,2024-06-01,Web Inquiry,E0100,Disqualified,2024-06-15,No Budget
+LEAD00420,2025-05-27,Partner Channel,E0096,Qualified,2025-05-29,
+LEAD00421,2025-03-29,Trade Show,E0126,Qualified,2025-04-02,
+LEAD00422,2024-02-02,Web Inquiry,E0100,Disqualified,2024-02-15,Wrong Fit
+LEAD00423,2025-07-19,Web Inquiry,E0119,Qualified,2025-07-25,
+LEAD00424,2025-03-17,Trade Show,E0009,Disqualified,2025-03-22,Went With Competitor
+LEAD00425,2025-05-07,Web Inquiry,E0096,Disqualified,2025-05-17,Went With Competitor
+LEAD00426,2025-07-02,Trade Show,E0126,Disqualified,2025-07-22,No Budget
+LEAD00427,2025-01-22,Partner Channel,E0172,Disqualified,2025-02-08,Went With Competitor
+LEAD00428,2024-01-05,Trade Show,E0028,Qualified,2024-01-13,
+LEAD00429,2024-08-16,Partner Channel,E0126,Disqualified,2024-09-04,Went With Competitor
+LEAD00430,2025-04-01,Cold Outreach,E0163,Qualified,2025-04-13,
+LEAD00431,2024-02-03,Web Inquiry,E0096,Disqualified,2024-02-14,No Budget
+LEAD00432,2025-04-04,Cold Outreach,E0172,Qualified,2025-04-19,
+LEAD00433,2024-04-10,Cold Outreach,E0096,Disqualified,2024-04-15,Wrong Fit
+LEAD00434,2024-03-04,Web Inquiry,E0028,Qualified,2024-03-21,
+LEAD00435,2025-01-16,Partner Channel,E0126,Disqualified,2025-02-01,Unresponsive
+LEAD00436,2025-06-12,Web Inquiry,E0119,Disqualified,2025-06-22,No Budget
+LEAD00437,2024-07-15,Web Inquiry,E0028,Qualified,2024-08-02,
+LEAD00438,2024-06-01,Referral,E0057,Qualified,2024-06-12,
+LEAD00439,2024-07-17,Partner Channel,E0052,Disqualified,2024-07-30,No Budget
+LEAD00440,2024-11-21,Referral,E0126,Disqualified,2024-12-07,Wrong Fit
+LEAD00441,2025-05-15,Trade Show,E0163,Disqualified,2025-05-22,No Budget
+LEAD00442,2024-07-13,Cold Outreach,E0119,Disqualified,2024-08-02,Went With Competitor
+LEAD00443,2024-03-04,Cold Outreach,E0161,Disqualified,2024-03-06,Went With Competitor
+LEAD00444,2024-03-19,Trade Show,E0009,Disqualified,2024-04-08,Wrong Fit
+LEAD00445,2024-06-23,Partner Channel,E0014,Disqualified,2024-07-11,No Budget
+LEAD00446,2025-07-28,Web Inquiry,E0028,Disqualified,2025-08-15,Unresponsive
+LEAD00447,2025-08-17,Web Inquiry,E0014,Disqualified,2025-08-27,No Budget
+LEAD00448,2025-05-06,Web Inquiry,E0126,Disqualified,2025-05-15,No Budget
+LEAD00449,2024-07-30,Referral,E0126,Disqualified,2024-08-05,No Longer Interested
+LEAD00450,2025-08-03,Referral,E0122,Disqualified,2025-08-05,Unresponsive
+LEAD00451,2025-06-28,Trade Show,E0057,Qualified,2025-07-16,
+LEAD00452,2024-11-24,Partner Channel,E0028,Disqualified,2024-12-09,Wrong Fit
+LEAD00453,2025-03-15,Cold Outreach,E0028,Qualified,2025-03-29,
+LEAD00454,2024-07-20,Partner Channel,E0161,Qualified,2024-08-01,
+LEAD00455,2025-10-30,Cold Outreach,E0100,Disqualified,2025-11-18,No Longer Interested
+LEAD00456,2025-05-18,Web Inquiry,E0173,Disqualified,2025-05-21,No Budget
+LEAD00457,2025-11-04,Trade Show,E0085,Disqualified,2025-11-06,Went With Competitor
+LEAD00458,2024-09-18,Web Inquiry,E0085,Disqualified,2024-09-24,No Budget
+LEAD00459,2024-05-26,Trade Show,E0161,Disqualified,2024-06-14,No Longer Interested
+LEAD00460,2025-05-16,Partner Channel,E0028,Qualified,2025-05-30,
+LEAD00461,2024-12-30,Web Inquiry,E0059,Qualified,2025-01-04,
+LEAD00462,2024-04-08,Trade Show,E0096,Disqualified,2024-04-28,No Budget
+LEAD00463,2024-11-02,Partner Channel,E0009,Disqualified,2024-11-04,No Longer Interested
+LEAD00464,2024-09-12,Referral,E0173,Qualified,2024-09-22,
+LEAD00465,2025-06-05,Cold Outreach,E0100,Disqualified,2025-06-13,No Longer Interested
+LEAD00466,2025-09-07,Referral,E0052,Disqualified,2025-09-27,Went With Competitor
+LEAD00467,2024-01-16,Referral,E0028,Disqualified,2024-01-19,Went With Competitor
+LEAD00468,2024-07-10,Partner Channel,E0057,Qualified,2024-07-13,
+LEAD00469,2024-12-02,Cold Outreach,E0173,Disqualified,2024-12-19,Wrong Fit
+LEAD00470,2024-05-28,Referral,E0161,Disqualified,2024-06-11,Wrong Fit
+LEAD00471,2024-07-20,Partner Channel,E0057,Qualified,2024-07-27,
+LEAD00472,2024-10-09,Trade Show,E0163,Disqualified,2024-10-16,Wrong Fit
+LEAD00473,2024-05-09,Cold Outreach,E0173,Disqualified,2024-05-16,Unresponsive
+LEAD00474,2024-10-16,Partner Channel,E0009,Qualified,2024-10-26,
+LEAD00475,2024-09-07,Trade Show,E0052,Disqualified,2024-09-21,No Longer Interested
+LEAD00476,2024-04-03,Web Inquiry,E0014,Disqualified,2024-04-11,Went With Competitor
+LEAD00477,2025-05-25,Partner Channel,E0100,Qualified,2025-05-27,
+LEAD00478,2024-12-03,Referral,E0173,Disqualified,2024-12-05,Wrong Fit
+LEAD00479,2025-01-09,Cold Outreach,E0163,Disqualified,2025-01-28,Went With Competitor
+LEAD00480,2024-07-03,Partner Channel,E0172,Disqualified,2024-07-17,Went With Competitor
+LEAD00481,2024-11-05,Referral,E0014,Disqualified,2024-11-22,No Budget
+LEAD00482,2025-12-24,Referral,E0148,Qualified,2025-12-30,
+LEAD00483,2024-12-20,Referral,E0052,Qualified,2025-01-06,
+LEAD00484,2024-11-18,Referral,E0009,Qualified,2024-11-22,
+LEAD00485,2025-08-05,Partner Channel,E0099,Disqualified,2025-08-09,Unresponsive
+LEAD00486,2024-07-07,Trade Show,E0014,Qualified,2024-07-27,
+LEAD00487,2024-09-14,Trade Show,E0014,Qualified,2024-09-27,
+LEAD00488,2024-02-07,Partner Channel,E0126,Qualified,2024-02-15,
+LEAD00489,2024-07-24,Trade Show,E0059,Qualified,2024-08-13,
+LEAD00490,2025-08-13,Referral,E0148,Disqualified,2025-08-16,Unresponsive
+LEAD00491,2024-02-29,Web Inquiry,E0085,Disqualified,2024-03-09,Unresponsive
+LEAD00492,2024-11-21,Trade Show,E0057,Disqualified,2024-11-28,No Budget
+LEAD00493,2024-01-20,Trade Show,E0172,Disqualified,2024-01-27,No Budget
+LEAD00494,2024-06-19,Cold Outreach,E0122,Disqualified,2024-06-24,No Budget
+LEAD00495,2024-09-04,Partner Channel,E0057,Qualified,2024-09-10,
+LEAD00496,2024-06-17,Trade Show,E0028,Qualified,2024-06-30,
+LEAD00497,2025-10-16,Trade Show,E0059,Qualified,2025-11-04,
+LEAD00498,2025-06-08,Cold Outreach,E0052,Disqualified,2025-06-24,No Budget
+LEAD00499,2024-01-13,Referral,E0014,Disqualified,2024-01-28,No Budget
+LEAD00500,2025-02-16,Web Inquiry,E0099,Qualified,2025-03-04,
+LEAD00501,2024-04-10,Web Inquiry,E0018,Qualified,2024-04-18,
+LEAD00502,2024-11-08,Web Inquiry,E0161,Disqualified,2024-11-18,No Longer Interested
+LEAD00503,2024-04-08,Web Inquiry,E0028,Disqualified,2024-04-28,Unresponsive
+LEAD00504,2024-04-02,Referral,E0173,Disqualified,2024-04-19,Unresponsive
+LEAD00505,2024-12-02,Web Inquiry,E0096,Disqualified,2024-12-06,Went With Competitor
+LEAD00506,2024-03-10,Referral,E0122,Disqualified,2024-03-21,Wrong Fit
+LEAD00507,2025-09-13,Web Inquiry,E0119,Qualified,2025-09-25,
+LEAD00508,2024-09-24,Trade Show,E0052,Disqualified,2024-10-04,No Longer Interested
+LEAD00509,2024-05-08,Cold Outreach,E0099,Disqualified,2024-05-24,No Budget
+LEAD00510,2024-03-15,Cold Outreach,E0052,Disqualified,2024-03-31,No Budget
+LEAD00511,2024-11-22,Web Inquiry,E0018,Disqualified,2024-11-29,Went With Competitor
+LEAD00512,2024-01-06,Web Inquiry,E0059,Disqualified,2024-01-10,Went With Competitor
+LEAD00513,2024-12-15,Cold Outreach,E0161,Qualified,2024-12-27,
+LEAD00514,2025-08-02,Referral,E0059,Qualified,2025-08-13,
+LEAD00515,2025-08-26,Partner Channel,E0085,Qualified,2025-09-01,
+LEAD00516,2024-05-03,Partner Channel,E0173,Qualified,2024-05-17,
+LEAD00517,2025-12-16,Web Inquiry,E0119,Qualified,2025-12-31,
+LEAD00518,2025-07-25,Web Inquiry,E0099,Disqualified,2025-08-05,Wrong Fit
+LEAD00519,2024-09-13,Referral,E0100,Qualified,2024-10-02,
+LEAD00520,2024-08-18,Web Inquiry,E0059,Disqualified,2024-09-05,No Budget
+LEAD00521,2024-06-23,Trade Show,E0032,Qualified,2024-06-28,
+LEAD00522,2024-12-11,Trade Show,E0122,Qualified,2024-12-18,
+LEAD00523,2025-12-02,Cold Outreach,E0028,Disqualified,2025-12-17,Wrong Fit
+LEAD00524,2025-08-05,Referral,E0014,Disqualified,2025-08-18,Went With Competitor
+LEAD00525,2024-12-28,Web Inquiry,E0028,Disqualified,2025-01-14,Went With Competitor
+LEAD00526,2025-03-16,Web Inquiry,E0059,Disqualified,2025-03-25,No Budget
+LEAD00527,2025-10-18,Partner Channel,E0096,Qualified,2025-11-03,
+LEAD00528,2024-12-04,Partner Channel,E0057,Disqualified,2024-12-19,No Budget
+LEAD00529,2025-02-21,Web Inquiry,E0085,Qualified,2025-02-26,
+LEAD00530,2024-07-24,Cold Outreach,E0161,Disqualified,2024-08-08,No Longer Interested
+LEAD00531,2025-11-03,Cold Outreach,E0148,Disqualified,2025-11-09,Went With Competitor
+LEAD00532,2024-02-12,Cold Outreach,E0009,Qualified,2024-03-01,
+LEAD00533,2025-07-24,Partner Channel,E0085,Qualified,2025-08-01,
+LEAD00534,2025-06-22,Web Inquiry,E0009,Disqualified,2025-06-24,No Longer Interested
+LEAD00535,2024-12-13,Partner Channel,E0052,Qualified,2024-12-24,
+LEAD00536,2025-08-21,Referral,E0032,Qualified,2025-08-27,
+LEAD00537,2024-10-15,Partner Channel,E0122,Qualified,2024-10-25,
+LEAD00538,2024-07-18,Partner Channel,E0099,Qualified,2024-07-22,
+LEAD00539,2024-08-29,Referral,E0099,Disqualified,2024-09-06,Wrong Fit
+LEAD00540,2024-07-27,Web Inquiry,E0173,Disqualified,2024-08-12,No Longer Interested
+LEAD00541,2025-02-16,Referral,E0100,Qualified,2025-02-23,
+LEAD00542,2025-08-24,Cold Outreach,E0126,Disqualified,2025-08-27,Unresponsive
+LEAD00543,2024-07-24,Referral,E0119,Qualified,2024-08-04,
+LEAD00544,2024-01-11,Cold Outreach,E0032,Disqualified,2024-01-19,No Longer Interested
+LEAD00545,2024-05-27,Web Inquiry,E0032,Qualified,2024-06-09,
+LEAD00546,2024-01-30,Referral,E0059,Disqualified,2024-02-03,Went With Competitor
+LEAD00547,2025-10-12,Cold Outreach,E0100,Disqualified,2025-10-17,Went With Competitor
+LEAD00548,2025-09-06,Web Inquiry,E0172,Qualified,2025-09-22,
+LEAD00549,2024-03-16,Cold Outreach,E0096,Disqualified,2024-03-20,No Longer Interested
+LEAD00550,2024-10-04,Partner Channel,E0122,Qualified,2024-10-09,
+LEAD00551,2024-09-03,Cold Outreach,E0122,Disqualified,2024-09-15,Wrong Fit
+LEAD00552,2024-09-29,Partner Channel,E0148,Disqualified,2024-10-10,Wrong Fit
+LEAD00553,2024-09-22,Trade Show,E0052,Disqualified,2024-09-25,Went With Competitor
+LEAD00554,2024-09-02,Referral,E0099,Disqualified,2024-09-19,Went With Competitor
+LEAD00555,2025-02-10,Cold Outreach,E0089,Disqualified,2025-02-12,Unresponsive
+LEAD00556,2024-07-24,Cold Outreach,E0089,Qualified,2024-08-01,
+LEAD00557,2025-05-21,Trade Show,E0096,Disqualified,2025-06-07,Went With Competitor
+LEAD00558,2025-05-13,Web Inquiry,E0163,Disqualified,2025-05-30,No Budget
+LEAD00559,2024-01-25,Web Inquiry,E0059,Qualified,2024-02-09,
+LEAD00560,2024-03-28,Partner Channel,E0096,Disqualified,2024-04-04,Went With Competitor
+LEAD00561,2025-08-12,Referral,E0014,Disqualified,2025-08-23,Unresponsive
+LEAD00562,2025-09-29,Referral,E0014,Qualified,2025-10-07,
+LEAD00563,2024-11-07,Partner Channel,E0172,Qualified,2024-11-15,
+LEAD00564,2025-12-26,Referral,E0148,Open,,
+LEAD00565,2024-05-24,Partner Channel,E0018,Qualified,2024-06-09,
+LEAD00566,2025-08-09,Web Inquiry,E0100,Disqualified,2025-08-17,No Longer Interested
+LEAD00567,2024-03-29,Web Inquiry,E0032,Disqualified,2024-04-06,No Longer Interested
+LEAD00568,2024-06-07,Cold Outreach,E0119,Disqualified,2024-06-25,No Budget
+LEAD00569,2024-08-11,Cold Outreach,E0057,Disqualified,2024-08-30,No Longer Interested
+LEAD00570,2025-07-04,Cold Outreach,E0126,Qualified,2025-07-15,
+LEAD00571,2024-01-13,Trade Show,E0089,Disqualified,2024-01-19,Wrong Fit
+LEAD00572,2025-09-08,Web Inquiry,E0014,Qualified,2025-09-27,
+LEAD00573,2025-04-02,Trade Show,E0014,Qualified,2025-04-15,
+LEAD00574,2024-03-24,Trade Show,E0009,Disqualified,2024-04-03,Wrong Fit
+LEAD00575,2025-02-28,Web Inquiry,E0096,Qualified,2025-03-03,
+LEAD00576,2025-03-22,Partner Channel,E0052,Disqualified,2025-04-10,No Longer Interested
+LEAD00577,2024-07-08,Cold Outreach,E0173,Disqualified,2024-07-28,Went With Competitor
+LEAD00578,2024-04-09,Trade Show,E0089,Qualified,2024-04-14,
+LEAD00579,2025-05-30,Referral,E0099,Disqualified,2025-06-14,Wrong Fit
+LEAD00580,2025-04-20,Web Inquiry,E0172,Disqualified,2025-05-08,No Budget
+LEAD00581,2025-11-12,Cold Outreach,E0122,Disqualified,2025-11-22,Unresponsive
+LEAD00582,2024-05-04,Web Inquiry,E0057,Disqualified,2024-05-12,Went With Competitor
+LEAD00583,2025-12-20,Referral,E0009,Qualified,2025-12-31,
+LEAD00584,2024-03-20,Partner Channel,E0028,Disqualified,2024-03-28,No Longer Interested
+LEAD00585,2024-02-24,Web Inquiry,E0057,Qualified,2024-03-05,
+LEAD00586,2024-09-19,Cold Outreach,E0028,Disqualified,2024-09-29,Went With Competitor
+LEAD00587,2024-10-21,Web Inquiry,E0009,Qualified,2024-10-25,
+LEAD00588,2024-08-22,Cold Outreach,E0009,Disqualified,2024-09-02,No Longer Interested
+LEAD00589,2025-07-16,Partner Channel,E0014,Qualified,2025-08-03,
+LEAD00590,2025-03-14,Partner Channel,E0163,Disqualified,2025-03-23,Wrong Fit
+LEAD00591,2025-02-25,Cold Outreach,E0161,Qualified,2025-03-08,
+LEAD00592,2025-01-17,Cold Outreach,E0148,Qualified,2025-01-28,
+LEAD00593,2025-09-23,Trade Show,E0059,Qualified,2025-10-06,
+LEAD00594,2025-08-08,Cold Outreach,E0085,Disqualified,2025-08-11,Unresponsive
+LEAD00595,2025-05-19,Partner Channel,E0100,Disqualified,2025-06-05,No Longer Interested
+LEAD00596,2024-08-18,Web Inquiry,E0163,Qualified,2024-08-27,
+LEAD00597,2024-02-09,Web Inquiry,E0052,Disqualified,2024-02-15,No Longer Interested
+LEAD00598,2024-02-20,Web Inquiry,E0173,Disqualified,2024-03-11,No Longer Interested
+LEAD00599,2025-09-13,Web Inquiry,E0089,Disqualified,2025-09-18,Went With Competitor
+LEAD00600,2025-06-09,Referral,E0163,Disqualified,2025-06-12,Went With Competitor
+LEAD00601,2024-01-22,Cold Outreach,E0122,Disqualified,2024-02-02,No Budget
+LEAD00602,2024-08-12,Web Inquiry,E0172,Disqualified,2024-08-14,Went With Competitor
+LEAD00603,2025-02-08,Referral,E0163,Disqualified,2025-02-18,No Budget
+LEAD00604,2024-12-04,Partner Channel,E0122,Disqualified,2024-12-19,No Longer Interested
+LEAD00605,2024-03-17,Web Inquiry,E0148,Qualified,2024-03-25,
+LEAD00606,2024-04-08,Cold Outreach,E0014,Qualified,2024-04-16,
+LEAD00607,2025-07-14,Trade Show,E0018,Disqualified,2025-08-02,No Longer Interested
+LEAD00608,2024-04-10,Partner Channel,E0126,Disqualified,2024-04-27,Unresponsive
+LEAD00609,2024-04-25,Web Inquiry,E0059,Qualified,2024-05-07,
+LEAD00610,2024-10-27,Cold Outreach,E0119,Disqualified,2024-11-12,No Budget
+LEAD00611,2025-10-06,Partner Channel,E0032,Qualified,2025-10-14,
+LEAD00612,2025-09-19,Cold Outreach,E0099,Disqualified,2025-10-08,No Longer Interested
+LEAD00613,2024-09-12,Trade Show,E0014,Qualified,2024-09-24,
+LEAD00614,2024-03-04,Trade Show,E0018,Disqualified,2024-03-17,No Budget
+LEAD00615,2025-07-23,Referral,E0028,Disqualified,2025-08-12,Went With Competitor
+LEAD00616,2024-12-16,Referral,E0122,Disqualified,2024-12-23,Wrong Fit
+LEAD00617,2025-11-07,Referral,E0163,Disqualified,2025-11-27,Went With Competitor
+LEAD00618,2024-03-25,Web Inquiry,E0172,Disqualified,2024-04-01,No Budget
+LEAD00619,2024-05-15,Partner Channel,E0163,Qualified,2024-05-24,
+LEAD00620,2024-08-20,Referral,E0173,Qualified,2024-08-28,
+LEAD00621,2025-11-20,Cold Outreach,E0009,Disqualified,2025-12-04,Went With Competitor
+LEAD00622,2025-09-10,Partner Channel,E0014,Disqualified,2025-09-15,No Longer Interested
+LEAD00623,2025-01-27,Referral,E0052,Disqualified,2025-02-08,Unresponsive
+LEAD00624,2025-09-10,Referral,E0119,Disqualified,2025-09-17,Unresponsive
+LEAD00625,2024-09-10,Partner Channel,E0122,Disqualified,2024-09-26,Unresponsive
+LEAD00626,2024-07-06,Partner Channel,E0009,Qualified,2024-07-13,
+LEAD00627,2025-10-15,Trade Show,E0018,Qualified,2025-10-22,
+LEAD00628,2025-10-07,Referral,E0018,Qualified,2025-10-16,
+LEAD00629,2025-05-28,Cold Outreach,E0148,Disqualified,2025-06-10,No Budget
+LEAD00630,2025-03-05,Cold Outreach,E0126,Disqualified,2025-03-13,No Budget
+LEAD00631,2024-10-09,Referral,E0032,Disqualified,2024-10-16,No Budget
+LEAD00632,2025-02-05,Referral,E0014,Disqualified,2025-02-10,Wrong Fit
+LEAD00633,2025-11-26,Web Inquiry,E0018,Qualified,2025-11-28,
+LEAD00634,2025-12-11,Referral,E0163,Open,,
+LEAD00635,2024-02-10,Referral,E0085,Disqualified,2024-02-20,No Longer Interested
+LEAD00636,2025-04-03,Referral,E0018,Disqualified,2025-04-20,Unresponsive
+LEAD00637,2024-02-12,Cold Outreach,E0032,Qualified,2024-02-28,
+LEAD00638,2024-10-30,Referral,E0009,Disqualified,2024-11-04,No Longer Interested
+LEAD00639,2024-09-24,Web Inquiry,E0148,Disqualified,2024-10-11,Wrong Fit
+LEAD00640,2024-12-15,Web Inquiry,E0148,Disqualified,2024-12-28,Went With Competitor
+LEAD00641,2024-02-09,Web Inquiry,E0018,Disqualified,2024-02-11,No Longer Interested
+LEAD00642,2025-12-14,Referral,E0096,Disqualified,2025-12-17,Unresponsive
+LEAD00643,2024-07-26,Partner Channel,E0059,Disqualified,2024-08-07,Unresponsive
+LEAD00644,2024-11-27,Partner Channel,E0096,Disqualified,2024-12-06,Went With Competitor
+LEAD00645,2024-09-25,Trade Show,E0089,Disqualified,2024-10-04,Wrong Fit
+LEAD00646,2024-06-30,Web Inquiry,E0018,Disqualified,2024-07-11,Wrong Fit
+LEAD00647,2025-08-22,Trade Show,E0009,Disqualified,2025-08-25,No Budget
+LEAD00648,2024-12-22,Cold Outreach,E0122,Disqualified,2025-01-03,Wrong Fit
+LEAD00649,2025-09-10,Web Inquiry,E0172,Disqualified,2025-09-13,Wrong Fit
+LEAD00650,2024-06-05,Web Inquiry,E0085,Disqualified,2024-06-25,Went With Competitor
+LEAD00651,2025-01-25,Referral,E0172,Disqualified,2025-02-14,No Budget
+LEAD00652,2025-01-26,Cold Outreach,E0100,Disqualified,2025-02-10,No Budget
+LEAD00653,2025-11-19,Partner Channel,E0126,Disqualified,2025-11-29,Went With Competitor
+LEAD00654,2025-09-19,Partner Channel,E0059,Qualified,2025-10-04,
+LEAD00655,2025-12-26,Partner Channel,E0163,Disqualified,2025-12-31,No Longer Interested
+LEAD00656,2024-02-07,Partner Channel,E0126,Qualified,2024-02-23,
+LEAD00657,2024-07-14,Web Inquiry,E0163,Disqualified,2024-07-17,No Budget
+LEAD00658,2024-05-19,Partner Channel,E0122,Qualified,2024-05-28,
+LEAD00659,2025-09-02,Partner Channel,E0028,Disqualified,2025-09-15,Wrong Fit
+LEAD00660,2025-06-27,Partner Channel,E0085,Disqualified,2025-07-11,No Budget
+LEAD00661,2024-03-06,Cold Outreach,E0028,Disqualified,2024-03-09,Went With Competitor
+LEAD00662,2024-05-13,Web Inquiry,E0099,Qualified,2024-05-18,
+LEAD00663,2024-07-09,Cold Outreach,E0100,Qualified,2024-07-17,
+LEAD00664,2024-05-30,Partner Channel,E0085,Disqualified,2024-06-06,Unresponsive
+LEAD00665,2025-06-10,Partner Channel,E0028,Qualified,2025-06-15,
+LEAD00666,2025-03-06,Web Inquiry,E0096,Disqualified,2025-03-24,No Longer Interested
+LEAD00667,2025-01-28,Referral,E0018,Qualified,2025-02-05,
+LEAD00668,2024-12-27,Partner Channel,E0172,Disqualified,2025-01-07,Unresponsive
+LEAD00669,2025-09-02,Trade Show,E0057,Disqualified,2025-09-22,No Longer Interested
+LEAD00670,2024-01-23,Trade Show,E0126,Disqualified,2024-02-02,No Longer Interested
+LEAD00671,2024-06-13,Partner Channel,E0009,Disqualified,2024-06-25,No Longer Interested
+LEAD00672,2024-04-01,Web Inquiry,E0172,Disqualified,2024-04-21,No Longer Interested
+LEAD00673,2025-08-26,Web Inquiry,E0085,Disqualified,2025-09-12,Unresponsive
+LEAD00674,2025-07-16,Referral,E0059,Disqualified,2025-08-05,Went With Competitor
+LEAD00675,2024-08-17,Trade Show,E0028,Disqualified,2024-08-30,No Budget
+LEAD00676,2024-11-19,Partner Channel,E0173,Qualified,2024-11-24,
+LEAD00677,2025-10-03,Referral,E0014,Qualified,2025-10-17,
+LEAD00678,2024-07-14,Trade Show,E0126,Qualified,2024-07-27,
+LEAD00679,2024-10-03,Referral,E0099,Disqualified,2024-10-08,Unresponsive
+LEAD00680,2024-07-12,Trade Show,E0096,Disqualified,2024-07-16,Wrong Fit
+LEAD00681,2024-06-15,Cold Outreach,E0148,Disqualified,2024-06-30,Unresponsive
+LEAD00682,2025-05-10,Partner Channel,E0032,Qualified,2025-05-17,
+LEAD00683,2024-02-13,Web Inquiry,E0096,Disqualified,2024-03-01,Went With Competitor
+LEAD00684,2025-05-07,Web Inquiry,E0009,Disqualified,2025-05-13,Unresponsive
+LEAD00685,2024-04-06,Cold Outreach,E0052,Disqualified,2024-04-16,Unresponsive
+LEAD00686,2025-05-31,Cold Outreach,E0173,Disqualified,2025-06-10,No Budget
+LEAD00687,2025-11-02,Referral,E0085,Disqualified,2025-11-10,No Budget
+LEAD00688,2025-04-20,Cold Outreach,E0014,Qualified,2025-05-01,
+LEAD00689,2024-05-28,Referral,E0085,Disqualified,2024-06-11,No Longer Interested
+LEAD00690,2024-12-15,Cold Outreach,E0096,Disqualified,2024-12-19,Unresponsive
+LEAD00691,2024-07-03,Referral,E0028,Disqualified,2024-07-15,Wrong Fit
+LEAD00692,2024-10-24,Referral,E0052,Qualified,2024-11-01,
+LEAD00693,2024-06-25,Web Inquiry,E0032,Qualified,2024-07-13,
+LEAD00694,2024-07-16,Trade Show,E0172,Disqualified,2024-08-05,Went With Competitor
+LEAD00695,2025-05-19,Cold Outreach,E0096,Disqualified,2025-05-22,Wrong Fit
+LEAD00696,2024-06-11,Trade Show,E0059,Disqualified,2024-07-01,No Longer Interested
+LEAD00697,2025-12-16,Cold Outreach,E0163,Open,,
+LEAD00698,2025-10-24,Cold Outreach,E0032,Qualified,2025-11-13,
+LEAD00699,2024-07-02,Partner Channel,E0032,Qualified,2024-07-17,
+LEAD00700,2024-01-27,Cold Outreach,E0122,Disqualified,2024-02-08,Unresponsive
+LEAD00701,2024-07-02,Referral,E0089,Disqualified,2024-07-10,No Budget
+LEAD00702,2025-05-13,Partner Channel,E0052,Disqualified,2025-06-02,No Longer Interested
+LEAD00703,2024-12-25,Referral,E0172,Disqualified,2025-01-09,Wrong Fit
+LEAD00704,2024-06-14,Web Inquiry,E0057,Disqualified,2024-06-28,Wrong Fit
+LEAD00705,2024-12-19,Partner Channel,E0057,Disqualified,2025-01-08,No Longer Interested
+LEAD00706,2024-12-02,Trade Show,E0085,Disqualified,2024-12-12,No Longer Interested
+LEAD00707,2025-05-19,Cold Outreach,E0028,Disqualified,2025-06-04,Went With Competitor
+LEAD00708,2025-11-21,Referral,E0089,Qualified,2025-12-10,
+LEAD00709,2025-12-08,Web Inquiry,E0119,Disqualified,2025-12-20,Went With Competitor
+LEAD00710,2025-11-30,Partner Channel,E0099,Disqualified,2025-12-17,Unresponsive
+LEAD00711,2024-09-18,Web Inquiry,E0100,Qualified,2024-10-06,
+LEAD00712,2024-06-29,Partner Channel,E0059,Disqualified,2024-07-10,No Longer Interested
+LEAD00713,2024-11-29,Cold Outreach,E0173,Disqualified,2024-12-12,No Budget
+LEAD00714,2024-02-04,Cold Outreach,E0032,Qualified,2024-02-16,
+LEAD00715,2024-03-04,Web Inquiry,E0032,Qualified,2024-03-21,
+LEAD00716,2025-12-09,Web Inquiry,E0085,Disqualified,2025-12-25,Wrong Fit
+LEAD00717,2024-10-18,Cold Outreach,E0085,Qualified,2024-11-02,
+LEAD00718,2025-05-03,Cold Outreach,E0096,Disqualified,2025-05-23,Unresponsive
+LEAD00719,2024-08-30,Cold Outreach,E0089,Qualified,2024-09-12,
+LEAD00720,2025-08-29,Trade Show,E0126,Disqualified,2025-09-07,No Longer Interested
+LEAD00721,2025-01-10,Cold Outreach,E0100,Disqualified,2025-01-18,Went With Competitor
+LEAD00722,2025-08-28,Web Inquiry,E0172,Disqualified,2025-08-31,Went With Competitor
+LEAD00723,2025-04-07,Cold Outreach,E0173,Qualified,2025-04-11,
+LEAD00724,2024-11-23,Cold Outreach,E0099,Disqualified,2024-12-12,Unresponsive
+LEAD00725,2024-09-04,Referral,E0172,Disqualified,2024-09-16,Went With Competitor
+LEAD00726,2025-03-16,Trade Show,E0052,Disqualified,2025-03-30,Went With Competitor
+LEAD00727,2024-06-12,Referral,E0099,Qualified,2024-06-27,
+LEAD00728,2024-06-10,Web Inquiry,E0014,Qualified,2024-06-17,
+LEAD00729,2024-01-19,Cold Outreach,E0089,Disqualified,2024-01-31,Unresponsive
+LEAD00730,2024-06-26,Partner Channel,E0085,Disqualified,2024-07-03,Unresponsive
+LEAD00731,2025-02-14,Trade Show,E0119,Qualified,2025-03-01,
+LEAD00732,2025-01-16,Partner Channel,E0052,Qualified,2025-01-21,
+LEAD00733,2024-01-06,Referral,E0172,Disqualified,2024-01-15,Went With Competitor
+LEAD00734,2025-09-29,Trade Show,E0119,Qualified,2025-10-19,
+LEAD00735,2025-10-07,Cold Outreach,E0173,Qualified,2025-10-17,
+LEAD00736,2024-10-14,Partner Channel,E0100,Qualified,2024-10-29,
+LEAD00737,2024-01-04,Cold Outreach,E0161,Qualified,2024-01-13,
+LEAD00738,2024-08-13,Partner Channel,E0173,Qualified,2024-08-23,
+LEAD00739,2025-10-25,Referral,E0173,Disqualified,2025-10-31,Went With Competitor
+LEAD00740,2024-12-17,Referral,E0028,Qualified,2025-01-01,
+LEAD00741,2025-08-15,Cold Outreach,E0122,Disqualified,2025-08-23,Wrong Fit
+LEAD00742,2024-03-24,Referral,E0052,Qualified,2024-04-07,
+LEAD00743,2025-12-22,Referral,E0085,Open,,
+LEAD00744,2025-01-20,Web Inquiry,E0126,Disqualified,2025-02-08,Went With Competitor
+LEAD00745,2025-06-24,Partner Channel,E0009,Disqualified,2025-07-01,No Budget
+LEAD00746,2025-06-04,Cold Outreach,E0014,Qualified,2025-06-16,
+LEAD00747,2025-02-22,Trade Show,E0163,Qualified,2025-03-02,
+LEAD00748,2024-12-12,Partner Channel,E0028,Disqualified,2024-12-29,Wrong Fit
+LEAD00749,2025-08-22,Partner Channel,E0100,Disqualified,2025-08-27,No Longer Interested
+LEAD00750,2025-07-31,Web Inquiry,E0100,Disqualified,2025-08-16,Went With Competitor
+LEAD00751,2024-10-07,Referral,E0085,Disqualified,2024-10-11,Went With Competitor
+LEAD00752,2024-05-28,Partner Channel,E0089,Disqualified,2024-06-05,Wrong Fit
+LEAD00753,2024-02-16,Referral,E0057,Disqualified,2024-03-04,Wrong Fit
+LEAD00754,2025-06-22,Cold Outreach,E0032,Disqualified,2025-06-29,Unresponsive
+LEAD00755,2024-10-18,Cold Outreach,E0028,Disqualified,2024-10-27,No Budget
+LEAD00756,2025-08-24,Cold Outreach,E0173,Disqualified,2025-09-04,Unresponsive
+LEAD00757,2024-02-24,Referral,E0009,Disqualified,2024-03-07,Went With Competitor
+LEAD00758,2025-06-10,Cold Outreach,E0122,Disqualified,2025-06-22,No Budget
+LEAD00759,2024-11-17,Cold Outreach,E0018,Disqualified,2024-11-22,Went With Competitor
+LEAD00760,2025-07-04,Partner Channel,E0119,Disqualified,2025-07-17,No Longer Interested
+LEAD00761,2025-07-31,Partner Channel,E0163,Disqualified,2025-08-19,Went With Competitor
+LEAD00762,2025-09-01,Cold Outreach,E0173,Disqualified,2025-09-14,Unresponsive
+LEAD00763,2025-03-16,Trade Show,E0059,Disqualified,2025-03-24,Went With Competitor
+LEAD00764,2024-02-04,Referral,E0148,Disqualified,2024-02-06,Wrong Fit
+LEAD00765,2025-12-27,Referral,E0057,Open,,
+LEAD00766,2024-12-05,Referral,E0057,Qualified,2024-12-21,
+LEAD00767,2025-04-27,Referral,E0148,Qualified,2025-05-13,
+LEAD00768,2025-02-25,Referral,E0163,Disqualified,2025-03-06,No Longer Interested
+LEAD00769,2025-06-06,Web Inquiry,E0148,Disqualified,2025-06-10,Wrong Fit
+LEAD00770,2024-09-26,Partner Channel,E0122,Qualified,2024-10-13,
+LEAD00771,2025-12-30,Cold Outreach,E0014,Disqualified,2025-12-31,Unresponsive
+LEAD00772,2024-11-16,Partner Channel,E0089,Disqualified,2024-11-28,No Budget
+LEAD00773,2025-02-28,Web Inquiry,E0163,Disqualified,2025-03-05,No Longer Interested
+LEAD00774,2025-11-15,Partner Channel,E0028,Qualified,2025-12-05,
+LEAD00775,2025-12-15,Trade Show,E0122,Open,,
+LEAD00776,2024-01-22,Trade Show,E0172,Qualified,2024-01-26,
+LEAD00777,2024-01-15,Trade Show,E0173,Disqualified,2024-01-18,No Budget
+LEAD00778,2025-12-25,Partner Channel,E0119,Open,,
+LEAD00779,2025-02-18,Partner Channel,E0014,Qualified,2025-03-05,
+LEAD00780,2025-10-06,Referral,E0085,Disqualified,2025-10-17,No Budget
+LEAD00781,2024-12-19,Web Inquiry,E0096,Disqualified,2025-01-01,No Budget
+LEAD00782,2024-04-25,Cold Outreach,E0161,Disqualified,2024-05-09,Unresponsive
+LEAD00783,2024-01-19,Cold Outreach,E0059,Disqualified,2024-02-06,Unresponsive
+LEAD00784,2024-12-05,Referral,E0057,Disqualified,2024-12-23,No Longer Interested
+LEAD00785,2025-11-06,Referral,E0172,Disqualified,2025-11-14,No Budget
+LEAD00786,2025-08-23,Web Inquiry,E0161,Qualified,2025-09-12,
+LEAD00787,2024-05-11,Trade Show,E0172,Disqualified,2024-05-20,Unresponsive
+LEAD00788,2024-09-05,Web Inquiry,E0059,Disqualified,2024-09-17,Wrong Fit
+LEAD00789,2024-06-24,Trade Show,E0122,Disqualified,2024-07-06,Unresponsive
+LEAD00790,2025-02-16,Referral,E0028,Qualified,2025-02-23,
+LEAD00791,2024-04-22,Web Inquiry,E0028,Qualified,2024-05-09,
+LEAD00792,2024-10-08,Partner Channel,E0009,Qualified,2024-10-28,
+LEAD00793,2024-05-23,Trade Show,E0119,Disqualified,2024-06-09,No Longer Interested
+LEAD00794,2025-11-03,Partner Channel,E0014,Disqualified,2025-11-06,Wrong Fit
+LEAD00795,2025-04-17,Partner Channel,E0161,Disqualified,2025-05-06,Went With Competitor
+LEAD00796,2024-10-18,Web Inquiry,E0059,Qualified,2024-10-29,
+LEAD00797,2024-08-31,Partner Channel,E0161,Qualified,2024-09-14,
+LEAD00798,2024-11-24,Cold Outreach,E0009,Disqualified,2024-12-04,Wrong Fit
+LEAD00799,2024-11-01,Cold Outreach,E0100,Disqualified,2024-11-06,Unresponsive
+LEAD00800,2024-11-11,Partner Channel,E0052,Qualified,2024-11-16,
+LEAD00801,2024-05-07,Web Inquiry,E0099,Qualified,2024-05-13,
+LEAD00802,2025-01-21,Referral,E0089,Qualified,2025-01-28,
+LEAD00803,2025-05-28,Web Inquiry,E0096,Disqualified,2025-06-09,Wrong Fit
+LEAD00804,2025-11-07,Cold Outreach,E0057,Disqualified,2025-11-13,No Longer Interested
+LEAD00805,2025-11-22,Referral,E0173,Disqualified,2025-12-01,No Longer Interested
+LEAD00806,2025-03-10,Referral,E0052,Disqualified,2025-03-28,No Budget
+LEAD00807,2025-12-15,Trade Show,E0126,Open,,
+LEAD00808,2024-01-14,Partner Channel,E0100,Disqualified,2024-01-25,Unresponsive
+LEAD00809,2024-04-01,Cold Outreach,E0173,Qualified,2024-04-10,
+LEAD00810,2025-02-25,Partner Channel,E0148,Disqualified,2025-03-12,Unresponsive
+LEAD00811,2024-08-20,Web Inquiry,E0057,Disqualified,2024-08-22,No Budget
+LEAD00812,2024-02-07,Web Inquiry,E0089,Disqualified,2024-02-22,Wrong Fit
+LEAD00813,2025-01-20,Referral,E0172,Qualified,2025-01-23,
+LEAD00814,2024-06-20,Partner Channel,E0057,Qualified,2024-06-30,
+LEAD00815,2025-10-14,Web Inquiry,E0172,Qualified,2025-10-24,
+LEAD00816,2025-11-17,Referral,E0119,Disqualified,2025-12-06,No Budget
+LEAD00817,2024-11-12,Trade Show,E0163,Qualified,2024-11-24,
+LEAD00818,2024-01-08,Referral,E0096,Qualified,2024-01-14,
+LEAD00819,2025-03-04,Web Inquiry,E0096,Disqualified,2025-03-18,Went With Competitor
+LEAD00820,2025-12-18,Referral,E0122,Open,,
+LEAD00821,2025-12-05,Partner Channel,E0122,Disqualified,2025-12-08,Went With Competitor
+LEAD00822,2024-04-07,Cold Outreach,E0032,Qualified,2024-04-26,
+LEAD00823,2024-02-25,Referral,E0052,Disqualified,2024-03-15,No Budget
+LEAD00824,2024-07-19,Partner Channel,E0052,Disqualified,2024-08-02,No Budget
+LEAD00825,2024-12-30,Trade Show,E0032,Qualified,2025-01-07,
+LEAD00826,2024-09-25,Cold Outreach,E0119,Disqualified,2024-10-09,Unresponsive
+LEAD00827,2024-07-09,Web Inquiry,E0148,Disqualified,2024-07-14,No Budget
+LEAD00828,2025-08-25,Cold Outreach,E0163,Disqualified,2025-09-07,No Budget
+LEAD00829,2024-02-07,Trade Show,E0099,Disqualified,2024-02-12,Wrong Fit
+LEAD00830,2025-10-28,Referral,E0163,Disqualified,2025-11-10,Unresponsive
+LEAD00831,2024-07-06,Trade Show,E0009,Disqualified,2024-07-08,No Budget
+LEAD00832,2025-07-17,Web Inquiry,E0173,Disqualified,2025-08-05,No Longer Interested
+LEAD00833,2024-01-27,Partner Channel,E0099,Disqualified,2024-02-15,No Longer Interested
+LEAD00834,2024-07-18,Web Inquiry,E0163,Disqualified,2024-07-29,Unresponsive
+LEAD00835,2024-04-21,Partner Channel,E0096,Disqualified,2024-05-10,No Longer Interested
+LEAD00836,2025-09-22,Cold Outreach,E0014,Disqualified,2025-09-26,No Budget
+LEAD00837,2024-04-24,Referral,E0096,Disqualified,2024-05-05,Unresponsive
+LEAD00838,2024-11-20,Partner Channel,E0028,Disqualified,2024-12-06,No Longer Interested
+LEAD00839,2025-05-16,Referral,E0099,Disqualified,2025-05-31,Wrong Fit
+LEAD00840,2024-02-18,Cold Outreach,E0119,Disqualified,2024-03-05,No Budget
+LEAD00841,2024-11-17,Partner Channel,E0100,Qualified,2024-12-06,
+LEAD00842,2024-12-29,Web Inquiry,E0161,Qualified,2025-01-14,
+LEAD00843,2024-10-20,Partner Channel,E0122,Disqualified,2024-11-01,No Longer Interested
+LEAD00844,2024-02-04,Referral,E0032,Qualified,2024-02-15,
+LEAD00845,2025-04-08,Referral,E0122,Qualified,2025-04-10,
+LEAD00846,2024-10-28,Referral,E0096,Qualified,2024-11-11,
+LEAD00847,2025-10-27,Partner Channel,E0122,Disqualified,2025-11-09,No Budget
+LEAD00848,2025-02-02,Web Inquiry,E0085,Qualified,2025-02-18,
+LEAD00849,2024-09-19,Referral,E0014,Qualified,2024-09-30,
+LEAD00850,2024-05-06,Referral,E0089,Qualified,2024-05-15,
+LEAD00851,2025-06-06,Web Inquiry,E0173,Qualified,2025-06-17,
+LEAD00852,2024-02-10,Cold Outreach,E0161,Disqualified,2024-02-21,Unresponsive
+LEAD00853,2024-11-17,Web Inquiry,E0172,Disqualified,2024-12-03,Unresponsive
+LEAD00854,2025-10-23,Web Inquiry,E0052,Disqualified,2025-10-30,Unresponsive
+LEAD00855,2025-11-08,Partner Channel,E0032,Qualified,2025-11-26,
+LEAD00856,2025-04-29,Referral,E0122,Qualified,2025-05-01,
+LEAD00857,2024-08-18,Referral,E0057,Disqualified,2024-08-27,Went With Competitor
+LEAD00858,2024-11-02,Cold Outreach,E0148,Disqualified,2024-11-06,No Longer Interested
+LEAD00859,2025-02-13,Web Inquiry,E0100,Qualified,2025-03-02,
+LEAD00860,2025-07-05,Web Inquiry,E0059,Qualified,2025-07-10,
+LEAD00861,2024-10-30,Referral,E0085,Disqualified,2024-11-17,Unresponsive
+LEAD00862,2024-09-05,Cold Outreach,E0014,Disqualified,2024-09-13,Went With Competitor
+LEAD00863,2024-01-18,Web Inquiry,E0032,Disqualified,2024-02-04,Went With Competitor
+LEAD00864,2025-07-11,Referral,E0172,Disqualified,2025-07-27,Wrong Fit
+LEAD00865,2025-02-26,Cold Outreach,E0085,Disqualified,2025-03-08,Wrong Fit
+LEAD00866,2025-03-06,Web Inquiry,E0085,Qualified,2025-03-17,
+LEAD00867,2025-11-21,Partner Channel,E0126,Qualified,2025-11-28,
+LEAD00868,2024-08-05,Trade Show,E0100,Disqualified,2024-08-24,Wrong Fit
+LEAD00869,2025-10-22,Partner Channel,E0018,Qualified,2025-11-11,
+LEAD00870,2025-07-03,Cold Outreach,E0032,Disqualified,2025-07-16,Unresponsive
+LEAD00871,2025-11-12,Partner Channel,E0163,Disqualified,2025-11-14,Went With Competitor
+LEAD00872,2024-10-21,Web Inquiry,E0173,Qualified,2024-11-06,
+LEAD00873,2024-07-31,Partner Channel,E0028,Qualified,2024-08-06,
+LEAD00874,2025-04-06,Cold Outreach,E0163,Disqualified,2025-04-23,No Budget
+LEAD00875,2025-05-16,Referral,E0100,Qualified,2025-05-24,
+LEAD00876,2025-03-05,Trade Show,E0032,Disqualified,2025-03-14,Wrong Fit
+LEAD00877,2024-08-15,Web Inquiry,E0014,Qualified,2024-08-31,
+LEAD00878,2025-01-18,Web Inquiry,E0173,Qualified,2025-01-28,
+LEAD00879,2025-12-08,Partner Channel,E0119,Disqualified,2025-12-13,No Budget
+LEAD00880,2025-07-24,Cold Outreach,E0173,Qualified,2025-07-26,
+LEAD00881,2024-09-20,Referral,E0163,Disqualified,2024-09-29,No Budget
+LEAD00882,2024-04-11,Trade Show,E0014,Qualified,2024-04-22,
+LEAD00883,2024-12-11,Trade Show,E0018,Disqualified,2024-12-26,Wrong Fit
+LEAD00884,2024-01-31,Partner Channel,E0119,Qualified,2024-02-13,
+LEAD00885,2025-11-01,Trade Show,E0119,Disqualified,2025-11-06,Wrong Fit
+LEAD00886,2024-02-06,Web Inquiry,E0173,Qualified,2024-02-19,
+LEAD00887,2025-10-14,Web Inquiry,E0163,Disqualified,2025-10-28,Wrong Fit
+LEAD00888,2024-12-05,Cold Outreach,E0096,Disqualified,2024-12-22,Wrong Fit
+LEAD00889,2024-02-05,Referral,E0096,Qualified,2024-02-14,
+LEAD00890,2024-04-22,Partner Channel,E0163,Disqualified,2024-05-11,Went With Competitor
+LEAD00891,2024-07-18,Referral,E0032,Qualified,2024-07-25,
+LEAD00892,2025-06-18,Referral,E0122,Disqualified,2025-06-22,Unresponsive
+LEAD00893,2025-02-14,Trade Show,E0163,Disqualified,2025-02-16,Unresponsive
+LEAD00894,2024-09-17,Cold Outreach,E0028,Qualified,2024-09-23,
+LEAD00895,2025-05-07,Referral,E0173,Qualified,2025-05-14,
+LEAD00896,2024-11-14,Trade Show,E0059,Disqualified,2024-12-03,Went With Competitor
+LEAD00897,2025-05-05,Web Inquiry,E0089,Disqualified,2025-05-17,Went With Competitor
+LEAD00898,2024-04-12,Cold Outreach,E0014,Disqualified,2024-04-30,No Longer Interested
+LEAD00899,2025-08-21,Cold Outreach,E0161,Qualified,2025-09-05,
+LEAD00900,2024-11-24,Cold Outreach,E0148,Disqualified,2024-12-13,Unresponsive
+LEAD00901,2024-04-09,Web Inquiry,E0173,Qualified,2024-04-20,
+LEAD00902,2025-09-19,Referral,E0089,Disqualified,2025-09-23,No Longer Interested
+LEAD00903,2025-08-26,Web Inquiry,E0172,Disqualified,2025-09-10,Went With Competitor
+LEAD00904,2025-03-21,Referral,E0028,Disqualified,2025-04-10,No Budget
+LEAD00905,2024-09-17,Referral,E0173,Disqualified,2024-09-28,No Longer Interested
+LEAD00906,2024-01-23,Web Inquiry,E0099,Qualified,2024-02-04,
+LEAD00907,2025-06-13,Trade Show,E0163,Qualified,2025-06-17,
+LEAD00908,2025-03-06,Referral,E0161,Qualified,2025-03-08,
+LEAD00909,2025-08-15,Partner Channel,E0173,Disqualified,2025-08-20,Wrong Fit
+LEAD00910,2025-07-26,Partner Channel,E0089,Qualified,2025-07-30,
+LEAD00911,2024-12-24,Web Inquiry,E0057,Disqualified,2024-12-27,No Budget
+LEAD00912,2025-03-11,Cold Outreach,E0059,Disqualified,2025-03-13,Unresponsive
+LEAD00913,2024-09-26,Web Inquiry,E0173,Qualified,2024-10-06,
+LEAD00914,2024-09-19,Referral,E0119,Disqualified,2024-10-02,Unresponsive
+LEAD00915,2024-02-22,Trade Show,E0009,Disqualified,2024-03-10,Went With Competitor
+LEAD00916,2025-06-07,Web Inquiry,E0148,Disqualified,2025-06-19,Unresponsive
+LEAD00917,2025-09-26,Cold Outreach,E0085,Disqualified,2025-10-07,Wrong Fit
+LEAD00918,2025-12-18,Trade Show,E0096,Open,,
+LEAD00919,2025-06-15,Referral,E0028,Qualified,2025-06-24,
+LEAD00920,2024-12-07,Web Inquiry,E0059,Disqualified,2024-12-17,Went With Competitor
+LEAD00921,2024-09-19,Referral,E0018,Qualified,2024-09-26,
+LEAD00922,2024-02-13,Referral,E0052,Disqualified,2024-02-15,Went With Competitor
+LEAD00923,2024-05-13,Partner Channel,E0119,Qualified,2024-05-26,
+LEAD00924,2025-08-17,Web Inquiry,E0032,Qualified,2025-08-19,
+LEAD00925,2024-03-26,Referral,E0057,Qualified,2024-04-05,
+LEAD00926,2025-04-19,Cold Outreach,E0119,Disqualified,2025-04-21,Wrong Fit
+LEAD00927,2025-09-15,Cold Outreach,E0028,Disqualified,2025-09-21,No Longer Interested
+LEAD00928,2025-04-23,Trade Show,E0148,Disqualified,2025-05-10,Wrong Fit
+LEAD00929,2025-10-20,Trade Show,E0172,Disqualified,2025-11-05,No Longer Interested
+LEAD00930,2024-08-08,Referral,E0089,Disqualified,2024-08-19,Wrong Fit
+LEAD00931,2024-07-14,Web Inquiry,E0172,Disqualified,2024-07-22,Wrong Fit
+LEAD00932,2025-01-15,Trade Show,E0059,Disqualified,2025-01-29,Went With Competitor
+LEAD00933,2025-08-22,Cold Outreach,E0172,Qualified,2025-09-09,
+LEAD00934,2025-04-03,Web Inquiry,E0126,Qualified,2025-04-18,
+LEAD00935,2024-07-26,Cold Outreach,E0089,Qualified,2024-08-02,
+LEAD00936,2025-10-20,Cold Outreach,E0014,Qualified,2025-11-03,
+LEAD00937,2024-05-23,Trade Show,E0148,Qualified,2024-06-08,
+LEAD00938,2024-08-10,Referral,E0126,Disqualified,2024-08-16,Went With Competitor
+LEAD00939,2024-12-29,Referral,E0018,Disqualified,2025-01-01,Went With Competitor
+LEAD00940,2024-04-18,Partner Channel,E0018,Disqualified,2024-05-05,Went With Competitor
+LEAD00941,2025-08-15,Cold Outreach,E0096,Disqualified,2025-08-29,Unresponsive
+LEAD00942,2024-03-07,Cold Outreach,E0052,Disqualified,2024-03-12,Wrong Fit
+LEAD00943,2025-05-14,Web Inquiry,E0161,Disqualified,2025-05-22,No Longer Interested
+LEAD00944,2024-02-03,Cold Outreach,E0163,Qualified,2024-02-08,
+LEAD00945,2024-06-03,Trade Show,E0161,Qualified,2024-06-14,
+LEAD00946,2024-05-25,Trade Show,E0018,Disqualified,2024-05-28,Went With Competitor
+LEAD00947,2025-09-11,Referral,E0126,Qualified,2025-09-18,
+LEAD00948,2024-11-01,Referral,E0059,Disqualified,2024-11-04,Wrong Fit
+LEAD00949,2024-09-23,Partner Channel,E0119,Disqualified,2024-10-12,Wrong Fit
+LEAD00950,2024-06-25,Partner Channel,E0163,Qualified,2024-07-15,
+LEAD00951,2024-02-14,Trade Show,E0028,Qualified,2024-02-18,
+LEAD00952,2025-08-20,Web Inquiry,E0059,Qualified,2025-08-24,
+LEAD00953,2024-06-12,Referral,E0122,Disqualified,2024-06-24,No Longer Interested
+LEAD00954,2024-05-18,Referral,E0052,Disqualified,2024-06-04,Went With Competitor
+LEAD00955,2024-02-29,Partner Channel,E0172,Disqualified,2024-03-12,Went With Competitor
+LEAD00956,2024-09-07,Web Inquiry,E0163,Qualified,2024-09-26,
+LEAD00957,2024-03-30,Referral,E0057,Disqualified,2024-04-13,Went With Competitor
+LEAD00958,2025-10-07,Referral,E0099,Disqualified,2025-10-20,Went With Competitor
+LEAD00959,2024-02-05,Referral,E0100,Disqualified,2024-02-12,No Longer Interested
+LEAD00960,2025-08-14,Web Inquiry,E0161,Qualified,2025-08-23,
+LEAD00961,2024-10-23,Referral,E0028,Qualified,2024-10-31,
+LEAD00962,2024-09-06,Referral,E0089,Disqualified,2024-09-26,Unresponsive
+LEAD00963,2025-11-10,Trade Show,E0163,Disqualified,2025-11-18,Went With Competitor
+LEAD00964,2025-06-05,Cold Outreach,E0059,Qualified,2025-06-12,
+LEAD00965,2025-02-10,Partner Channel,E0018,Qualified,2025-02-27,
+LEAD00966,2024-06-20,Trade Show,E0163,Disqualified,2024-07-05,No Longer Interested
+LEAD00967,2024-08-09,Trade Show,E0085,Qualified,2024-08-24,
+LEAD00968,2025-11-25,Web Inquiry,E0099,Qualified,2025-12-15,
+LEAD00969,2025-03-08,Web Inquiry,E0028,Qualified,2025-03-22,
+LEAD00970,2025-12-08,Trade Show,E0009,Qualified,2025-12-20,
+LEAD00971,2024-09-10,Cold Outreach,E0148,Disqualified,2024-09-21,No Budget
+LEAD00972,2024-11-20,Cold Outreach,E0052,Disqualified,2024-11-28,Unresponsive
+LEAD00973,2025-12-30,Web Inquiry,E0089,Open,,
+LEAD00974,2024-01-09,Cold Outreach,E0148,Disqualified,2024-01-26,Unresponsive
+LEAD00975,2024-01-28,Cold Outreach,E0018,Qualified,2024-02-10,
+LEAD00976,2025-10-21,Trade Show,E0057,Disqualified,2025-10-29,Unresponsive
+LEAD00977,2024-09-05,Trade Show,E0126,Disqualified,2024-09-16,No Longer Interested
+LEAD00978,2024-01-10,Partner Channel,E0096,Disqualified,2024-01-17,Went With Competitor
+LEAD00979,2025-12-09,Web Inquiry,E0100,Disqualified,2025-12-15,No Budget
+LEAD00980,2024-04-12,Trade Show,E0028,Qualified,2024-04-28,
+LEAD00981,2024-03-19,Trade Show,E0052,Disqualified,2024-04-02,Wrong Fit
+LEAD00982,2025-09-21,Trade Show,E0099,Disqualified,2025-10-04,No Longer Interested
+LEAD00983,2025-11-26,Referral,E0096,Qualified,2025-12-07,
+LEAD00984,2025-10-26,Referral,E0100,Qualified,2025-11-08,
+LEAD00985,2025-06-08,Referral,E0100,Qualified,2025-06-21,
+LEAD00986,2025-09-18,Web Inquiry,E0173,Disqualified,2025-09-22,Unresponsive
+LEAD00987,2025-04-14,Cold Outreach,E0119,Disqualified,2025-05-03,Unresponsive
+LEAD00988,2024-07-08,Cold Outreach,E0032,Qualified,2024-07-17,
+LEAD00989,2025-12-15,Trade Show,E0009,Open,,
+LEAD00990,2025-12-06,Referral,E0057,Disqualified,2025-12-17,Wrong Fit
+LEAD00991,2024-07-16,Partner Channel,E0089,Qualified,2024-07-26,
+LEAD00992,2025-06-01,Referral,E0173,Qualified,2025-06-06,
+LEAD00993,2025-09-03,Web Inquiry,E0018,Disqualified,2025-09-12,Unresponsive
+LEAD00994,2024-07-25,Referral,E0089,Disqualified,2024-08-12,Went With Competitor
+LEAD00995,2024-07-16,Cold Outreach,E0100,Disqualified,2024-07-26,No Longer Interested
+LEAD00996,2024-03-30,Trade Show,E0122,Qualified,2024-04-09,
+LEAD00997,2025-05-20,Cold Outreach,E0059,Qualified,2025-05-23,
+LEAD00998,2024-05-10,Web Inquiry,E0059,Disqualified,2024-05-24,No Budget
+LEAD00999,2025-06-28,Referral,E0172,Disqualified,2025-07-11,Unresponsive
+LEAD01000,2024-02-15,Web Inquiry,E0014,Disqualified,2024-03-03,No Budget
+LEAD01001,2024-08-15,Cold Outreach,E0119,Qualified,2024-08-29,
+LEAD01002,2025-09-15,Partner Channel,E0059,Disqualified,2025-09-21,Wrong Fit
+LEAD01003,2024-07-05,Cold Outreach,E0089,Disqualified,2024-07-07,Wrong Fit
+LEAD01004,2025-08-13,Web Inquiry,E0173,Qualified,2025-08-24,
+LEAD01005,2024-05-03,Partner Channel,E0052,Disqualified,2024-05-08,Wrong Fit
+LEAD01006,2025-10-04,Partner Channel,E0059,Qualified,2025-10-11,
+LEAD01007,2025-06-10,Referral,E0018,Disqualified,2025-06-20,Unresponsive
+LEAD01008,2025-12-22,Web Inquiry,E0173,Open,,
+LEAD01009,2025-12-28,Web Inquiry,E0172,Open,,
+LEAD01010,2025-04-28,Cold Outreach,E0059,Disqualified,2025-05-03,Went With Competitor
+LEAD01011,2025-11-30,Cold Outreach,E0059,Qualified,2025-12-09,
+LEAD01012,2024-01-25,Cold Outreach,E0085,Disqualified,2024-02-05,No Budget
+LEAD01013,2025-11-17,Web Inquiry,E0119,Disqualified,2025-11-24,Went With Competitor
+LEAD01014,2024-06-19,Trade Show,E0172,Qualified,2024-07-04,
+LEAD01015,2024-04-07,Trade Show,E0172,Qualified,2024-04-22,
+LEAD01016,2024-04-19,Trade Show,E0100,Disqualified,2024-04-24,Unresponsive
+LEAD01017,2025-04-10,Cold Outreach,E0161,Disqualified,2025-04-23,Went With Competitor
+LEAD01018,2025-03-02,Referral,E0014,Qualified,2025-03-09,
+LEAD01019,2024-10-04,Trade Show,E0148,Disqualified,2024-10-06,Wrong Fit
+LEAD01020,2024-12-14,Cold Outreach,E0096,Disqualified,2024-12-18,Wrong Fit
+LEAD01021,2024-09-07,Trade Show,E0014,Disqualified,2024-09-19,Wrong Fit
+LEAD01022,2025-11-11,Web Inquiry,E0028,Qualified,2025-11-22,
+LEAD01023,2024-08-15,Trade Show,E0032,Disqualified,2024-08-28,Went With Competitor
+LEAD01024,2024-10-13,Web Inquiry,E0085,Qualified,2024-10-19,
+LEAD01025,2024-01-13,Trade Show,E0028,Disqualified,2024-01-24,No Longer Interested
+LEAD01026,2024-02-14,Partner Channel,E0148,Qualified,2024-02-19,
+LEAD01027,2025-04-03,Partner Channel,E0009,Disqualified,2025-04-18,Went With Competitor
+LEAD01028,2024-01-18,Referral,E0163,Disqualified,2024-01-27,No Budget
+LEAD01029,2025-02-09,Cold Outreach,E0122,Qualified,2025-02-15,
+LEAD01030,2025-08-14,Web Inquiry,E0085,Qualified,2025-08-28,
+LEAD01031,2025-06-05,Cold Outreach,E0100,Qualified,2025-06-12,
+LEAD01032,2025-04-08,Trade Show,E0057,Disqualified,2025-04-16,Went With Competitor
+LEAD01033,2025-04-07,Referral,E0057,Qualified,2025-04-20,
+LEAD01034,2024-05-19,Cold Outreach,E0057,Qualified,2024-06-05,
+LEAD01035,2025-05-12,Cold Outreach,E0028,Qualified,2025-05-18,
+LEAD01036,2025-10-23,Partner Channel,E0148,Qualified,2025-11-09,
+LEAD01037,2024-09-24,Partner Channel,E0032,Qualified,2024-10-04,
+LEAD01038,2025-02-11,Web Inquiry,E0009,Qualified,2025-03-01,
+LEAD01039,2024-08-07,Trade Show,E0099,Disqualified,2024-08-12,No Budget
+LEAD01040,2025-03-19,Referral,E0173,Disqualified,2025-03-26,No Longer Interested
+LEAD01041,2025-07-13,Trade Show,E0173,Disqualified,2025-07-31,Went With Competitor
+LEAD01042,2025-11-03,Cold Outreach,E0009,Qualified,2025-11-18,
+LEAD01043,2024-10-05,Trade Show,E0173,Disqualified,2024-10-08,No Longer Interested
+LEAD01044,2024-02-06,Partner Channel,E0163,Disqualified,2024-02-10,Wrong Fit
+LEAD01045,2025-05-30,Cold Outreach,E0122,Qualified,2025-06-15,
+LEAD01046,2025-09-08,Web Inquiry,E0018,Qualified,2025-09-14,
+LEAD01047,2024-06-14,Cold Outreach,E0059,Disqualified,2024-07-02,Wrong Fit
+LEAD01048,2025-12-14,Cold Outreach,E0089,Qualified,2025-12-27,
+LEAD01049,2025-01-28,Cold Outreach,E0122,Qualified,2025-02-14,
+LEAD01050,2024-07-21,Cold Outreach,E0099,Disqualified,2024-08-05,Wrong Fit
+LEAD01051,2025-07-12,Partner Channel,E0100,Disqualified,2025-07-31,Went With Competitor
+LEAD01052,2025-01-30,Partner Channel,E0085,Qualified,2025-02-07,
+LEAD01053,2024-05-14,Web Inquiry,E0089,Disqualified,2024-05-19,Unresponsive
+LEAD01054,2024-11-05,Cold Outreach,E0032,Disqualified,2024-11-22,Unresponsive
+LEAD01055,2024-03-19,Referral,E0172,Disqualified,2024-03-27,No Longer Interested
+LEAD01056,2024-02-20,Referral,E0100,Disqualified,2024-02-29,No Budget
+LEAD01057,2025-11-03,Cold Outreach,E0089,Qualified,2025-11-23,
+LEAD01058,2025-01-03,Referral,E0096,Disqualified,2025-01-14,Unresponsive
+LEAD01059,2025-12-06,Partner Channel,E0163,Disqualified,2025-12-13,Unresponsive
+LEAD01060,2025-10-15,Trade Show,E0122,Qualified,2025-10-18,
+LEAD01061,2025-09-03,Trade Show,E0028,Qualified,2025-09-16,
+LEAD01062,2024-04-24,Referral,E0057,Qualified,2024-05-10,
+LEAD01063,2025-06-21,Web Inquiry,E0173,Qualified,2025-06-27,
+LEAD01064,2024-06-05,Partner Channel,E0089,Qualified,2024-06-09,
+LEAD01065,2024-05-01,Web Inquiry,E0059,Qualified,2024-05-17,
+LEAD01066,2025-02-03,Cold Outreach,E0032,Qualified,2025-02-11,
+LEAD01067,2025-07-28,Partner Channel,E0172,Disqualified,2025-08-14,Unresponsive
+LEAD01068,2024-02-02,Web Inquiry,E0009,Disqualified,2024-02-13,No Longer Interested
+LEAD01069,2024-02-21,Trade Show,E0057,Disqualified,2024-03-04,No Longer Interested
+LEAD01070,2024-06-28,Referral,E0161,Disqualified,2024-07-03,Wrong Fit
+LEAD01071,2024-10-05,Web Inquiry,E0173,Disqualified,2024-10-11,No Longer Interested
+LEAD01072,2024-11-26,Referral,E0148,Disqualified,2024-12-07,Wrong Fit
+LEAD01073,2025-11-04,Trade Show,E0100,Disqualified,2025-11-21,No Longer Interested
+LEAD01074,2025-07-14,Cold Outreach,E0100,Disqualified,2025-07-31,No Budget
+LEAD01075,2024-04-06,Partner Channel,E0119,Qualified,2024-04-15,
+LEAD01076,2024-07-24,Cold Outreach,E0163,Qualified,2024-07-30,
+LEAD01077,2025-09-16,Cold Outreach,E0032,Qualified,2025-10-06,
+LEAD01078,2024-04-28,Referral,E0122,Disqualified,2024-05-02,No Longer Interested
+LEAD01079,2025-10-12,Web Inquiry,E0052,Disqualified,2025-11-01,Wrong Fit
+LEAD01080,2024-02-24,Web Inquiry,E0161,Disqualified,2024-03-11,No Budget
+LEAD01081,2025-07-21,Referral,E0057,Disqualified,2025-08-10,Unresponsive
+LEAD01082,2025-09-13,Partner Channel,E0057,Disqualified,2025-09-19,Wrong Fit
+LEAD01083,2024-01-08,Trade Show,E0100,Disqualified,2024-01-15,No Budget
+LEAD01084,2025-07-16,Referral,E0032,Qualified,2025-08-03,
+LEAD01085,2024-09-30,Referral,E0173,Disqualified,2024-10-10,No Longer Interested
+LEAD01086,2024-06-14,Web Inquiry,E0009,Disqualified,2024-06-27,Went With Competitor
+LEAD01087,2025-04-10,Partner Channel,E0126,Qualified,2025-04-25,
+LEAD01088,2024-10-20,Trade Show,E0059,Disqualified,2024-10-27,Unresponsive
+LEAD01089,2024-05-10,Cold Outreach,E0057,Qualified,2024-05-13,
+LEAD01090,2024-11-05,Partner Channel,E0161,Disqualified,2024-11-20,No Budget
+LEAD01091,2025-07-26,Web Inquiry,E0148,Disqualified,2025-08-11,Unresponsive
+LEAD01092,2025-07-23,Partner Channel,E0119,Disqualified,2025-08-05,No Budget
+LEAD01093,2024-05-10,Referral,E0119,Disqualified,2024-05-28,No Budget
+LEAD01094,2024-09-19,Referral,E0148,Disqualified,2024-09-28,Unresponsive
+LEAD01095,2024-08-14,Partner Channel,E0122,Disqualified,2024-08-16,Unresponsive
+LEAD01096,2024-06-07,Partner Channel,E0099,Qualified,2024-06-22,
+LEAD01097,2024-08-02,Trade Show,E0096,Disqualified,2024-08-22,Wrong Fit
+LEAD01098,2025-11-06,Referral,E0096,Qualified,2025-11-17,
+LEAD01099,2025-11-25,Web Inquiry,E0099,Qualified,2025-12-09,
+LEAD01100,2025-01-11,Cold Outreach,E0099,Disqualified,2025-01-30,Went With Competitor
+LEAD01101,2025-10-24,Partner Channel,E0163,Qualified,2025-11-01,
+LEAD01102,2024-12-30,Web Inquiry,E0173,Disqualified,2025-01-02,Went With Competitor
+LEAD01103,2024-04-07,Partner Channel,E0089,Disqualified,2024-04-15,No Longer Interested
+LEAD01104,2025-07-05,Partner Channel,E0119,Qualified,2025-07-12,
+LEAD01105,2025-10-08,Cold Outreach,E0148,Disqualified,2025-10-16,Unresponsive
+LEAD01106,2024-11-29,Trade Show,E0122,Qualified,2024-12-14,
+LEAD01107,2024-05-06,Cold Outreach,E0126,Disqualified,2024-05-16,Unresponsive
+LEAD01108,2025-05-28,Web Inquiry,E0172,Qualified,2025-05-31,
+LEAD01109,2024-11-09,Referral,E0163,Qualified,2024-11-27,
+LEAD01110,2024-05-13,Referral,E0096,Disqualified,2024-05-26,Wrong Fit
+LEAD01111,2025-09-14,Cold Outreach,E0057,Disqualified,2025-09-23,No Longer Interested
+LEAD01112,2024-08-14,Trade Show,E0100,Disqualified,2024-08-20,Wrong Fit
+LEAD01113,2024-05-06,Cold Outreach,E0032,Disqualified,2024-05-12,Unresponsive
+LEAD01114,2024-12-12,Referral,E0052,Disqualified,2024-12-21,No Budget
+LEAD01115,2024-07-06,Trade Show,E0032,Qualified,2024-07-21,
+LEAD01116,2025-04-08,Partner Channel,E0148,Qualified,2025-04-20,
+LEAD01117,2025-02-02,Partner Channel,E0089,Disqualified,2025-02-22,No Longer Interested
+LEAD01118,2025-05-17,Trade Show,E0119,Qualified,2025-05-26,
+LEAD01119,2025-01-25,Partner Channel,E0057,Disqualified,2025-02-10,No Budget
+LEAD01120,2024-02-29,Referral,E0057,Disqualified,2024-03-08,No Budget
+LEAD01121,2024-10-05,Cold Outreach,E0009,Disqualified,2024-10-19,No Budget
+LEAD01122,2024-03-22,Web Inquiry,E0057,Qualified,2024-04-08,
+LEAD01123,2025-04-28,Cold Outreach,E0014,Qualified,2025-05-11,
+LEAD01124,2025-11-07,Partner Channel,E0014,Qualified,2025-11-22,
+LEAD01125,2024-12-03,Trade Show,E0100,Disqualified,2024-12-21,Unresponsive
+LEAD01126,2025-09-02,Web Inquiry,E0085,Qualified,2025-09-18,
+LEAD01127,2024-02-22,Cold Outreach,E0014,Disqualified,2024-03-09,No Longer Interested
+LEAD01128,2024-03-29,Partner Channel,E0009,Disqualified,2024-04-08,Went With Competitor
+LEAD01129,2024-10-18,Partner Channel,E0014,Qualified,2024-11-01,
+LEAD01130,2024-07-28,Partner Channel,E0059,Disqualified,2024-08-07,Went With Competitor
+LEAD01131,2024-05-22,Cold Outreach,E0028,Qualified,2024-06-05,
+LEAD01132,2024-05-17,Trade Show,E0163,Disqualified,2024-05-26,Unresponsive
+LEAD01133,2025-08-17,Cold Outreach,E0032,Qualified,2025-08-22,
+LEAD01134,2025-03-13,Cold Outreach,E0099,Disqualified,2025-04-01,Went With Competitor
+LEAD01135,2024-07-02,Partner Channel,E0148,Disqualified,2024-07-19,Unresponsive
+LEAD01136,2024-07-24,Partner Channel,E0085,Disqualified,2024-08-06,Went With Competitor
+LEAD01137,2025-12-21,Referral,E0018,Open,,
+LEAD01138,2025-02-12,Trade Show,E0085,Qualified,2025-02-21,
+LEAD01139,2024-05-05,Partner Channel,E0161,Qualified,2024-05-25,
+LEAD01140,2024-03-03,Trade Show,E0161,Qualified,2024-03-07,
+LEAD01141,2024-04-02,Referral,E0099,Qualified,2024-04-19,
+LEAD01142,2024-01-21,Web Inquiry,E0126,Disqualified,2024-02-06,No Budget
+LEAD01143,2024-07-04,Partner Channel,E0122,Disqualified,2024-07-22,Wrong Fit
+LEAD01144,2024-06-04,Trade Show,E0119,Disqualified,2024-06-09,Wrong Fit
+LEAD01145,2025-05-24,Cold Outreach,E0122,Qualified,2025-06-09,
+LEAD01146,2024-12-18,Web Inquiry,E0085,Disqualified,2024-12-22,Unresponsive
+LEAD01147,2025-12-27,Partner Channel,E0032,Open,,
+LEAD01148,2025-04-30,Cold Outreach,E0119,Qualified,2025-05-13,
+LEAD01149,2024-06-26,Partner Channel,E0163,Disqualified,2024-07-12,Went With Competitor
+LEAD01150,2025-07-26,Referral,E0099,Disqualified,2025-08-06,Wrong Fit
+LEAD01151,2024-10-10,Referral,E0085,Disqualified,2024-10-21,No Budget
+LEAD01152,2024-09-04,Partner Channel,E0099,Disqualified,2024-09-21,No Budget
+LEAD01153,2024-12-06,Partner Channel,E0099,Disqualified,2024-12-26,Wrong Fit
+LEAD01154,2024-10-24,Trade Show,E0148,Disqualified,2024-10-27,Unresponsive
+LEAD01155,2025-07-20,Referral,E0161,Disqualified,2025-07-27,No Longer Interested
+LEAD01156,2025-03-23,Trade Show,E0122,Disqualified,2025-03-26,Went With Competitor
+LEAD01157,2024-04-05,Web Inquiry,E0014,Disqualified,2024-04-08,Went With Competitor
+LEAD01158,2025-11-22,Referral,E0085,Disqualified,2025-11-25,Went With Competitor
+LEAD01159,2025-07-29,Cold Outreach,E0172,Disqualified,2025-08-10,Wrong Fit
+LEAD01160,2024-01-04,Cold Outreach,E0014,Qualified,2024-01-21,
+LEAD01161,2025-07-09,Cold Outreach,E0163,Qualified,2025-07-28,
+LEAD01162,2024-08-27,Partner Channel,E0148,Qualified,2024-09-03,
+LEAD01163,2025-08-06,Partner Channel,E0119,Disqualified,2025-08-21,Wrong Fit
+LEAD01164,2025-06-14,Partner Channel,E0122,Disqualified,2025-06-19,Went With Competitor
+LEAD01165,2024-06-29,Trade Show,E0028,Disqualified,2024-07-19,Went With Competitor
+LEAD01166,2025-10-25,Web Inquiry,E0163,Disqualified,2025-11-05,Unresponsive
+LEAD01167,2025-12-29,Trade Show,E0014,Disqualified,2025-12-31,No Longer Interested
+LEAD01168,2025-10-03,Partner Channel,E0173,Disqualified,2025-10-16,Unresponsive
+LEAD01169,2025-09-02,Referral,E0052,Disqualified,2025-09-05,No Longer Interested
+LEAD01170,2024-09-28,Partner Channel,E0100,Disqualified,2024-10-02,Wrong Fit
+LEAD01171,2025-07-23,Cold Outreach,E0028,Disqualified,2025-08-05,Wrong Fit
+LEAD01172,2024-01-23,Cold Outreach,E0161,Disqualified,2024-02-12,No Longer Interested
+LEAD01173,2024-06-15,Cold Outreach,E0032,Qualified,2024-06-17,
+LEAD01174,2024-01-01,Cold Outreach,E0122,Disqualified,2024-01-17,Went With Competitor
+LEAD01175,2024-12-01,Web Inquiry,E0096,Disqualified,2024-12-08,Wrong Fit
+LEAD01176,2024-04-23,Cold Outreach,E0032,Disqualified,2024-05-11,No Longer Interested
+LEAD01177,2024-08-24,Trade Show,E0014,Disqualified,2024-09-12,Went With Competitor
+LEAD01178,2024-01-20,Referral,E0148,Qualified,2024-01-25,
+LEAD01179,2025-07-02,Trade Show,E0096,Qualified,2025-07-11,
+LEAD01180,2024-01-12,Trade Show,E0052,Disqualified,2024-01-19,Unresponsive
+LEAD01181,2024-07-31,Referral,E0148,Disqualified,2024-08-20,No Budget
+LEAD01182,2024-05-06,Partner Channel,E0032,Qualified,2024-05-08,
+LEAD01183,2025-08-20,Web Inquiry,E0099,Disqualified,2025-08-25,Wrong Fit
+LEAD01184,2024-11-02,Partner Channel,E0100,Disqualified,2024-11-08,No Longer Interested
+LEAD01185,2024-11-01,Web Inquiry,E0148,Disqualified,2024-11-17,No Budget
+LEAD01186,2025-02-05,Web Inquiry,E0028,Disqualified,2025-02-12,Wrong Fit
+LEAD01187,2024-09-11,Trade Show,E0099,Disqualified,2024-09-29,No Longer Interested
+LEAD01188,2025-10-07,Partner Channel,E0018,Disqualified,2025-10-24,Wrong Fit
+LEAD01189,2025-06-20,Cold Outreach,E0089,Qualified,2025-06-25,
+LEAD01190,2024-12-12,Cold Outreach,E0119,Disqualified,2024-12-27,Unresponsive
+LEAD01191,2025-02-18,Partner Channel,E0148,Disqualified,2025-03-06,Wrong Fit
+LEAD01192,2025-05-16,Partner Channel,E0032,Qualified,2025-05-20,
+LEAD01193,2025-06-25,Web Inquiry,E0122,Disqualified,2025-07-15,Wrong Fit
+LEAD01194,2025-08-07,Referral,E0126,Qualified,2025-08-23,
+LEAD01195,2024-08-19,Cold Outreach,E0126,Qualified,2024-08-23,
+LEAD01196,2024-08-23,Cold Outreach,E0173,Disqualified,2024-09-10,Unresponsive
+LEAD01197,2024-04-08,Partner Channel,E0119,Qualified,2024-04-24,
+LEAD01198,2025-06-10,Partner Channel,E0173,Disqualified,2025-06-14,Wrong Fit
+LEAD01199,2025-04-25,Web Inquiry,E0126,Qualified,2025-05-07,
+LEAD01200,2025-05-20,Cold Outreach,E0085,Qualified,2025-06-06,
+LEAD01201,2025-08-13,Trade Show,E0173,Disqualified,2025-08-15,No Longer Interested
+LEAD01202,2024-03-11,Cold Outreach,E0122,Disqualified,2024-03-20,Wrong Fit
+LEAD01203,2025-08-31,Web Inquiry,E0099,Qualified,2025-09-07,
+LEAD01204,2025-08-14,Web Inquiry,E0057,Qualified,2025-08-16,
+LEAD01205,2025-10-11,Cold Outreach,E0089,Disqualified,2025-10-30,Wrong Fit
+LEAD01206,2024-10-06,Trade Show,E0085,Disqualified,2024-10-12,Wrong Fit
+LEAD01207,2024-01-21,Web Inquiry,E0009,Qualified,2024-02-08,
+LEAD01208,2024-06-08,Web Inquiry,E0148,Disqualified,2024-06-11,No Budget
+LEAD01209,2024-04-19,Partner Channel,E0163,Disqualified,2024-05-05,No Longer Interested
+LEAD01210,2024-04-24,Referral,E0173,Disqualified,2024-05-08,Went With Competitor
+LEAD01211,2024-01-02,Trade Show,E0172,Disqualified,2024-01-09,No Budget
+LEAD01212,2025-11-13,Partner Channel,E0089,Disqualified,2025-11-29,No Budget
+LEAD01213,2024-12-05,Partner Channel,E0028,Qualified,2024-12-09,
+LEAD01214,2024-07-24,Referral,E0119,Disqualified,2024-08-02,No Longer Interested
+LEAD01215,2024-03-03,Partner Channel,E0032,Qualified,2024-03-14,
+LEAD01216,2025-07-20,Trade Show,E0085,Disqualified,2025-07-22,No Budget
+LEAD01217,2025-02-18,Referral,E0059,Disqualified,2025-03-04,Went With Competitor
+LEAD01218,2025-08-24,Partner Channel,E0096,Disqualified,2025-09-11,No Budget
+LEAD01219,2025-11-10,Web Inquiry,E0172,Qualified,2025-11-20,
+LEAD01220,2025-11-13,Cold Outreach,E0057,Disqualified,2025-11-29,No Budget
+LEAD01221,2025-09-03,Cold Outreach,E0059,Disqualified,2025-09-21,Wrong Fit
+LEAD01222,2025-03-19,Referral,E0163,Qualified,2025-03-23,
+LEAD01223,2025-10-17,Trade Show,E0163,Qualified,2025-10-21,
+LEAD01224,2024-05-11,Web Inquiry,E0173,Disqualified,2024-05-31,Wrong Fit
+LEAD01225,2025-10-10,Trade Show,E0057,Disqualified,2025-10-21,No Longer Interested
+LEAD01226,2024-03-13,Trade Show,E0172,Disqualified,2024-03-27,No Longer Interested
+LEAD01227,2025-06-24,Referral,E0059,Disqualified,2025-07-04,No Longer Interested
+LEAD01228,2024-02-21,Cold Outreach,E0089,Disqualified,2024-03-08,Wrong Fit
+LEAD01229,2024-10-13,Trade Show,E0163,Qualified,2024-10-28,
+LEAD01230,2025-06-12,Trade Show,E0032,Disqualified,2025-06-19,No Longer Interested
+LEAD01231,2024-06-25,Partner Channel,E0161,Disqualified,2024-07-04,No Longer Interested
+LEAD01232,2025-08-06,Trade Show,E0126,Qualified,2025-08-14,
+LEAD01233,2024-05-17,Partner Channel,E0014,Disqualified,2024-05-31,Went With Competitor
+LEAD01234,2025-07-28,Cold Outreach,E0126,Disqualified,2025-08-04,No Budget
+LEAD01235,2025-03-01,Referral,E0100,Disqualified,2025-03-08,Wrong Fit
+LEAD01236,2024-04-01,Trade Show,E0122,Disqualified,2024-04-05,Wrong Fit
+LEAD01237,2024-10-05,Referral,E0052,Disqualified,2024-10-24,Unresponsive
+LEAD01238,2024-11-07,Partner Channel,E0099,Qualified,2024-11-25,
+LEAD01239,2024-01-09,Partner Channel,E0148,Qualified,2024-01-12,
+LEAD01240,2024-01-25,Trade Show,E0161,Qualified,2024-01-29,
+LEAD01241,2024-04-16,Referral,E0122,Qualified,2024-05-04,
+LEAD01242,2024-08-23,Partner Channel,E0100,Disqualified,2024-08-28,Went With Competitor
+LEAD01243,2025-08-29,Referral,E0161,Disqualified,2025-09-13,Unresponsive
+LEAD01244,2024-11-04,Cold Outreach,E0018,Qualified,2024-11-10,
+LEAD01245,2024-10-11,Referral,E0089,Qualified,2024-10-24,
+LEAD01246,2024-09-05,Cold Outreach,E0032,Qualified,2024-09-09,
+LEAD01247,2025-10-09,Web Inquiry,E0173,Disqualified,2025-10-11,No Longer Interested
+LEAD01248,2025-09-23,Trade Show,E0148,Qualified,2025-10-09,
+LEAD01249,2024-03-18,Partner Channel,E0161,Qualified,2024-03-30,
+LEAD01250,2025-12-23,Partner Channel,E0163,Open,,
+LEAD01251,2025-04-30,Referral,E0057,Qualified,2025-05-18,
+LEAD01252,2024-10-24,Web Inquiry,E0059,Qualified,2024-10-27,
+LEAD01253,2025-05-05,Partner Channel,E0163,Disqualified,2025-05-23,No Longer Interested
+LEAD01254,2024-09-10,Trade Show,E0057,Disqualified,2024-09-19,Wrong Fit
+LEAD01255,2025-03-30,Cold Outreach,E0052,Disqualified,2025-04-04,No Longer Interested
+LEAD01256,2025-09-21,Referral,E0122,Disqualified,2025-10-05,No Budget
+LEAD01257,2025-03-28,Trade Show,E0014,Disqualified,2025-04-04,Went With Competitor
+LEAD01258,2024-01-24,Cold Outreach,E0059,Qualified,2024-01-30,
+LEAD01259,2024-12-17,Partner Channel,E0126,Qualified,2024-12-20,
+LEAD01260,2025-07-31,Trade Show,E0122,Disqualified,2025-08-15,Unresponsive
+LEAD01261,2024-12-25,Web Inquiry,E0059,Qualified,2025-01-06,
+LEAD01262,2024-03-06,Partner Channel,E0126,Disqualified,2024-03-20,Wrong Fit
+LEAD01263,2025-10-17,Cold Outreach,E0119,Disqualified,2025-11-04,Wrong Fit
+LEAD01264,2024-06-12,Cold Outreach,E0028,Disqualified,2024-07-02,Went With Competitor
+LEAD01265,2025-10-22,Cold Outreach,E0100,Disqualified,2025-10-26,Went With Competitor
+LEAD01266,2025-09-29,Partner Channel,E0099,Disqualified,2025-10-09,No Longer Interested
+LEAD01267,2024-04-02,Referral,E0122,Disqualified,2024-04-14,No Budget
+LEAD01268,2024-05-09,Referral,E0059,Disqualified,2024-05-17,No Budget
+LEAD01269,2024-02-17,Trade Show,E0096,Disqualified,2024-02-22,Unresponsive
+LEAD01270,2024-11-17,Cold Outreach,E0173,Disqualified,2024-11-23,No Budget
+LEAD01271,2024-07-17,Trade Show,E0173,Disqualified,2024-08-01,Wrong Fit
+LEAD01272,2024-10-07,Trade Show,E0032,Qualified,2024-10-25,
+LEAD01273,2024-06-19,Trade Show,E0059,Qualified,2024-06-27,
+LEAD01274,2024-05-14,Web Inquiry,E0032,Disqualified,2024-05-31,No Budget
+LEAD01275,2025-09-07,Partner Channel,E0057,Disqualified,2025-09-16,No Budget
+LEAD01276,2024-11-16,Web Inquiry,E0059,Disqualified,2024-11-21,No Longer Interested
+LEAD01277,2025-10-07,Referral,E0018,Disqualified,2025-10-10,No Longer Interested
+LEAD01278,2025-04-11,Partner Channel,E0089,Qualified,2025-04-23,
+LEAD01279,2024-11-11,Partner Channel,E0148,Qualified,2024-11-30,
+LEAD01280,2025-05-11,Partner Channel,E0059,Disqualified,2025-05-26,No Budget
+LEAD01281,2025-08-30,Web Inquiry,E0032,Qualified,2025-09-16,
+LEAD01282,2024-01-05,Partner Channel,E0028,Qualified,2024-01-22,
+LEAD01283,2024-02-25,Trade Show,E0100,Disqualified,2024-03-01,No Longer Interested
+LEAD01284,2024-08-21,Referral,E0122,Qualified,2024-08-26,
+LEAD01285,2025-01-30,Partner Channel,E0126,Disqualified,2025-02-03,Wrong Fit
+LEAD01286,2025-06-25,Referral,E0032,Disqualified,2025-07-13,No Budget
+LEAD01287,2025-07-09,Trade Show,E0096,Disqualified,2025-07-13,No Budget
+LEAD01288,2024-08-06,Web Inquiry,E0032,Qualified,2024-08-25,
+LEAD01289,2025-02-15,Partner Channel,E0014,Qualified,2025-02-27,
+LEAD01290,2025-07-22,Trade Show,E0099,Disqualified,2025-07-27,Wrong Fit
+LEAD01291,2025-12-03,Trade Show,E0059,Disqualified,2025-12-17,Wrong Fit
+LEAD01292,2024-09-02,Cold Outreach,E0032,Disqualified,2024-09-06,Unresponsive
+LEAD01293,2024-05-25,Web Inquiry,E0059,Qualified,2024-06-09,
+LEAD01294,2025-06-16,Partner Channel,E0161,Disqualified,2025-06-28,Wrong Fit
+LEAD01295,2024-11-01,Cold Outreach,E0161,Qualified,2024-11-10,
+LEAD01296,2024-05-27,Trade Show,E0100,Disqualified,2024-06-08,Unresponsive
+LEAD01297,2025-06-10,Partner Channel,E0018,Qualified,2025-06-15,
+LEAD01298,2025-12-06,Referral,E0163,Qualified,2025-12-18,
+LEAD01299,2024-04-24,Trade Show,E0052,Qualified,2024-04-30,
+LEAD01300,2025-01-02,Partner Channel,E0014,Disqualified,2025-01-21,No Budget
+LEAD01301,2025-10-23,Referral,E0172,Disqualified,2025-11-09,Unresponsive
+LEAD01302,2025-10-10,Cold Outreach,E0126,Disqualified,2025-10-15,Went With Competitor
+LEAD01303,2024-06-03,Cold Outreach,E0096,Disqualified,2024-06-14,No Budget
+LEAD01304,2024-04-25,Partner Channel,E0085,Qualified,2024-04-30,
+LEAD01305,2025-04-27,Web Inquiry,E0085,Disqualified,2025-05-09,No Longer Interested
+LEAD01306,2025-07-10,Referral,E0173,Disqualified,2025-07-17,Went With Competitor
+LEAD01307,2025-01-28,Trade Show,E0085,Disqualified,2025-02-15,No Budget
+LEAD01308,2024-10-22,Partner Channel,E0099,Qualified,2024-11-02,
+LEAD01309,2025-11-03,Cold Outreach,E0028,Disqualified,2025-11-21,Unresponsive
+LEAD01310,2024-09-29,Referral,E0099,Qualified,2024-10-11,
+LEAD01311,2025-04-08,Web Inquiry,E0018,Disqualified,2025-04-26,No Budget
+LEAD01312,2025-06-22,Web Inquiry,E0089,Disqualified,2025-07-04,No Budget
+LEAD01313,2025-02-07,Cold Outreach,E0161,Qualified,2025-02-13,
+LEAD01314,2025-02-02,Trade Show,E0096,Qualified,2025-02-11,
+LEAD01315,2025-02-03,Referral,E0018,Qualified,2025-02-05,
+LEAD01316,2025-11-10,Trade Show,E0122,Disqualified,2025-11-25,No Longer Interested
+LEAD01317,2025-12-27,Referral,E0163,Open,,
+LEAD01318,2024-02-26,Partner Channel,E0148,Disqualified,2024-03-11,No Longer Interested
+LEAD01319,2025-02-10,Web Inquiry,E0085,Qualified,2025-02-26,
+LEAD01320,2024-01-09,Trade Show,E0009,Disqualified,2024-01-28,Went With Competitor
+LEAD01321,2025-05-04,Trade Show,E0014,Disqualified,2025-05-06,No Longer Interested
+LEAD01322,2024-05-13,Cold Outreach,E0014,Disqualified,2024-05-18,Unresponsive
+LEAD01323,2024-11-26,Cold Outreach,E0028,Disqualified,2024-12-09,Unresponsive
+LEAD01324,2025-06-05,Web Inquiry,E0032,Disqualified,2025-06-25,Wrong Fit
+LEAD01325,2024-02-25,Partner Channel,E0161,Disqualified,2024-03-02,Unresponsive
+LEAD01326,2024-11-25,Partner Channel,E0057,Disqualified,2024-12-01,No Longer Interested
+LEAD01327,2025-06-02,Web Inquiry,E0059,Disqualified,2025-06-13,No Longer Interested
+LEAD01328,2025-06-07,Cold Outreach,E0122,Qualified,2025-06-22,
+LEAD01329,2024-08-07,Partner Channel,E0173,Qualified,2024-08-20,
+LEAD01330,2025-11-27,Partner Channel,E0172,Disqualified,2025-12-01,Went With Competitor
+LEAD01331,2024-08-13,Cold Outreach,E0119,Disqualified,2024-09-01,Wrong Fit
+LEAD01332,2024-12-26,Web Inquiry,E0089,Disqualified,2025-01-13,No Longer Interested
+LEAD01333,2024-09-23,Trade Show,E0057,Qualified,2024-10-08,
+LEAD01334,2025-06-01,Trade Show,E0085,Qualified,2025-06-16,
+LEAD01335,2024-08-08,Referral,E0057,Disqualified,2024-08-11,No Longer Interested
+LEAD01336,2024-03-31,Partner Channel,E0089,Qualified,2024-04-14,
+LEAD01337,2024-09-24,Referral,E0161,Disqualified,2024-09-27,No Budget
+LEAD01338,2025-08-13,Trade Show,E0028,Disqualified,2025-08-31,No Longer Interested
+LEAD01339,2025-11-23,Partner Channel,E0119,Qualified,2025-12-05,
+LEAD01340,2024-05-28,Cold Outreach,E0173,Qualified,2024-06-06,
+LEAD01341,2024-06-26,Referral,E0032,Disqualified,2024-07-04,Wrong Fit
+LEAD01342,2025-11-29,Cold Outreach,E0085,Disqualified,2025-12-05,No Budget
+LEAD01343,2025-05-21,Trade Show,E0161,Disqualified,2025-06-04,Wrong Fit
+LEAD01344,2025-10-17,Trade Show,E0059,Disqualified,2025-10-23,No Longer Interested
+LEAD01345,2025-07-10,Trade Show,E0089,Disqualified,2025-07-21,Wrong Fit
+LEAD01346,2025-07-12,Trade Show,E0119,Qualified,2025-07-22,
+LEAD01347,2024-02-07,Web Inquiry,E0085,Disqualified,2024-02-09,No Budget
+LEAD01348,2024-06-21,Partner Channel,E0122,Qualified,2024-07-04,
+LEAD01349,2024-11-07,Partner Channel,E0122,Disqualified,2024-11-16,Unresponsive
+LEAD01350,2025-10-12,Partner Channel,E0085,Qualified,2025-10-28,
+LEAD01351,2025-07-23,Cold Outreach,E0014,Qualified,2025-07-28,
+LEAD01352,2025-05-22,Partner Channel,E0057,Disqualified,2025-06-03,No Longer Interested
+LEAD01353,2024-02-15,Partner Channel,E0032,Disqualified,2024-02-20,No Longer Interested
+LEAD01354,2025-03-23,Partner Channel,E0018,Qualified,2025-04-10,
+LEAD01355,2024-11-30,Partner Channel,E0119,Qualified,2024-12-13,
+LEAD01356,2024-03-28,Referral,E0122,Disqualified,2024-04-07,No Longer Interested
+LEAD01357,2025-12-11,Trade Show,E0014,Disqualified,2025-12-14,Went With Competitor
+LEAD01358,2025-07-04,Referral,E0085,Disqualified,2025-07-15,Went With Competitor
+LEAD01359,2025-08-30,Referral,E0122,Qualified,2025-09-03,
+LEAD01360,2025-09-08,Referral,E0148,Qualified,2025-09-22,
+LEAD01361,2025-06-22,Partner Channel,E0122,Disqualified,2025-07-06,No Budget
+LEAD01362,2025-03-05,Referral,E0172,Qualified,2025-03-14,
+LEAD01363,2025-02-25,Partner Channel,E0014,Qualified,2025-03-05,
+LEAD01364,2024-06-24,Trade Show,E0096,Disqualified,2024-07-07,Went With Competitor
+LEAD01365,2025-06-23,Web Inquiry,E0089,Disqualified,2025-07-08,No Longer Interested
+LEAD01366,2024-03-24,Web Inquiry,E0014,Disqualified,2024-04-05,Unresponsive
+LEAD01367,2024-04-07,Web Inquiry,E0126,Disqualified,2024-04-11,Went With Competitor
+LEAD01368,2025-06-15,Cold Outreach,E0099,Disqualified,2025-07-04,Went With Competitor
+LEAD01369,2025-04-30,Referral,E0018,Qualified,2025-05-08,
+LEAD01370,2024-03-09,Partner Channel,E0122,Disqualified,2024-03-19,Wrong Fit
+LEAD01371,2024-09-09,Referral,E0009,Disqualified,2024-09-14,Went With Competitor
+LEAD01372,2025-05-29,Cold Outreach,E0032,Disqualified,2025-06-07,Went With Competitor
+LEAD01373,2025-06-25,Partner Channel,E0009,Disqualified,2025-06-28,No Budget
+LEAD01374,2025-05-07,Web Inquiry,E0173,Disqualified,2025-05-13,No Longer Interested
+LEAD01375,2025-09-07,Partner Channel,E0052,Qualified,2025-09-10,
+LEAD01376,2024-01-03,Web Inquiry,E0089,Disqualified,2024-01-23,Unresponsive
+LEAD01377,2024-11-29,Referral,E0163,Disqualified,2024-12-01,No Budget
+LEAD01378,2025-01-04,Referral,E0096,Disqualified,2025-01-11,Went With Competitor
+LEAD01379,2025-08-14,Web Inquiry,E0122,Disqualified,2025-08-23,No Longer Interested
+LEAD01380,2025-01-20,Partner Channel,E0014,Qualified,2025-02-08,
+LEAD01381,2024-01-21,Referral,E0018,Qualified,2024-01-26,
+LEAD01382,2024-12-27,Trade Show,E0028,Disqualified,2024-12-30,Wrong Fit
+LEAD01383,2025-09-26,Partner Channel,E0122,Disqualified,2025-10-02,No Longer Interested
+LEAD01384,2024-05-27,Trade Show,E0119,Qualified,2024-06-05,
+LEAD01385,2025-11-05,Partner Channel,E0161,Qualified,2025-11-15,
+LEAD01386,2024-04-05,Web Inquiry,E0096,Qualified,2024-04-13,
+LEAD01387,2024-06-09,Partner Channel,E0018,Qualified,2024-06-18,
+LEAD01388,2025-04-17,Cold Outreach,E0100,Qualified,2025-04-30,
+LEAD01389,2024-06-11,Referral,E0122,Qualified,2024-06-19,
+LEAD01390,2025-05-26,Referral,E0085,Disqualified,2025-06-07,Went With Competitor
+LEAD01391,2024-03-28,Web Inquiry,E0172,Disqualified,2024-04-17,No Longer Interested
+LEAD01392,2024-11-03,Web Inquiry,E0122,Disqualified,2024-11-10,No Budget
+LEAD01393,2025-12-05,Cold Outreach,E0119,Qualified,2025-12-08,
+LEAD01394,2024-01-27,Partner Channel,E0163,Disqualified,2024-02-03,Unresponsive
+LEAD01395,2025-12-25,Referral,E0122,Disqualified,2025-12-31,Went With Competitor
+LEAD01396,2025-09-19,Web Inquiry,E0089,Qualified,2025-09-25,
+LEAD01397,2025-09-07,Cold Outreach,E0148,Disqualified,2025-09-20,No Longer Interested
+LEAD01398,2024-05-28,Partner Channel,E0089,Qualified,2024-06-06,
+LEAD01399,2024-05-20,Referral,E0032,Disqualified,2024-05-27,Went With Competitor
+LEAD01400,2024-05-21,Web Inquiry,E0018,Disqualified,2024-06-07,Wrong Fit
+LEAD01401,2024-07-20,Cold Outreach,E0173,Qualified,2024-08-05,
+LEAD01402,2024-12-16,Partner Channel,E0122,Disqualified,2024-12-30,No Budget
+LEAD01403,2024-08-20,Trade Show,E0057,Qualified,2024-08-29,
+LEAD01404,2025-11-18,Cold Outreach,E0148,Qualified,2025-12-08,
+LEAD01405,2024-09-11,Referral,E0126,Disqualified,2024-09-28,No Budget
+LEAD01406,2024-07-12,Trade Show,E0096,Qualified,2024-07-24,
+LEAD01407,2024-08-04,Partner Channel,E0089,Disqualified,2024-08-19,No Budget
+LEAD01408,2024-08-19,Cold Outreach,E0163,Qualified,2024-08-27,
+LEAD01409,2025-12-23,Trade Show,E0100,Open,,
+LEAD01410,2024-11-25,Cold Outreach,E0119,Qualified,2024-11-30,
+LEAD01411,2024-08-08,Referral,E0119,Qualified,2024-08-10,
+LEAD01412,2025-05-13,Trade Show,E0028,Disqualified,2025-05-18,No Longer Interested
+LEAD01413,2024-11-23,Trade Show,E0119,Disqualified,2024-12-08,Wrong Fit
+LEAD01414,2025-09-19,Partner Channel,E0009,Disqualified,2025-09-29,Wrong Fit
+LEAD01415,2025-09-25,Trade Show,E0173,Disqualified,2025-09-30,Unresponsive
+LEAD01416,2024-03-17,Web Inquiry,E0014,Qualified,2024-03-30,
+LEAD01417,2024-08-19,Trade Show,E0119,Qualified,2024-08-25,
+LEAD01418,2025-05-29,Cold Outreach,E0052,Qualified,2025-06-11,
+LEAD01419,2025-10-13,Web Inquiry,E0148,Disqualified,2025-10-15,Went With Competitor
+LEAD01420,2025-12-08,Partner Channel,E0085,Qualified,2025-12-23,
+LEAD01421,2025-12-23,Partner Channel,E0100,Disqualified,2025-12-26,No Longer Interested
+LEAD01422,2025-06-20,Cold Outreach,E0172,Qualified,2025-07-01,
+LEAD01423,2024-01-05,Web Inquiry,E0161,Disqualified,2024-01-21,No Budget
+LEAD01424,2024-08-13,Cold Outreach,E0126,Disqualified,2024-08-18,Went With Competitor
+LEAD01425,2025-02-12,Cold Outreach,E0052,Disqualified,2025-02-26,Unresponsive
+LEAD01426,2024-04-01,Partner Channel,E0161,Disqualified,2024-04-21,Wrong Fit
+LEAD01427,2024-02-08,Partner Channel,E0009,Disqualified,2024-02-10,No Budget
+LEAD01428,2024-04-22,Trade Show,E0099,Qualified,2024-04-24,
+LEAD01429,2025-12-26,Partner Channel,E0018,Open,,
+LEAD01430,2024-05-31,Web Inquiry,E0126,Disqualified,2024-06-09,Went With Competitor
+LEAD01431,2024-08-09,Trade Show,E0052,Disqualified,2024-08-13,Wrong Fit
+LEAD01432,2024-08-30,Web Inquiry,E0126,Disqualified,2024-09-13,Went With Competitor
+LEAD01433,2024-01-06,Cold Outreach,E0089,Disqualified,2024-01-19,Went With Competitor
+LEAD01434,2025-11-07,Cold Outreach,E0089,Qualified,2025-11-11,
+LEAD01435,2025-10-07,Partner Channel,E0052,Qualified,2025-10-09,
+LEAD01436,2024-01-26,Trade Show,E0161,Disqualified,2024-02-13,Wrong Fit
+LEAD01437,2025-09-04,Partner Channel,E0057,Qualified,2025-09-08,
+LEAD01438,2025-07-01,Cold Outreach,E0028,Disqualified,2025-07-13,No Longer Interested
+LEAD01439,2024-01-25,Partner Channel,E0100,Disqualified,2024-01-31,No Budget
+LEAD01440,2024-05-29,Cold Outreach,E0122,Disqualified,2024-06-06,Went With Competitor
+LEAD01441,2025-01-14,Referral,E0100,Disqualified,2025-01-19,No Budget
+LEAD01442,2024-08-13,Web Inquiry,E0172,Qualified,2024-08-17,
+LEAD01443,2024-04-24,Referral,E0161,Disqualified,2024-05-09,Went With Competitor
+LEAD01444,2024-09-02,Referral,E0018,Qualified,2024-09-04,
+LEAD01445,2024-10-26,Partner Channel,E0096,Disqualified,2024-10-28,No Budget
+LEAD01446,2024-03-25,Trade Show,E0009,Disqualified,2024-03-30,Wrong Fit
+LEAD01447,2025-08-22,Trade Show,E0172,Qualified,2025-09-02,
+LEAD01448,2025-02-01,Trade Show,E0032,Qualified,2025-02-19,
+LEAD01449,2024-03-23,Cold Outreach,E0009,Qualified,2024-03-25,
+LEAD01450,2025-11-02,Referral,E0057,Qualified,2025-11-22,
+LEAD01451,2025-06-08,Trade Show,E0028,Qualified,2025-06-10,
+LEAD01452,2025-10-31,Referral,E0100,Qualified,2025-11-12,
+LEAD01453,2025-03-06,Referral,E0089,Qualified,2025-03-14,
+LEAD01454,2025-03-02,Referral,E0018,Qualified,2025-03-18,
+LEAD01455,2025-07-23,Trade Show,E0099,Disqualified,2025-08-12,Unresponsive
+LEAD01456,2025-06-11,Partner Channel,E0014,Disqualified,2025-06-19,No Budget
+LEAD01457,2025-10-27,Trade Show,E0014,Disqualified,2025-11-08,No Longer Interested
+LEAD01458,2025-03-16,Web Inquiry,E0126,Disqualified,2025-03-21,Wrong Fit
+LEAD01459,2024-04-16,Partner Channel,E0085,Disqualified,2024-04-24,Went With Competitor
+LEAD01460,2024-09-09,Cold Outreach,E0014,Qualified,2024-09-27,
+LEAD01461,2024-03-31,Partner Channel,E0028,Qualified,2024-04-07,
+LEAD01462,2024-06-10,Partner Channel,E0148,Disqualified,2024-06-29,No Budget
+LEAD01463,2024-11-29,Cold Outreach,E0099,Disqualified,2024-12-15,No Longer Interested
+LEAD01464,2025-11-26,Trade Show,E0163,Qualified,2025-12-02,
+LEAD01465,2025-10-23,Cold Outreach,E0096,Disqualified,2025-11-09,No Longer Interested
+LEAD01466,2024-02-22,Cold Outreach,E0014,Disqualified,2024-03-06,Wrong Fit
+LEAD01467,2025-09-16,Trade Show,E0172,Qualified,2025-09-19,
+LEAD01468,2024-09-15,Cold Outreach,E0085,Disqualified,2024-09-26,Wrong Fit
+LEAD01469,2025-04-16,Partner Channel,E0100,Qualified,2025-04-22,
+LEAD01470,2024-01-27,Referral,E0163,Qualified,2024-02-12,
+LEAD01471,2025-08-23,Web Inquiry,E0032,Disqualified,2025-09-03,Went With Competitor
+LEAD01472,2024-08-28,Partner Channel,E0122,Disqualified,2024-09-13,No Budget
+LEAD01473,2025-07-26,Trade Show,E0059,Disqualified,2025-07-31,No Longer Interested
+LEAD01474,2025-03-09,Partner Channel,E0100,Disqualified,2025-03-19,Went With Competitor
+LEAD01475,2024-11-03,Web Inquiry,E0161,Disqualified,2024-11-13,No Budget
+LEAD01476,2024-01-11,Partner Channel,E0173,Disqualified,2024-01-28,No Budget
+LEAD01477,2024-05-27,Web Inquiry,E0096,Disqualified,2024-06-09,No Longer Interested
+LEAD01478,2024-01-22,Cold Outreach,E0161,Qualified,2024-01-26,
+LEAD01479,2025-07-08,Referral,E0172,Disqualified,2025-07-12,No Longer Interested
+LEAD01480,2024-05-15,Cold Outreach,E0009,Qualified,2024-05-24,
+LEAD01481,2024-05-03,Cold Outreach,E0099,Qualified,2024-05-22,
+LEAD01482,2025-12-21,Partner Channel,E0052,Qualified,2025-12-23,
+LEAD01483,2025-10-21,Trade Show,E0096,Disqualified,2025-11-09,Unresponsive
+LEAD01484,2024-03-11,Trade Show,E0126,Disqualified,2024-03-18,Wrong Fit
+LEAD01485,2025-03-19,Cold Outreach,E0057,Disqualified,2025-03-27,No Budget
+LEAD01486,2024-04-23,Web Inquiry,E0100,Qualified,2024-04-27,
+LEAD01487,2025-01-20,Referral,E0126,Disqualified,2025-01-27,No Budget
+LEAD01488,2025-11-04,Cold Outreach,E0172,Disqualified,2025-11-16,Wrong Fit
+LEAD01489,2024-11-27,Partner Channel,E0173,Disqualified,2024-12-06,Went With Competitor
+LEAD01490,2025-09-27,Web Inquiry,E0059,Disqualified,2025-10-11,No Budget
+LEAD01491,2025-06-07,Cold Outreach,E0172,Disqualified,2025-06-17,Went With Competitor
+LEAD01492,2025-01-13,Partner Channel,E0014,Qualified,2025-01-31,
+LEAD01493,2024-06-11,Trade Show,E0028,Disqualified,2024-06-28,No Budget
+LEAD01494,2024-09-08,Partner Channel,E0052,Qualified,2024-09-27,
+LEAD01495,2025-07-09,Web Inquiry,E0172,Disqualified,2025-07-12,No Budget
+LEAD01496,2024-10-14,Trade Show,E0052,Disqualified,2024-10-26,Wrong Fit
+LEAD01497,2025-06-19,Partner Channel,E0161,Disqualified,2025-07-02,Wrong Fit
+LEAD01498,2024-03-02,Referral,E0148,Disqualified,2024-03-06,Wrong Fit
+LEAD01499,2025-06-01,Cold Outreach,E0057,Qualified,2025-06-05,
+LEAD01500,2024-11-22,Referral,E0057,Disqualified,2024-12-02,Went With Competitor
+LEAD01501,2025-02-08,Referral,E0126,Qualified,2025-02-17,
+LEAD01502,2024-07-16,Trade Show,E0089,Disqualified,2024-07-22,No Longer Interested
+LEAD01503,2024-01-17,Web Inquiry,E0089,Disqualified,2024-01-30,No Longer Interested
+LEAD01504,2024-02-27,Cold Outreach,E0052,Disqualified,2024-03-14,Went With Competitor
+LEAD01505,2025-09-10,Cold Outreach,E0119,Disqualified,2025-09-24,No Budget
+LEAD01506,2024-04-11,Referral,E0089,Disqualified,2024-04-21,Unresponsive
+LEAD01507,2024-05-31,Cold Outreach,E0057,Qualified,2024-06-04,
+LEAD01508,2025-08-06,Web Inquiry,E0085,Disqualified,2025-08-23,No Budget
+LEAD01509,2025-06-16,Partner Channel,E0089,Qualified,2025-06-21,
+LEAD01510,2025-09-28,Trade Show,E0099,Disqualified,2025-10-08,No Budget
+LEAD01511,2024-12-04,Trade Show,E0173,Disqualified,2024-12-06,No Longer Interested
+LEAD01512,2024-09-23,Cold Outreach,E0148,Disqualified,2024-10-04,Went With Competitor
+LEAD01513,2025-11-02,Web Inquiry,E0057,Disqualified,2025-11-06,Went With Competitor
+LEAD01514,2025-07-14,Web Inquiry,E0057,Disqualified,2025-07-31,No Longer Interested
+LEAD01515,2024-02-04,Cold Outreach,E0059,Disqualified,2024-02-15,Unresponsive
+LEAD01516,2025-09-29,Partner Channel,E0119,Disqualified,2025-10-02,Went With Competitor
+LEAD01517,2024-05-08,Trade Show,E0014,Qualified,2024-05-18,
+LEAD01518,2025-09-04,Web Inquiry,E0173,Disqualified,2025-09-09,Went With Competitor
+LEAD01519,2024-05-23,Web Inquiry,E0126,Disqualified,2024-06-05,Wrong Fit
+LEAD01520,2024-02-17,Referral,E0100,Disqualified,2024-03-08,No Budget
+LEAD01521,2025-06-27,Partner Channel,E0173,Qualified,2025-07-07,
+LEAD01522,2024-07-19,Web Inquiry,E0057,Disqualified,2024-07-24,Went With Competitor
+LEAD01523,2025-04-12,Referral,E0126,Qualified,2025-05-01,
+LEAD01524,2025-06-01,Web Inquiry,E0119,Qualified,2025-06-20,
+LEAD01525,2024-04-10,Cold Outreach,E0032,Disqualified,2024-04-27,No Budget
+LEAD01526,2024-09-07,Trade Show,E0089,Qualified,2024-09-09,
+LEAD01527,2025-09-05,Partner Channel,E0122,Disqualified,2025-09-22,Went With Competitor
+LEAD01528,2025-02-12,Web Inquiry,E0119,Disqualified,2025-02-14,No Longer Interested
+LEAD01529,2024-05-01,Partner Channel,E0085,Disqualified,2024-05-06,No Budget
+LEAD01530,2025-10-24,Partner Channel,E0089,Disqualified,2025-11-09,Unresponsive
+LEAD01531,2025-08-22,Web Inquiry,E0148,Qualified,2025-09-04,
+LEAD01532,2024-01-03,Referral,E0089,Disqualified,2024-01-05,No Longer Interested
+LEAD01533,2025-08-16,Partner Channel,E0163,Qualified,2025-08-28,
+LEAD01534,2025-11-28,Trade Show,E0161,Qualified,2025-12-12,
+LEAD01535,2025-01-12,Cold Outreach,E0028,Disqualified,2025-01-27,Wrong Fit
+LEAD01536,2025-01-16,Referral,E0009,Disqualified,2025-01-26,No Budget
+LEAD01537,2025-07-25,Partner Channel,E0052,Qualified,2025-08-07,
+LEAD01538,2025-12-01,Referral,E0099,Disqualified,2025-12-08,Unresponsive
+LEAD01539,2024-05-05,Referral,E0119,Disqualified,2024-05-15,Unresponsive
+LEAD01540,2025-02-11,Web Inquiry,E0028,Qualified,2025-03-03,
+LEAD01541,2025-03-11,Referral,E0122,Disqualified,2025-03-14,Unresponsive
+LEAD01542,2025-02-06,Cold Outreach,E0161,Qualified,2025-02-12,
+LEAD01543,2025-10-25,Referral,E0122,Disqualified,2025-11-14,Unresponsive
+LEAD01544,2025-07-06,Referral,E0032,Disqualified,2025-07-14,Went With Competitor
+LEAD01545,2025-07-09,Partner Channel,E0014,Disqualified,2025-07-15,Wrong Fit
+LEAD01546,2025-06-13,Web Inquiry,E0148,Disqualified,2025-06-29,Wrong Fit
+LEAD01547,2025-07-05,Partner Channel,E0052,Qualified,2025-07-18,
+LEAD01548,2024-05-31,Cold Outreach,E0173,Qualified,2024-06-05,
+LEAD01549,2025-01-01,Cold Outreach,E0085,Disqualified,2025-01-05,No Longer Interested
+LEAD01550,2025-07-31,Trade Show,E0096,Qualified,2025-08-04,
+LEAD01551,2025-08-31,Referral,E0163,Qualified,2025-09-04,
+LEAD01552,2024-09-02,Cold Outreach,E0122,Disqualified,2024-09-13,No Budget
+LEAD01553,2025-05-03,Cold Outreach,E0057,Qualified,2025-05-06,
+LEAD01554,2025-06-29,Referral,E0057,Disqualified,2025-07-15,Went With Competitor
+LEAD01555,2024-02-25,Web Inquiry,E0100,Disqualified,2024-03-15,No Longer Interested
+LEAD01556,2024-05-15,Cold Outreach,E0172,Disqualified,2024-05-22,No Longer Interested
+LEAD01557,2025-03-26,Trade Show,E0085,Disqualified,2025-04-03,Wrong Fit
+LEAD01558,2025-06-01,Trade Show,E0085,Disqualified,2025-06-06,No Budget
+LEAD01559,2024-06-11,Trade Show,E0148,Disqualified,2024-06-17,Went With Competitor
+LEAD01560,2025-01-05,Referral,E0057,Qualified,2025-01-11,
+LEAD01561,2024-03-29,Referral,E0028,Qualified,2024-04-18,
+LEAD01562,2024-05-13,Partner Channel,E0163,Qualified,2024-05-29,
+LEAD01563,2025-10-07,Web Inquiry,E0122,Disqualified,2025-10-11,Went With Competitor
+LEAD01564,2025-02-08,Trade Show,E0057,Disqualified,2025-02-12,No Longer Interested
+LEAD01565,2024-11-13,Trade Show,E0172,Disqualified,2024-11-29,No Budget
+LEAD01566,2024-03-15,Web Inquiry,E0099,Disqualified,2024-03-31,Wrong Fit
+LEAD01567,2024-03-18,Trade Show,E0161,Disqualified,2024-03-24,Went With Competitor
+LEAD01568,2024-10-10,Cold Outreach,E0148,Disqualified,2024-10-23,Wrong Fit
+LEAD01569,2025-01-21,Cold Outreach,E0126,Disqualified,2025-01-26,Wrong Fit
+LEAD01570,2025-04-27,Web Inquiry,E0085,Disqualified,2025-04-29,Went With Competitor
+LEAD01571,2025-01-23,Web Inquiry,E0032,Disqualified,2025-02-08,Unresponsive
+LEAD01572,2024-06-26,Partner Channel,E0085,Disqualified,2024-07-10,No Budget
+LEAD01573,2025-07-20,Web Inquiry,E0032,Disqualified,2025-07-25,Went With Competitor
+LEAD01574,2025-10-16,Trade Show,E0085,Qualified,2025-11-03,
+LEAD01575,2025-04-28,Trade Show,E0032,Disqualified,2025-05-06,No Budget
+LEAD01576,2025-06-21,Web Inquiry,E0099,Qualified,2025-07-05,
+LEAD01577,2024-12-09,Trade Show,E0028,Qualified,2024-12-29,
+LEAD01578,2024-02-15,Cold Outreach,E0009,Disqualified,2024-02-23,Wrong Fit
+LEAD01579,2025-07-02,Trade Show,E0089,Qualified,2025-07-15,
+LEAD01580,2024-12-23,Trade Show,E0059,Qualified,2025-01-05,
+LEAD01581,2025-04-01,Referral,E0028,Disqualified,2025-04-11,Went With Competitor
+LEAD01582,2025-07-23,Cold Outreach,E0122,Disqualified,2025-08-04,No Longer Interested
+LEAD01583,2025-02-04,Referral,E0163,Qualified,2025-02-18,
+LEAD01584,2024-03-09,Web Inquiry,E0163,Disqualified,2024-03-18,Went With Competitor
+LEAD01585,2025-06-26,Partner Channel,E0059,Disqualified,2025-07-14,No Budget
+LEAD01586,2024-06-09,Cold Outreach,E0099,Qualified,2024-06-15,
+LEAD01587,2024-01-14,Cold Outreach,E0172,Qualified,2024-01-19,
+LEAD01588,2024-08-21,Partner Channel,E0052,Disqualified,2024-09-03,Went With Competitor
+LEAD01589,2024-11-25,Referral,E0096,Disqualified,2024-12-14,Unresponsive
+LEAD01590,2024-09-20,Partner Channel,E0059,Disqualified,2024-10-04,Unresponsive
+LEAD01591,2024-07-10,Partner Channel,E0100,Qualified,2024-07-19,
+LEAD01592,2024-01-13,Partner Channel,E0119,Disqualified,2024-01-21,Wrong Fit
+LEAD01593,2024-08-25,Partner Channel,E0009,Disqualified,2024-09-05,Went With Competitor
+LEAD01594,2024-10-16,Web Inquiry,E0172,Qualified,2024-11-05,
+LEAD01595,2024-03-05,Partner Channel,E0172,Disqualified,2024-03-09,Went With Competitor
+LEAD01596,2025-01-06,Web Inquiry,E0018,Qualified,2025-01-25,
+LEAD01597,2025-09-24,Cold Outreach,E0085,Qualified,2025-10-04,
+LEAD01598,2024-08-26,Web Inquiry,E0057,Disqualified,2024-09-08,Went With Competitor
+LEAD01599,2025-09-25,Web Inquiry,E0119,Qualified,2025-10-13,
+LEAD01600,2024-07-07,Referral,E0126,Qualified,2024-07-10,
+LEAD01601,2024-06-05,Trade Show,E0163,Qualified,2024-06-23,
+LEAD01602,2024-04-15,Partner Channel,E0119,Disqualified,2024-04-26,Went With Competitor
+LEAD01603,2025-07-19,Trade Show,E0028,Disqualified,2025-08-04,No Budget
+LEAD01604,2025-07-19,Web Inquiry,E0059,Qualified,2025-08-08,
+LEAD01605,2024-03-05,Trade Show,E0018,Disqualified,2024-03-07,No Longer Interested
+LEAD01606,2025-06-24,Web Inquiry,E0126,Disqualified,2025-06-28,No Budget
+LEAD01607,2024-12-24,Referral,E0148,Disqualified,2025-01-02,No Budget
+LEAD01608,2025-09-16,Referral,E0119,Disqualified,2025-09-21,No Longer Interested
+LEAD01609,2024-04-16,Cold Outreach,E0122,Qualified,2024-05-02,
+LEAD01610,2024-06-13,Trade Show,E0163,Qualified,2024-06-25,
+LEAD01611,2025-01-21,Cold Outreach,E0028,Qualified,2025-01-25,
+LEAD01612,2025-02-09,Web Inquiry,E0059,Disqualified,2025-02-20,No Longer Interested
+LEAD01613,2024-01-12,Partner Channel,E0096,Qualified,2024-01-20,
+LEAD01614,2025-04-28,Referral,E0085,Qualified,2025-05-06,
+LEAD01615,2024-02-28,Web Inquiry,E0032,Disqualified,2024-03-16,No Budget
+LEAD01616,2024-12-09,Web Inquiry,E0052,Qualified,2024-12-27,
+LEAD01617,2025-01-23,Cold Outreach,E0119,Disqualified,2025-02-08,No Budget
+LEAD01618,2025-02-20,Web Inquiry,E0173,Qualified,2025-03-01,
+LEAD01619,2025-09-30,Partner Channel,E0009,Disqualified,2025-10-08,Went With Competitor
+LEAD01620,2024-10-24,Trade Show,E0028,Qualified,2024-10-30,
+LEAD01621,2024-12-09,Web Inquiry,E0059,Disqualified,2024-12-13,No Budget
+LEAD01622,2024-03-01,Partner Channel,E0148,Qualified,2024-03-13,
+LEAD01623,2024-03-19,Web Inquiry,E0096,Qualified,2024-03-31,
+LEAD01624,2025-09-18,Referral,E0085,Qualified,2025-09-30,
+LEAD01625,2025-06-02,Partner Channel,E0089,Qualified,2025-06-16,
+LEAD01626,2025-04-26,Partner Channel,E0057,Qualified,2025-04-29,
+LEAD01627,2024-01-16,Web Inquiry,E0032,Disqualified,2024-01-22,Went With Competitor
+LEAD01628,2024-07-30,Referral,E0009,Disqualified,2024-08-07,No Budget
+LEAD01629,2025-01-08,Trade Show,E0085,Qualified,2025-01-21,
+LEAD01630,2024-03-16,Partner Channel,E0009,Disqualified,2024-03-24,No Budget
+LEAD01631,2025-05-09,Cold Outreach,E0122,Disqualified,2025-05-22,No Budget
+LEAD01632,2025-06-28,Referral,E0085,Disqualified,2025-07-05,No Budget
+LEAD01633,2025-06-20,Partner Channel,E0126,Disqualified,2025-07-10,No Longer Interested
+LEAD01634,2024-10-22,Cold Outreach,E0119,Disqualified,2024-10-25,Unresponsive
+LEAD01635,2025-12-10,Trade Show,E0099,Open,,
+LEAD01636,2024-08-14,Trade Show,E0052,Disqualified,2024-09-02,No Budget
+LEAD01637,2025-03-02,Partner Channel,E0057,Disqualified,2025-03-14,No Budget
+LEAD01638,2025-02-27,Web Inquiry,E0119,Disqualified,2025-03-15,Wrong Fit
+LEAD01639,2024-11-05,Trade Show,E0161,Qualified,2024-11-11,
+LEAD01640,2024-11-03,Referral,E0085,Disqualified,2024-11-08,No Budget
+LEAD01641,2025-11-25,Cold Outreach,E0009,Qualified,2025-12-15,
+LEAD01642,2025-03-22,Partner Channel,E0085,Disqualified,2025-03-27,No Budget
+LEAD01643,2025-11-13,Web Inquiry,E0014,Disqualified,2025-11-22,Went With Competitor
+LEAD01644,2025-12-14,Cold Outreach,E0119,Open,,
+LEAD01645,2025-11-29,Trade Show,E0172,Qualified,2025-12-14,
+LEAD01646,2024-05-07,Web Inquiry,E0148,Disqualified,2024-05-23,Wrong Fit
+LEAD01647,2024-11-14,Web Inquiry,E0163,Disqualified,2024-12-01,No Longer Interested
+LEAD01648,2025-12-11,Partner Channel,E0059,Open,,
+LEAD01649,2024-03-31,Trade Show,E0119,Disqualified,2024-04-15,No Budget
+LEAD01650,2025-05-09,Referral,E0028,Disqualified,2025-05-22,No Budget
+LEAD01651,2024-04-24,Web Inquiry,E0059,Qualified,2024-05-09,
+LEAD01652,2024-07-31,Cold Outreach,E0148,Disqualified,2024-08-15,Unresponsive
+LEAD01653,2024-09-19,Partner Channel,E0100,Disqualified,2024-10-02,Wrong Fit
+LEAD01654,2025-10-26,Partner Channel,E0032,Disqualified,2025-11-08,No Longer Interested
+LEAD01655,2024-12-15,Partner Channel,E0148,Qualified,2024-12-25,
+LEAD01656,2025-05-17,Referral,E0028,Disqualified,2025-05-24,Wrong Fit
+LEAD01657,2024-05-09,Cold Outreach,E0163,Disqualified,2024-05-24,Went With Competitor
+LEAD01658,2024-03-12,Cold Outreach,E0100,Qualified,2024-03-28,
+LEAD01659,2025-10-09,Trade Show,E0173,Disqualified,2025-10-11,Unresponsive
+LEAD01660,2025-12-13,Referral,E0018,Open,,
+LEAD01661,2025-09-01,Referral,E0052,Qualified,2025-09-18,
+LEAD01662,2025-10-11,Referral,E0018,Disqualified,2025-10-18,Wrong Fit
+LEAD01663,2024-05-16,Trade Show,E0089,Disqualified,2024-05-19,No Budget
+LEAD01664,2025-08-26,Web Inquiry,E0009,Disqualified,2025-09-09,Wrong Fit
+LEAD01665,2024-06-23,Web Inquiry,E0173,Disqualified,2024-07-01,No Budget
+LEAD01666,2025-08-23,Web Inquiry,E0085,Disqualified,2025-09-10,Went With Competitor
+LEAD01667,2025-07-25,Trade Show,E0059,Disqualified,2025-08-06,No Longer Interested
+LEAD01668,2024-09-22,Cold Outreach,E0032,Disqualified,2024-09-27,Wrong Fit
+LEAD01669,2024-11-21,Web Inquiry,E0119,Qualified,2024-12-10,
+LEAD01670,2024-04-08,Partner Channel,E0163,Disqualified,2024-04-16,No Longer Interested
+LEAD01671,2025-12-20,Referral,E0018,Open,,
+LEAD01672,2025-05-14,Trade Show,E0085,Disqualified,2025-05-27,Wrong Fit
+LEAD01673,2025-06-21,Referral,E0085,Qualified,2025-07-06,
+LEAD01674,2025-04-30,Trade Show,E0148,Disqualified,2025-05-20,Went With Competitor
+LEAD01675,2025-01-13,Trade Show,E0163,Qualified,2025-01-16,
+LEAD01676,2024-05-26,Referral,E0148,Disqualified,2024-05-30,No Budget
+LEAD01677,2024-08-21,Trade Show,E0052,Disqualified,2024-09-07,No Budget
+LEAD01678,2025-01-03,Cold Outreach,E0172,Disqualified,2025-01-22,Went With Competitor
+LEAD01679,2024-07-23,Web Inquiry,E0163,Disqualified,2024-07-30,Went With Competitor
+LEAD01680,2025-01-05,Partner Channel,E0161,Disqualified,2025-01-22,No Budget
+LEAD01681,2025-02-28,Partner Channel,E0119,Disqualified,2025-03-04,No Budget
+LEAD01682,2025-07-09,Trade Show,E0028,Disqualified,2025-07-12,Wrong Fit
+LEAD01683,2024-10-19,Trade Show,E0161,Disqualified,2024-10-30,Wrong Fit
+LEAD01684,2024-12-03,Cold Outreach,E0161,Qualified,2024-12-20,
+LEAD01685,2025-11-14,Cold Outreach,E0119,Qualified,2025-11-24,
+LEAD01686,2025-07-22,Cold Outreach,E0122,Disqualified,2025-08-08,No Budget
+LEAD01687,2025-07-17,Trade Show,E0014,Qualified,2025-08-05,
+LEAD01688,2024-12-10,Web Inquiry,E0009,Disqualified,2024-12-23,Wrong Fit
+LEAD01689,2024-02-05,Web Inquiry,E0099,Qualified,2024-02-20,
+LEAD01690,2025-07-15,Referral,E0028,Disqualified,2025-07-27,Wrong Fit
+LEAD01691,2025-07-18,Trade Show,E0122,Qualified,2025-07-25,
+LEAD01692,2024-01-11,Partner Channel,E0052,Qualified,2024-01-18,
+LEAD01693,2024-10-18,Trade Show,E0014,Qualified,2024-10-23,
+LEAD01694,2025-12-11,Web Inquiry,E0148,Open,,
+LEAD01695,2025-08-28,Trade Show,E0119,Disqualified,2025-09-08,Went With Competitor
+LEAD01696,2024-04-29,Cold Outreach,E0122,Disqualified,2024-05-19,No Budget
+LEAD01697,2024-02-28,Trade Show,E0009,Qualified,2024-03-16,
+LEAD01698,2024-03-31,Partner Channel,E0148,Qualified,2024-04-14,
+LEAD01699,2025-11-26,Trade Show,E0059,Disqualified,2025-12-10,Went With Competitor
+LEAD01700,2025-05-11,Cold Outreach,E0119,Qualified,2025-05-26,
+LEAD01701,2024-08-18,Cold Outreach,E0172,Disqualified,2024-08-21,No Budget
+LEAD01702,2024-12-27,Cold Outreach,E0122,Disqualified,2025-01-02,No Budget
+LEAD01703,2025-06-09,Referral,E0163,Qualified,2025-06-21,
+LEAD01704,2024-10-06,Referral,E0119,Disqualified,2024-10-12,Went With Competitor
+LEAD01705,2024-01-09,Cold Outreach,E0014,Qualified,2024-01-25,
+LEAD01706,2025-03-09,Trade Show,E0122,Qualified,2025-03-20,
+LEAD01707,2025-06-11,Trade Show,E0148,Disqualified,2025-06-27,No Longer Interested
+LEAD01708,2024-01-19,Partner Channel,E0163,Disqualified,2024-01-30,Wrong Fit
+LEAD01709,2024-12-13,Cold Outreach,E0028,Qualified,2024-12-29,
+LEAD01710,2024-10-31,Trade Show,E0122,Qualified,2024-11-05,
+LEAD01711,2024-05-01,Web Inquiry,E0173,Qualified,2024-05-14,
+LEAD01712,2025-12-26,Cold Outreach,E0173,Disqualified,2025-12-29,Went With Competitor
+LEAD01713,2024-01-18,Referral,E0059,Qualified,2024-01-23,
+LEAD01714,2025-06-05,Cold Outreach,E0014,Qualified,2025-06-20,
+LEAD01715,2024-09-17,Referral,E0018,Disqualified,2024-10-02,No Longer Interested
+LEAD01716,2024-11-23,Trade Show,E0126,Disqualified,2024-12-08,Unresponsive
+LEAD01717,2025-01-16,Partner Channel,E0163,Qualified,2025-01-21,
+LEAD01718,2025-01-05,Web Inquiry,E0059,Disqualified,2025-01-23,Unresponsive
+LEAD01719,2025-05-09,Referral,E0172,Disqualified,2025-05-26,Went With Competitor
+LEAD01720,2025-12-27,Partner Channel,E0173,Open,,
+LEAD01721,2025-01-13,Referral,E0059,Disqualified,2025-01-22,No Budget
+LEAD01722,2025-09-30,Web Inquiry,E0028,Disqualified,2025-10-15,Went With Competitor
+LEAD01723,2024-12-07,Cold Outreach,E0052,Qualified,2024-12-17,
+LEAD01724,2024-10-06,Trade Show,E0099,Qualified,2024-10-26,
+LEAD01725,2025-04-28,Trade Show,E0100,Qualified,2025-05-14,
+LEAD01726,2025-05-25,Trade Show,E0028,Disqualified,2025-06-07,Went With Competitor
+LEAD01727,2024-07-06,Web Inquiry,E0085,Disqualified,2024-07-08,No Budget
+LEAD01728,2025-04-09,Partner Channel,E0126,Qualified,2025-04-24,
+LEAD01729,2024-06-21,Partner Channel,E0122,Qualified,2024-06-25,
+LEAD01730,2024-04-07,Web Inquiry,E0099,Disqualified,2024-04-20,No Budget
+LEAD01731,2024-05-05,Trade Show,E0085,Disqualified,2024-05-11,Wrong Fit
+LEAD01732,2025-10-30,Trade Show,E0096,Disqualified,2025-11-10,Wrong Fit
+LEAD01733,2025-03-03,Web Inquiry,E0096,Disqualified,2025-03-08,Wrong Fit
+LEAD01734,2024-05-10,Trade Show,E0126,Disqualified,2024-05-28,Went With Competitor
+LEAD01735,2024-12-23,Cold Outreach,E0148,Disqualified,2025-01-03,Wrong Fit
+LEAD01736,2024-07-12,Partner Channel,E0032,Qualified,2024-07-26,
+LEAD01737,2024-04-28,Partner Channel,E0096,Disqualified,2024-05-09,Wrong Fit
+LEAD01738,2024-06-18,Trade Show,E0172,Qualified,2024-06-26,
+LEAD01739,2024-04-06,Partner Channel,E0059,Qualified,2024-04-15,
+LEAD01740,2025-06-13,Web Inquiry,E0172,Disqualified,2025-06-29,Unresponsive
+LEAD01741,2024-10-28,Partner Channel,E0100,Disqualified,2024-11-01,Unresponsive
+LEAD01742,2024-02-09,Referral,E0148,Disqualified,2024-02-20,Unresponsive
+LEAD01743,2024-05-02,Cold Outreach,E0099,Disqualified,2024-05-21,Wrong Fit
+LEAD01744,2024-02-05,Cold Outreach,E0122,Disqualified,2024-02-19,No Budget
+LEAD01745,2025-01-14,Trade Show,E0009,Disqualified,2025-01-21,Went With Competitor
+LEAD01746,2024-08-03,Partner Channel,E0018,Qualified,2024-08-17,
+LEAD01747,2025-10-09,Trade Show,E0052,Qualified,2025-10-25,
+LEAD01748,2025-02-20,Partner Channel,E0052,Qualified,2025-02-27,
+LEAD01749,2024-11-19,Trade Show,E0099,Disqualified,2024-12-05,No Longer Interested
+LEAD01750,2024-10-13,Partner Channel,E0028,Disqualified,2024-10-29,Went With Competitor
+LEAD01751,2025-04-02,Referral,E0028,Qualified,2025-04-19,
+LEAD01752,2024-01-21,Cold Outreach,E0173,Disqualified,2024-01-23,Wrong Fit
+LEAD01753,2025-11-21,Referral,E0014,Disqualified,2025-12-08,Unresponsive
+LEAD01754,2024-03-17,Partner Channel,E0059,Qualified,2024-04-05,
+LEAD01755,2025-07-28,Referral,E0126,Disqualified,2025-08-14,No Budget
+LEAD01756,2024-03-30,Referral,E0122,Qualified,2024-04-03,
+LEAD01757,2024-12-13,Cold Outreach,E0009,Disqualified,2024-12-18,Unresponsive
+LEAD01758,2024-02-07,Partner Channel,E0059,Qualified,2024-02-13,
+LEAD01759,2025-09-27,Partner Channel,E0059,Disqualified,2025-10-03,Wrong Fit
+LEAD01760,2024-08-03,Web Inquiry,E0096,Disqualified,2024-08-18,Unresponsive
+LEAD01761,2025-11-08,Cold Outreach,E0173,Disqualified,2025-11-25,No Longer Interested
+LEAD01762,2024-01-27,Partner Channel,E0059,Disqualified,2024-02-01,No Budget
+LEAD01763,2025-05-25,Trade Show,E0089,Qualified,2025-05-28,
+LEAD01764,2024-02-27,Cold Outreach,E0096,Disqualified,2024-03-02,No Longer Interested
+LEAD01765,2025-11-12,Web Inquiry,E0085,Disqualified,2025-11-14,No Budget
+LEAD01766,2024-10-30,Web Inquiry,E0032,Disqualified,2024-11-08,Wrong Fit
+LEAD01767,2025-03-10,Referral,E0089,Qualified,2025-03-25,
+LEAD01768,2025-02-20,Referral,E0085,Qualified,2025-03-01,
+LEAD01769,2025-12-28,Partner Channel,E0119,Open,,
+LEAD01770,2025-12-02,Trade Show,E0059,Disqualified,2025-12-10,Unresponsive
+LEAD01771,2025-04-28,Referral,E0009,Disqualified,2025-05-08,No Budget
+LEAD01772,2025-03-12,Trade Show,E0122,Qualified,2025-03-27,
+LEAD01773,2024-03-31,Partner Channel,E0085,Disqualified,2024-04-13,No Budget
+LEAD01774,2025-05-20,Referral,E0148,Qualified,2025-05-27,
+LEAD01775,2024-06-13,Cold Outreach,E0148,Disqualified,2024-06-17,Unresponsive
+LEAD01776,2025-08-04,Partner Channel,E0059,Disqualified,2025-08-11,Wrong Fit
+LEAD01777,2025-09-30,Cold Outreach,E0173,Qualified,2025-10-06,
+LEAD01778,2024-04-05,Cold Outreach,E0161,Disqualified,2024-04-22,Wrong Fit
+LEAD01779,2025-03-05,Partner Channel,E0148,Qualified,2025-03-24,
+LEAD01780,2024-11-14,Referral,E0096,Disqualified,2024-11-21,Went With Competitor
+LEAD01781,2025-11-17,Cold Outreach,E0173,Disqualified,2025-11-23,Unresponsive
+LEAD01782,2024-08-23,Referral,E0089,Disqualified,2024-08-26,No Longer Interested
+LEAD01783,2025-06-19,Partner Channel,E0057,Qualified,2025-07-01,
+LEAD01784,2024-07-06,Trade Show,E0126,Disqualified,2024-07-16,Went With Competitor
+LEAD01785,2025-06-10,Cold Outreach,E0052,Disqualified,2025-06-29,Unresponsive
+LEAD01786,2024-03-10,Referral,E0099,Disqualified,2024-03-25,Unresponsive
+LEAD01787,2024-12-28,Partner Channel,E0096,Disqualified,2025-01-16,No Longer Interested
+LEAD01788,2025-03-23,Partner Channel,E0052,Qualified,2025-03-27,
+LEAD01789,2025-12-30,Cold Outreach,E0126,Open,,
+LEAD01790,2024-11-25,Referral,E0148,Disqualified,2024-12-01,No Longer Interested
+LEAD01791,2024-06-05,Trade Show,E0089,Disqualified,2024-06-10,No Longer Interested
+LEAD01792,2024-10-05,Partner Channel,E0173,Qualified,2024-10-11,
+LEAD01793,2024-03-03,Web Inquiry,E0126,Qualified,2024-03-09,
+LEAD01794,2025-11-26,Referral,E0018,Qualified,2025-12-05,
+LEAD01795,2024-04-10,Referral,E0089,Qualified,2024-04-28,
+LEAD01796,2025-01-04,Referral,E0173,Qualified,2025-01-23,
+LEAD01797,2024-03-11,Partner Channel,E0059,Disqualified,2024-03-24,No Longer Interested
+LEAD01798,2024-12-01,Referral,E0085,Disqualified,2024-12-09,Went With Competitor
+LEAD01799,2025-07-05,Trade Show,E0161,Qualified,2025-07-22,
+LEAD01800,2025-10-25,Cold Outreach,E0161,Disqualified,2025-10-29,Wrong Fit

@@ -1,0 +1,45 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.11", "3.12"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements-dev.txt
+          pip install -e .
+
+      - name: Lint
+        run: |
+          flake8 src tests scripts --max-line-length=100 --extend-ignore=E203
+          black --check src tests scripts
+
+      - name: Run tests
+        run: pytest -v --cov=crm_sop_planning --cov-report=term-missing
+
+      - name: Generate the synthetic dataset
+        run: python -m crm_sop_planning.cli generate-data --seed 42
+
+      - name: Smoke test the full pipeline (forecast -> LP -> MRP -> CRM analytics -> Excel)
+        run: python -m crm_sop_planning.cli run
+
+      - name: Smoke test the dashboard data export
+        run: python scripts/export_dashboard_data.py

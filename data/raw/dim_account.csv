@@ -1,0 +1,71 @@
+account_id,account_name,account_type,region_id,annual_revenue_estimate_irr,credit_limit_irr,created_date
+ACC0001,Rodriguez Import & Export Co.,Distributor,R01,7074526,961143,2021-06-30
+ACC0002,Rhodes PLC Fleet Services,Distributor,R01,3738800,551705,2021-03-11
+ACC0003,Johnson-Davis Import & Export Co.,Retailer,R06,11741383,737492,2022-01-12
+ACC0004,Johnson Battery Center,Retailer,R06,27114483,3868599,2023-10-30
+ACC0005,Cole LLC Fleet Services,Retailer,R06,32251297,3042633,2025-05-08
+ACC0006,Blake and Sons Auto Parts,Retailer,R04,18965375,1069300,2024-09-16
+ACC0007,Ramirez-Lewis Import & Export Co.,Export,R07,14147547,1779885,2025-01-31
+ACC0008,Davis Inc Distribution Group,Distributor,R05,34476170,4802948,2022-10-04
+ACC0009,Munoz-Roman Import & Export Co.,Distributor,R05,11450071,1106902,2024-11-21
+ACC0010,Martinez Trading Co.,Retailer,R04,19558349,2313848,2022-05-19
+ACC0011,Montgomery Import & Export Co.,Export,R07,11023164,910320,2024-09-30
+ACC0012,Stanley LLC Distribution Group,Export,R07,22548646,1554664,2026-05-12
+ACC0013,Delacruz Group Trading Co.,Retailer,R04,8136661,591461,2022-04-17
+ACC0014,Flowers Fleet Services,Retailer,R04,24649764,3285020,2024-07-19
+ACC0015,Zuniga Fleet Services,Distributor,R05,21427977,2854763,2021-09-04
+ACC0016,Sanchez Import & Export Co.,Retailer,R04,15897621,1253254,2026-01-07
+ACC0017,Hawkins Fleet Services,Distributor,R02,17132998,1199152,2025-02-27
+ACC0018,Underwood LLC Trading Co.,Retailer,R06,17937132,2089408,2023-01-01
+ACC0019,Clark PLC Fleet Services,Retailer,R04,11713237,1123200,2025-09-26
+ACC0020,Lewis-Porter Battery Center,Retailer,R04,12084091,742603,2025-10-13
+ACC0021,Ellis Fleet Services,Retailer,R04,28855028,3073741,2023-12-03
+ACC0022,Burgess-Patterson Import & Export Co.,Distributor,R01,16418628,1729832,2024-01-19
+ACC0023,Robinson-Bright Battery Center,Distributor,R01,25529445,1355148,2023-08-17
+ACC0024,Campos Inc Battery Center,OEM / Fleet,R03,59446250,5400862,2021-07-28
+ACC0025,Conner Group Import & Export Co.,Export,R07,6627239,370000,2024-02-15
+ACC0026,James-Ferrell Auto Parts,Retailer,R06,16186660,1880754,2023-09-27
+ACC0027,Valencia Battery Center,Distributor,R01,16370275,1906013,2024-08-12
+ACC0028,Potter Distribution Group,OEM / Fleet,R03,44890765,2994092,2022-05-19
+ACC0029,Chavez Ltd Trading Co.,OEM / Fleet,R03,24959959,3051003,2025-09-25
+ACC0030,Stanton-Gill Battery Center,Distributor,R05,10547699,1055871,2023-08-13
+ACC0031,Harrell LLC Auto Parts,Export,R07,20026597,1894829,2025-07-15
+ACC0032,Lynch Distribution Group,Distributor,R02,10893656,1231290,2023-10-18
+ACC0033,Sellers Distribution Group,Distributor,R05,5320199,328791,2021-05-03
+ACC0034,Koch-Decker Industrial Supply,OEM / Fleet,R03,43134856,5174919,2022-06-18
+ACC0035,Allen PLC Auto Parts,Retailer,R04,36377456,4651770,2026-02-21
+ACC0036,Dennis Inc Import & Export Co.,Distributor,R02,7621377,588554,2026-04-27
+ACC0037,Cannon Trading Co.,Distributor,R01,11555555,1104452,2023-11-09
+ACC0038,Rose-Obrien Auto Parts,Distributor,R05,19857583,2143069,2026-03-30
+ACC0039,Campos Auto Parts,Retailer,R04,5324128,670051,2022-12-27
+ACC0040,Santos Import & Export Co.,Retailer,R04,17242250,1943734,2021-05-22
+ACC0041,Brown Inc Fleet Services,Distributor,R01,12390629,724163,2024-01-29
+ACC0042,Chapman Inc Distribution Group,Retailer,R06,17089891,1698719,2021-02-06
+ACC0043,Brown Distribution Group,Distributor,R02,18808317,1134899,2022-08-05
+ACC0044,Young Fleet Services,Distributor,R02,9362041,1334203,2021-06-15
+ACC0045,Johnston Fleet Services,Export,R07,5589048,609717,2023-01-13
+ACC0046,Davis Group Trading Co.,OEM / Fleet,R03,11645560,1143947,2022-09-24
+ACC0047,Owens-Daniel Import & Export Co.,Retailer,R04,26342353,2599090,2024-07-26
+ACC0048,Garcia Battery Center,Distributor,R05,19581319,2098584,2025-08-26
+ACC0049,Lee PLC Battery Center,Retailer,R04,17670338,1469410,2023-04-10
+ACC0050,White-Ford Battery Center,Retailer,R04,9545040,497880,2025-09-22
+ACC0051,Ramos PLC Import & Export Co.,OEM / Fleet,R03,36394710,2330167,2021-04-03
+ACC0052,Kidd Battery Center,OEM / Fleet,R03,10096727,1183578,2026-01-09
+ACC0053,Martin Group Auto Parts,Distributor,R01,17831564,2187923,2023-06-18
+ACC0054,Barrera-Martin Import & Export Co.,Export,R07,29148606,4127477,2020-09-14
+ACC0055,Baker-Bowers Auto Parts,Export,R07,7455169,786410,2023-04-24
+ACC0056,Horton-Cross Distribution Group,Retailer,R04,8244272,1078558,2025-03-14
+ACC0057,Higgins Distribution Group,Export,R07,28123078,2224304,2026-04-08
+ACC0058,Fitzgerald Battery Center,Distributor,R05,14238587,2044723,2020-12-24
+ACC0059,Shaw-Farrell Auto Parts,Distributor,R02,10654698,996317,2021-08-06
+ACC0060,Miller Industrial Supply,Export,R07,16532051,2064205,2024-07-30
+ACC0061,Powell PLC Industrial Supply,Retailer,R06,13483175,1373744,2022-02-09
+ACC0062,Williams Distribution Group,Retailer,R04,17082545,1984413,2023-12-12
+ACC0063,Donovan-Harris Distribution Group,OEM / Fleet,R03,44018893,5488229,2024-10-24
+ACC0064,Baker and Sons Auto Parts,OEM / Fleet,R03,13837206,1025296,2024-07-22
+ACC0065,Bryant-Hickman Trading Co.,Distributor,R01,48962536,3198645,2026-01-28
+ACC0066,Ellis PLC Auto Parts,Retailer,R06,40751817,5601590,2026-06-04
+ACC0067,Medina PLC Auto Parts,Distributor,R01,7831707,1000426,2022-03-21
+ACC0068,Ibarra-Suarez Industrial Supply,OEM / Fleet,R03,32489083,2091963,2022-10-26
+ACC0069,Kim PLC Trading Co.,Export,R07,39241181,2479345,2024-09-27
+ACC0070,Riggs Fleet Services,Distributor,R01,3488141,351022,2024-07-14

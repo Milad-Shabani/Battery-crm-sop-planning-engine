@@ -1,0 +1,7 @@
+supplier_id,supplier_name,material_categories,avg_lead_time_days,reliability_score,payment_terms_days
+SUP01,Alborz Lead Smelting Co.,"Lead Ingot, Lead Oxide",10,0.95,40
+SUP02,Pars Sulfuric Acid Industries,"Sulfuric Acid, Acid Additives",6,0.97,30
+SUP03,Tehran Polymer & Plastics Co.,"Polypropylene Resin, Separator Sheets",8,0.96,35
+SUP04,Isfahan Alloy & Casting Works,"Terminal Posts, Calcium Alloy Grids",12,0.92,45
+SUP05,Shargh AGM Materials Co.,AGM Glass Mat,15,0.9,45
+SUP06,National Packaging Industries,"Cartons, Packaging Film, Warning Labels",6,0.96,40

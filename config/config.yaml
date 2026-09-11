@@ -1,0 +1,30 @@
+# Central configuration for the CRM + S&OP planning engine.
+
+paths:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  parquet_dir: "data/processed/planning_output_parquet"
+  excel_path: "data/processed/SOP_CRM_Report.xlsx"
+
+forecast:
+  horizon_months: 3
+  backtest_months: 2
+
+# Planning assumption: operators required to run one line at full capacity
+# for one hour. Used to translate a production plan into a labor-hours
+# requirement for the capacity LP's second constraint.
+planning:
+  operators_per_running_hour:
+    L1: 7   # Automotive SLI Battery Line
+    L2: 5   # Motorcycle Battery Line
+    L3: 6   # Industrial / UPS Battery Line
+    L4: 6   # Deep-Cycle & Solar Battery Line
+  hours_per_shift: 8
+  # Overall Equipment Effectiveness: the fraction of nameplate machine-hour
+  # capacity actually available once changeovers, minor stoppages, and
+  # multi-product sharing on a line are accounted for.
+  oee: 0.6
+
+quality:
+  min_fill_rate: 0.75          # fail if the plan meets less than 75% of any month's forecast
+  max_backtest_wape: 0.65      # fail if overall backtest WAPE exceeds this (lumpy B2B demand — see README)

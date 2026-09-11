@@ -1,0 +1,8 @@
+region_id,region_name,customer_type,payment_terms_days
+R01,Tehran Metro,Distributor,45
+R02,Alborz (Karaj),Distributor,45
+R03,Isfahan,OEM / Fleet,55
+R04,Fars (Shiraz),Retailer,35
+R05,Khorasan Razavi (Mashhad),Distributor,50
+R06,East Azerbaijan (Tabriz),Retailer,35
+R07,National Export,Export,100

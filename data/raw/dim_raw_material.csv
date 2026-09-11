@@ -1,0 +1,13 @@
+material_id,material_name,unit_of_measure,unit_cost_irr,default_supplier_id,lead_time_days,safety_stock_days
+M01,Lead Ingot,kg,620000,SUP01,10,15
+M02,Lead Oxide,kg,580000,SUP01,10,12
+M03,Sulfuric Acid,L,42000,SUP02,6,10
+M04,Acid Additives,L,95000,SUP02,6,12
+M05,Polypropylene Resin,kg,118000,SUP03,8,12
+M06,Separator Sheets,unit,8500,SUP03,8,10
+M07,Terminal Posts (Lead Alloy),unit,24000,SUP04,12,15
+M08,Calcium Alloy Grids,kg,690000,SUP04,12,15
+M09,AGM Glass Mat,unit,32000,SUP05,15,18
+M10,Cartons,unit,5200,SUP06,6,10
+M11,Packaging Film,unit,2100,SUP06,6,10
+M12,Warning Labels,unit,900,SUP06,6,10

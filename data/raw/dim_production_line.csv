@@ -1,0 +1,5 @@
+line_id,line_name,capacity_units_per_hour,shifts_per_day,changeover_minutes,commissioned_date
+L1,Automotive SLI Battery Line,2.2,3,30,2014-04-01
+L2,Motorcycle Battery Line,1.6,2,20,2016-09-10
+L3,Industrial / UPS Battery Line,3.0,2,40,2018-02-15
+L4,Deep-Cycle & Solar Battery Line,2.5,2,35,2020-06-01
