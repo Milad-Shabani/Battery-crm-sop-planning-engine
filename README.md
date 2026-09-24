@@ -129,8 +129,9 @@ python scripts/export_dashboard_data.py     # reads it, writes dashboard/data.js
 `export_dashboard_data.py` locates each table in the workbook by its
 styled header row (the same fill color the writer uses), so the dashboard
 reflects whatever is actually in the `.xlsx` file — the same one a CRM/ops
-person would open. Enable **GitHub Pages** (Settings → Pages → Deploy from
-a branch → `main` → folder `/dashboard`) for a live link.
+person would open. The live version is at
+**[milad-shabani.github.io/Battery-crm-sop-planning-engine](https://milad-shabani.github.io/Battery-crm-sop-planning-engine/)**;
+`.github/workflows/pages.yml` republishes it on every push to `main`.
 
 ## Quickstart
 
