@@ -74,7 +74,7 @@ Full diagram with the quality gate and backtest loop: [`docs/ARCHITECTURE.md`](d
 Running the engine on the bundled dataset (3-month forecast horizon,
 landing on the winter cold-snap):
 
-![Dashboard preview](dashboard/preview.png)
+![Dashboard preview: eight CRM and S&OP KPIs and forecast vs. planned output by month](dashboard/preview.png)
 
 | month | fill rate | revenue at risk |
 |---|---|---|
@@ -108,9 +108,18 @@ Sales Rep Leaderboard, At-Risk Accounts.
 
 ## Dashboard
 
+![Production-line scorecard with CRM pipeline share, SKUs the plan can't serve, demand by line and lost-deal reasons](docs/screenshots/lines_and_demand.png)
+
+![Lead conversion by source, win rate by account segment and the sales rep leaderboard](docs/screenshots/crm_funnel_and_reps.png)
+
 The HTML dashboard (`dashboard/index.html`) is static and self-contained —
-no server, works offline — and its data comes from **reading the Excel
-workbook directly**, not a separate database:
+no server, works offline. Eight KPIs sit up top (forecast, planned output
+and fill rate, revenue planned and at risk, lead conversion, win rate,
+materials below safety stock, accounts at risk), followed by the monthly
+plan, a scorecard for every production line showing how much of its
+forecast comes from the open CRM pipeline, the SKUs the plan can't fully
+serve, and the CRM funnel, rep and account views. Its data comes from
+**reading the Excel workbook directly**, not a separate database:
 
 ```bash
 python -m crm_sop_planning.cli run          # regenerates SOP_CRM_Report.xlsx

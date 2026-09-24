@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
 <title>Pars Voltage Battery Industries — CRM + S&amp;OP Control Room</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
@@ -10,32 +11,37 @@
 <script src="./data.js"></script>
 <style>
   :root{
-    --bg:#0d1b2a;
-    --panel:#142a3d;
-    --panel-2:#1b3550;
-    --line:#2c4a63;
-    --charge:#A6E22E;
-    --charge-dim:#7BA82A;
-    --amber:#F4B740;
-    --critical:#E63946;
-    --text:#EAF4FF;
-    --text-dim:#9FB8CC;
-    --text-faint:#5E7A91;
-    --radius:10px;
+    --bg:#FFFFFF;
+    --panel:#FFFFFF;
+    --panel-2:#F3F7FB;
+    --line:#E2E9F0;
+    --grid:#EDF2F7;
+    --navy:#0F2438;
+    --charge:#5E9A0B;
+    --charge-bar:#84CC16;
+    --charge-soft:#EEF7DF;
+    --amber:#B7791F;
+    --amber-soft:#FDF3DC;
+    --critical:#D62839;
+    --critical-soft:#FCE8EA;
+    --blue:#2F6FB3;
+    --text:#0F1E2E;
+    --text-dim:#4A6075;
+    --text-faint:#7A8FA3;
+    --radius:12px;
+    --shadow:0 1px 2px rgba(15,36,56,0.04), 0 6px 18px rgba(15,36,56,0.05);
   }
   *{box-sizing:border-box;}
   body{
     margin:0;
     background:var(--bg);
-    background-image:
-      radial-gradient(circle at 12% 0%, rgba(166,226,46,0.07), transparent 45%),
-      radial-gradient(circle at 88% 20%, rgba(230,57,70,0.06), transparent 40%);
     color:var(--text);
-    font-family:'IBM Plex Sans', sans-serif;
+    font-family:'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
     line-height:1.5;
   }
-  .wrap{max-width:1140px; margin:0 auto; padding:56px 28px 90px;}
-  header{margin-bottom:40px;}
+  .topbar{height:6px; background:linear-gradient(90deg, var(--navy), var(--blue) 45%, var(--charge-bar));}
+  .wrap{max-width:1160px; margin:0 auto; padding:48px 28px 80px;}
+  header{margin-bottom:32px;}
   .eyebrow{
     font-family:'IBM Plex Mono', monospace;
     font-size:12.5px;
@@ -46,71 +52,102 @@
     font-family:'Space Grotesk', sans-serif;
     font-weight:600;
     font-size:clamp(26px, 3.8vw, 40px);
-    margin:8px 0 10px;
-    color:var(--text);
-    max-width:840px;
+    margin:8px 0 12px;
+    color:var(--navy);
+    max-width:880px;
     line-height:1.15;
+    text-wrap:balance;
   }
-  header p{color:var(--text-dim); max-width:660px; font-size:15px; margin:0;}
+  header p{color:var(--text-dim); max-width:700px; font-size:15px; margin:0;}
   header p b{color:var(--text);}
 
   .kpi-row{
     display:grid;
-    grid-template-columns:repeat(4, 1fr);
-    border:1px solid var(--line);
-    border-radius:var(--radius);
-    overflow:hidden;
+    grid-template-columns:repeat(4, minmax(0, 1fr));
+    gap:14px;
     margin:32px 0 48px;
-    background:var(--panel);
   }
-  .kpi{padding:22px; border-right:1px solid var(--line); position:relative;}
-  .kpi:last-child{border-right:none;}
-  .kpi .num{font-family:'Space Grotesk', sans-serif; font-size:29px; font-weight:600; color:var(--charge); line-height:1.1;}
+  .kpi{
+    background:var(--panel);
+    border:1px solid var(--line);
+    border-top:3px solid var(--navy);
+    border-radius:var(--radius);
+    padding:16px 18px 15px;
+    box-shadow:var(--shadow);
+    min-width:0;
+  }
+  .kpi.good{border-top-color:var(--charge-bar);}
+  .kpi.risk{border-top-color:var(--critical);}
+  .kpi.warn{border-top-color:#F4B740;}
+  .kpi .label{font-size:12.5px; font-weight:600; color:var(--text-dim);}
+  .kpi .num{font-family:'Space Grotesk', sans-serif; font-size:29px; font-weight:600; color:var(--navy); line-height:1.15; margin-top:6px; font-variant-numeric:tabular-nums;}
   .kpi.risk .num{color:var(--critical);}
-  .kpi .label{font-size:12.5px; color:var(--text-dim); margin-top:6px;}
-  .charge-bar{height:3px; background:var(--line); border-radius:2px; margin-top:10px; overflow:hidden;}
-  .charge-bar-fill{height:100%; background:var(--charge); border-radius:2px;}
+  .kpi .sub{font-size:12px; color:var(--text-faint); margin-top:4px;}
+  .charge-bar{height:4px; background:var(--grid); border-radius:2px; margin-top:9px; overflow:hidden;}
+  .charge-bar-fill{height:100%; background:var(--charge-bar); border-radius:2px;}
 
   section{margin-bottom:52px;}
-  .section-head{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:16px; gap:16px; flex-wrap:wrap;}
-  h2{font-family:'Space Grotesk', sans-serif; font-weight:600; font-size:19px; margin:0; color:var(--text);}
-  .section-note{font-size:13px; color:var(--text-faint); max-width:420px; text-align:right;}
-  .panel{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:22px 24px 16px;}
-  .two-col{display:grid; grid-template-columns:1.15fr 1fr; gap:20px;}
-  canvas{max-width:100%;}
+  .section-head{display:flex; justify-content:space-between; align-items:baseline; margin-bottom:14px; gap:16px; flex-wrap:wrap;}
+  h2{font-family:'Space Grotesk', sans-serif; font-weight:600; font-size:20px; margin:0; color:var(--navy);}
+  .section-note{font-size:13px; color:var(--text-faint); max-width:460px; text-align:right;}
+  .panel{background:var(--panel); border:1px solid var(--line); border-radius:var(--radius); padding:20px 22px 16px; box-shadow:var(--shadow); min-width:0;}
+  .panel + .panel{margin-top:16px;}
+  .panel-title{font-size:12.5px; font-weight:600; color:var(--text-dim); margin:0 0 10px;}
+  .two-col{display:grid; grid-template-columns:minmax(0, 1.15fr) minmax(0, 1fr); gap:20px;}
+  .two-col.even{grid-template-columns:repeat(2, minmax(0, 1fr));}
+  /* Charts fill a box of fixed height, so they keep a readable shape at any width. */
+  .chart-box{position:relative; width:100%; height:300px;}
+  .chart-box.tall{height:340px;}
+  .table-scroll{overflow-x:auto;}
 
   table{width:100%; border-collapse:collapse; font-size:13.5px;}
   th, td{text-align:left; padding:9px 10px; border-bottom:1px solid var(--line);}
-  th{color:var(--text-faint); font-weight:500; font-size:11px; text-transform:uppercase; letter-spacing:0.03em;}
-  td.num, th.num{text-align:right; font-family:'IBM Plex Mono', monospace; font-size:12.5px;}
+  th{color:var(--text-faint); font-weight:600; font-size:11px; text-transform:uppercase; letter-spacing:0.03em; white-space:nowrap;}
+  td.num, th.num{text-align:right; white-space:nowrap;}
+  td.num{font-family:'IBM Plex Mono', monospace; font-size:12.5px;}
   tr:last-child td{border-bottom:none;}
+  tbody tr:hover{background:var(--panel-2);}
 
-  .pill{display:inline-block; padding:2px 9px; border-radius:20px; font-size:11px; font-family:'IBM Plex Mono', monospace;}
-  .pill.good{background:rgba(166,226,46,0.14); color:var(--charge);}
-  .pill.warn{background:rgba(244,183,64,0.16); color:var(--amber);}
-  .pill.bad{background:rgba(230,57,70,0.16); color:var(--critical);}
+  .pill{display:inline-block; padding:2px 9px; border-radius:20px; font-size:11px; font-family:'IBM Plex Mono', monospace; white-space:nowrap;}
+  .pill.good{background:var(--charge-soft); color:var(--charge);}
+  .pill.warn{background:var(--amber-soft); color:var(--amber);}
+  .pill.bad{background:var(--critical-soft); color:var(--critical);}
+  .bar{display:inline-block; vertical-align:middle; width:90px; height:7px; border-radius:4px; background:var(--grid); margin-right:8px; overflow:hidden;}
+  .bar > i{display:block; height:100%; border-radius:4px; background:var(--charge-bar);}
+  .bar.bad > i{background:var(--critical);}
+  .bar.blue > i{background:var(--blue);}
 
-  .story{font-size:14px; color:var(--text-dim); max-width:700px; margin:14px 0 0;}
+  .story{font-size:14px; color:var(--text-dim); max-width:720px; margin:14px 0 0;}
   .story b{color:var(--text);}
   code.inline{background:var(--panel-2); padding:1px 6px; border-radius:3px; font-size:12px; font-family:'IBM Plex Mono', monospace;}
 
-  .flow{display:flex; align-items:center; gap:6px; flex-wrap:wrap; font-family:'IBM Plex Mono', monospace; font-size:12px; color:var(--text-dim); margin-top:6px;}
+  .flow{display:flex; align-items:center; gap:6px; flex-wrap:wrap; font-family:'IBM Plex Mono', monospace; font-size:12px; color:var(--text-dim); margin-top:14px;}
   .flow .node{background:var(--panel-2); border:1px solid var(--line); border-radius:6px; padding:4px 10px;}
-  .flow .node.crm{border-color:var(--charge); color:var(--charge);}
+  .flow .node.crm{border-color:var(--charge-bar); color:var(--charge); background:var(--charge-soft);}
   .flow .arrow{color:var(--text-faint);}
 
   footer{margin-top:60px; padding-top:24px; border-top:1px solid var(--line); font-size:12.5px; color:var(--text-faint); display:flex; justify-content:space-between; flex-wrap:wrap; gap:10px;}
-  footer a{color:var(--charge-dim);}
+  footer a{color:var(--blue);}
 
-  @media (max-width: 760px){
-    .kpi-row{grid-template-columns:repeat(2,1fr);}
-    .kpi{border-bottom:1px solid var(--line);}
-    .two-col{grid-template-columns:1fr;}
+  @media (max-width: 900px){
+    .kpi-row{grid-template-columns:repeat(2, minmax(0, 1fr));}
+    .two-col, .two-col.even{grid-template-columns:minmax(0, 1fr);}
     .section-note{text-align:left;}
+  }
+  @media (max-width: 560px){
+    .wrap{padding:32px 16px 60px;}
+    .kpi-row{gap:10px;}
+    .kpi{padding:12px 12px 11px;}
+    .kpi .num{font-size:23px;}
+    .panel{padding:16px 12px 12px;}
+    .chart-box, .chart-box.tall{height:260px;}
+    /* one line per row; the table scrolls sideways inside its panel */
+    .table-scroll td{white-space:nowrap;}
   }
 </style>
 </head>
 <body>
+<div class="topbar"></div>
 <div class="wrap">
 
   <header>
@@ -137,22 +174,39 @@
       <h2>Forecast vs. planned output, by month</h2>
       <div class="section-note">January is where the open CRM pipeline pushes demand past what Lines 1 &amp; 2 can produce.</div>
     </div>
-    <div class="panel"><canvas id="monthlyChart" height="90"></canvas></div>
+    <div class="panel"><div class="chart-box tall"><canvas id="monthlyChart"></canvas></div></div>
     <p class="story" id="monthlyStory"></p>
+  </section>
+
+  <section>
+    <div class="section-head">
+      <h2>Production lines, and where the plan falls short</h2>
+      <div class="section-note">CRM share: the part of each line's forecast that comes from open pipeline deals rather than order history.</div>
+    </div>
+    <div class="panel table-scroll">
+      <table>
+        <thead><tr><th>Line</th><th class="num">Forecast</th><th class="num">Planned</th><th>Fill rate</th><th class="num">Unmet units</th><th>CRM pipeline share</th></tr></thead>
+        <tbody id="lineTable"></tbody>
+      </table>
+    </div>
+    <div class="panel table-scroll">
+      <p class="panel-title">SKUs the plan can't fully serve</p>
+      <div id="shortPanel"></div>
+    </div>
   </section>
 
   <section>
     <div class="two-col">
       <div>
         <div class="section-head"><h2>Demand by production line</h2></div>
-        <div class="panel"><canvas id="lineChart" height="140"></canvas></div>
+        <div class="panel"><div class="chart-box"><canvas id="lineChart"></canvas></div></div>
         <p class="story">The <b>Automotive SLI</b> and <b>Motorcycle</b> lines carry the winter
           cold-snap seasonality — lead-acid batteries fail in the cold, and both lines show it
           in January. Industrial/UPS and Deep-Cycle/Solar don't share that pattern.</p>
       </div>
       <div>
         <div class="section-head"><h2>Lost opportunity reasons</h2></div>
-        <div class="panel"><canvas id="loseChart" height="140"></canvas></div>
+        <div class="panel"><div class="chart-box"><canvas id="loseChart"></canvas></div></div>
         <p class="story">Price and "went with a competitor" together account for over 40% of
           lost deals — the kind of pattern a rep leaderboard alone won't surface.</p>
       </div>
@@ -160,14 +214,14 @@
   </section>
 
   <section>
-    <div class="two-col">
+    <div class="two-col even">
       <div>
         <div class="section-head"><h2>Lead conversion by source</h2></div>
-        <div class="panel"><canvas id="leadChart" height="130"></canvas></div>
+        <div class="panel"><div class="chart-box"><canvas id="leadChart"></canvas></div></div>
       </div>
       <div>
         <div class="section-head"><h2>Win rate by account segment</h2></div>
-        <div class="panel"><canvas id="winRateChart" height="130"></canvas></div>
+        <div class="panel"><div class="chart-box"><canvas id="winRateChart"></canvas></div></div>
       </div>
     </div>
   </section>
@@ -177,9 +231,9 @@
       <h2>Sales rep leaderboard</h2>
       <div class="section-note">Ranked by won pipeline value, from the CRM opportunity history.</div>
     </div>
-    <div class="panel">
+    <div class="panel table-scroll">
       <table>
-        <thead><tr><th>Rep</th><th class="num">Opportunities</th><th class="num">Won</th><th class="num">Win rate</th><th class="num">Won value (IRR)</th></tr></thead>
+        <thead><tr><th>Rep</th><th class="num">Opportunities</th><th class="num">Won</th><th>Win rate</th><th class="num">Won value (IRR)</th></tr></thead>
         <tbody id="repTable"></tbody>
       </table>
     </div>
@@ -190,7 +244,7 @@
       <h2>Accounts to watch</h2>
       <div class="section-note">Open service case AND no order in 90+ days — a simple, explainable churn flag.</div>
     </div>
-    <div class="panel" id="atRiskPanel"></div>
+    <div class="panel table-scroll" id="atRiskPanel"></div>
   </section>
 
   <footer>
@@ -202,20 +256,31 @@
 
 <script>
 const D = DASHBOARD_DATA;
+const K = D.kpi;
 const fmt = n => new Intl.NumberFormat('en-US').format(Math.round(n));
 const fmtM = n => (n/1e6).toFixed(0) + 'M';
+const fmtShort = n => n >= 1e9 ? (n/1e9).toFixed(1) + 'B' : fmtM(n);
+const fmtIRR = n => fmtShort(n) + ' IRR';
+const pct = (x, d = 1) => (x*100).toFixed(d) + '%';
 const monthLabel = s => new Date(s).toLocaleDateString('en-US', {month:'short', year:'numeric'});
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 // --- KPI strip + tables render first, independent of Chart.js ---
-const kpiRow = document.getElementById('kpiRow');
-const fillPct = (D.kpi.fill_rate*100).toFixed(1);
 const kpis = [
-  {num: fmt(D.kpi.total_forecast), label: 'Units forecast (incl. CRM pipeline overlay)'},
-  {num: fmt(D.kpi.total_allocated), label: 'Units the plan can actually produce'},
-  {num: fillPct + '%', label: 'Overall fill rate', bar: D.kpi.fill_rate},
-  {num: fmtM(D.kpi.revenue_lost) + ' IRR', label: 'Revenue at risk from capacity limits', risk: true},
+  {num: fmt(K.total_forecast), label: 'Units forecast', sub: fmt(K.pipeline_units) + ' of them from the open CRM pipeline'},
+  {num: fmt(K.total_allocated), label: 'Units the plan can produce', sub: pct(K.fill_rate) + ' overall fill rate', bar: K.fill_rate},
+  {num: fmtIRR(K.revenue_planned), label: 'Revenue in the plan', sub: K.n_months + '-month horizon at list price', tone: 'good'},
+  {num: fmtIRR(K.revenue_lost), label: 'Revenue at risk', sub: fmt(K.unmet_units) + ' units the lines can’t produce', tone: K.revenue_lost > 0 ? 'risk' : 'good'},
+  {num: pct(K.lead_conversion), label: 'Lead conversion', sub: fmt(K.leads_total) + ' leads across all sources'},
+  {num: pct(K.win_rate), label: 'Opportunity win rate', sub: fmtIRR(K.won_value) + ' won from ' + fmt(K.opportunities) + ' deals'},
+  {num: String(K.peak_materials_below_ss), label: 'Materials below safety stock', sub: 'peak, in ' + monthLabel(K.peak_materials_month) + ' · ' + K.materials_to_reorder + ' to reorder', tone: 'warn'},
+  {num: String(D.at_risk_count), label: 'Accounts at risk', sub: 'open case and no order in 90+ days', tone: D.at_risk_count > 0 ? 'risk' : 'good'},
 ];
-kpiRow.innerHTML = kpis.map(k => `<div class="kpi ${k.risk?'risk':''}"><div class="num">${k.num}</div><div class="label">${k.label}</div>${k.bar!==undefined?`<div class="charge-bar"><div class="charge-bar-fill" style="width:${k.bar*100}%"></div></div>`:''}</div>`).join('');
+document.getElementById('kpiRow').innerHTML = kpis.map(k =>
+  `<div class="kpi ${k.tone || ''}"><div class="label">${k.label}</div><div class="num">${k.num}</div><div class="sub">${k.sub}</div>` +
+  (k.bar !== undefined ? `<div class="charge-bar"><div class="charge-bar-fill" style="width:${(k.bar*100).toFixed(1)}%"></div></div>` : '') +
+  `</div>`
+).join('');
 
 const worst = D.monthly_summary.reduce((a,b)=> a['Fill Rate'] < b['Fill Rate'] ? a : b);
 document.getElementById('monthlyStory').innerHTML =
@@ -223,44 +288,76 @@ document.getElementById('monthlyStory').innerHTML =
   `<b>${(worst['Fill Rate']*100).toFixed(0)}%</b> — ${fmtM(worst['Revenue Lost Irr'])} IRR of demand the two winter-driven ` +
   `lines can't produce in time.`;
 
-const repRows = D.rep_leaderboard.map(r => `<tr>
-  <td>${r['Full Name']}</td><td class="num">${r['Opportunities']}</td><td class="num">${r['Won']}</td>
-  <td class="num">${(r['Win Rate']*100).toFixed(0)}%</td><td class="num">${fmt(r['Won Value Irr'])}</td>
-</tr>`).join('');
-document.getElementById('repTable').innerHTML = repRows;
+// Line scorecard
+document.getElementById('lineTable').innerHTML = D.lines.map(l => {
+  const short = l.fill_rate < 1;
+  return `<tr>
+    <td>${esc(l.line_id)} · ${esc(l.category)}</td>
+    <td class="num">${fmt(l.forecast_units)}</td>
+    <td class="num">${fmt(l.allocated_units)}</td>
+    <td><span class="bar ${short ? 'bad' : ''}"><i style="width:${(l.fill_rate*100).toFixed(1)}%"></i></span><span class="pill ${short ? 'bad' : 'good'}">${pct(l.fill_rate)}</span></td>
+    <td class="num">${l.unmet_units ? fmt(l.unmet_units) : '—'}</td>
+    <td><span class="bar blue"><i style="width:${(l.pipeline_share*100).toFixed(1)}%"></i></span>${pct(l.pipeline_share, 0)}</td>
+  </tr>`;
+}).join('');
+
+const shortPanel = document.getElementById('shortPanel');
+shortPanel.innerHTML = D.short_skus.length
+  ? `<table><thead><tr><th>SKU</th><th>Line</th><th>Month</th><th class="num">Forecast</th><th class="num">Planned</th><th class="num">Unmet</th></tr></thead><tbody>` +
+    D.short_skus.map(s => `<tr>
+      <td>${esc(s.product_name)}</td><td>${esc(s.category)}</td><td>${monthLabel(s.period_start)}</td>
+      <td class="num">${fmt(s.forecast_units)}</td><td class="num">${fmt(s.allocated_units)}</td>
+      <td class="num"><span class="pill bad">${fmt(s.unmet_units)}</span></td>
+    </tr>`).join('') + `</tbody></table>`
+  : `<p class="story" style="margin:0;">Every SKU is fully served in every month of the plan.</p>`;
+
+document.getElementById('repTable').innerHTML = D.rep_leaderboard.map(r => {
+  const w = r['Win Rate'];
+  return `<tr>
+    <td>${esc(r['Full Name'])}</td><td class="num">${r['Opportunities']}</td><td class="num">${r['Won']}</td>
+    <td><span class="pill ${w >= 0.5 ? 'good' : w >= 0.4 ? 'warn' : 'bad'}">${(w*100).toFixed(0)}%</span></td>
+    <td class="num">${fmt(r['Won Value Irr'])}</td>
+  </tr>`;
+}).join('');
 
 const atRiskPanel = document.getElementById('atRiskPanel');
 if (D.at_risk_count === 0) {
   atRiskPanel.innerHTML = `<p class="story" style="margin:0;">No accounts currently meet both risk criteria — the watch list is empty.</p>`;
 } else {
   const rows = D.at_risk_accounts.map(a => `<tr>
-    <td>${a['Account Name']}</td><td>${a['Account Type']}</td>
+    <td>${esc(a['Account Name'])}</td><td>${esc(a['Account Type'])}</td>
     <td class="num">${a['Open Cases']}</td><td class="num">${a['Days Since Last Order']}</td>
   </tr>`).join('');
   atRiskPanel.innerHTML = `<table><thead><tr><th>Account</th><th>Type</th><th class="num">Open cases</th><th class="num">Days since last order</th></tr></thead><tbody>${rows}</tbody></table>`;
 }
 
 function renderCharts(){
-Chart.defaults.color = '#9FB8CC';
-Chart.defaults.font.family = "'IBM Plex Sans', sans-serif";
+const GRID = '#EDF2F7';
+Chart.defaults.color = '#4A6075';
+Chart.defaults.font.family = "'IBM Plex Sans', system-ui, sans-serif";
 Chart.defaults.font.size = 12;
-Chart.defaults.borderColor = '#2c4a63';
+Chart.defaults.borderColor = '#E2E9F0';
+Chart.defaults.maintainAspectRatio = false;
+Chart.defaults.plugins.tooltip.backgroundColor = '#0F2438';
+Chart.defaults.plugins.tooltip.padding = 10;
+const legend = {position:'top', align:'end', labels:{boxWidth:10, boxHeight:10}};
 
 new Chart(document.getElementById('monthlyChart'), {
   type: 'bar',
   data: {
     labels: D.monthly_summary.map(m => monthLabel(m['Period Start'])),
     datasets: [
-      {type:'bar', label:'Forecast', data: D.monthly_summary.map(m=>m['Forecast Units']), backgroundColor:'#2c4a63', borderRadius:3, order:2},
-      {type:'bar', label:'Planned', data: D.monthly_summary.map(m=>m['Allocated Units']), backgroundColor: D.monthly_summary.map(m=> m['Fill Rate']<1 ? '#E63946' : '#A6E22E'), borderRadius:3, order:2},
-      {type:'line', label:'Fill rate', data: D.monthly_summary.map(m=>m['Fill Rate']*100), yAxisID:'y1', borderColor:'#EAF4FF', backgroundColor:'#EAF4FF', tension:0.25, pointRadius:4, order:1},
+      {type:'bar', label:'Forecast', data: D.monthly_summary.map(m=>m['Forecast Units']), backgroundColor:'#CBD8E4', borderRadius:4, order:2, maxBarThickness:120},
+      {type:'bar', label:'Planned', data: D.monthly_summary.map(m=>m['Allocated Units']), backgroundColor: D.monthly_summary.map(m=> m['Fill Rate']<1 ? '#D62839' : '#84CC16'), borderRadius:4, order:2, maxBarThickness:120},
+      {type:'line', label:'Fill rate', data: D.monthly_summary.map(m=>m['Fill Rate']*100), yAxisID:'y1', borderColor:'#0F2438', backgroundColor:'#0F2438', tension:0.25, pointRadius:4, borderWidth:2, order:1},
     ]
   },
   options: {
-    responsive:true,
-    plugins:{legend:{position:'top', align:'end', labels:{boxWidth:10, boxHeight:10}}},
+    interaction:{mode:'index', intersect:false},
+    plugins:{legend, tooltip:{callbacks:{label:c => c.dataset.label + ': ' + (c.dataset.yAxisID === 'y1' ? c.parsed.y.toFixed(1) + '%' : fmt(c.parsed.y))}}},
     scales:{
-      y:{ grid:{color:'#1f3a52'}, ticks:{callback:v=>fmt(v)} },
+      x:{ grid:{display:false} },
+      y:{ grid:{color:GRID}, ticks:{callback:v=>fmt(v)} },
       y1:{ position:'right', min:80, max:105, grid:{display:false}, ticks:{callback:v=>v+'%'} },
     }
   }
@@ -272,16 +369,16 @@ new Chart(document.getElementById('lineChart'), {
   data:{
     labels: lines.map(l=>monthLabel(l['Period Start'])),
     datasets:[
-      {label:'L1 Automotive SLI', data:lines.map(l=>l.L1), borderColor:'#A6E22E', backgroundColor:'#A6E22E', tension:0.3},
-      {label:'L2 Motorcycle', data:lines.map(l=>l.L2), borderColor:'#F4B740', backgroundColor:'#F4B740', tension:0.3},
-      {label:'L3 Industrial/UPS', data:lines.map(l=>l.L3), borderColor:'#5E9FE6', backgroundColor:'#5E9FE6', tension:0.3},
-      {label:'L4 Deep-Cycle/Solar', data:lines.map(l=>l.L4), borderColor:'#9F86E8', backgroundColor:'#9F86E8', tension:0.3},
+      {label:'L1 Automotive SLI', data:lines.map(l=>l.L1), borderColor:'#65A30D', backgroundColor:'#65A30D', tension:0.3, borderWidth:2.5},
+      {label:'L2 Motorcycle', data:lines.map(l=>l.L2), borderColor:'#E0A21B', backgroundColor:'#E0A21B', tension:0.3, borderWidth:2.5},
+      {label:'L3 Industrial/UPS', data:lines.map(l=>l.L3), borderColor:'#2F6FB3', backgroundColor:'#2F6FB3', tension:0.3, borderWidth:2.5},
+      {label:'L4 Deep-Cycle/Solar', data:lines.map(l=>l.L4), borderColor:'#7C6BD6', backgroundColor:'#7C6BD6', tension:0.3, borderWidth:2.5},
     ]
   },
   options:{
-    responsive:true,
+    interaction:{mode:'index', intersect:false},
     plugins:{legend:{position:'top', align:'end', labels:{boxWidth:10, boxHeight:10, font:{size:10.5}}}},
-    scales:{y:{grid:{color:'#1f3a52'}, beginAtZero:true}, x:{grid:{display:false}}}
+    scales:{y:{grid:{color:GRID}, beginAtZero:true, ticks:{callback:v=>fmt(v)}}, x:{grid:{display:false}}}
   }
 });
 
@@ -290,13 +387,12 @@ new Chart(document.getElementById('loseChart'), {
   type: 'bar',
   data:{
     labels: lr.map(r=>r['Lose Reason']),
-    datasets:[{label:'Lost opportunities', data:lr.map(r=>r['Count']), backgroundColor:'#E63946', borderRadius:3}]
+    datasets:[{label:'Lost opportunities', data:lr.map(r=>r['Count']), backgroundColor:'#D62839', borderRadius:4}]
   },
   options:{
     indexAxis:'y',
-    responsive:true,
-    plugins:{legend:{display:false}},
-    scales:{x:{grid:{color:'#1f3a52'}}, y:{grid:{display:false}}}
+    plugins:{legend:{display:false}, tooltip:{callbacks:{label:c => c.parsed.x + ' lost (' + pct(lr[c.dataIndex]['Share'], 0) + ')'}}},
+    scales:{x:{grid:{color:GRID}, beginAtZero:true}, y:{grid:{display:false}}}
   }
 });
 
@@ -305,12 +401,11 @@ new Chart(document.getElementById('leadChart'), {
   type:'bar',
   data:{
     labels: lf.map(r=>r['Source']),
-    datasets:[{label:'Conversion rate', data:lf.map(r=>r['Conversion Rate']*100), backgroundColor:'#A6E22E', borderRadius:3}]
+    datasets:[{label:'Conversion rate', data:lf.map(r=>r['Conversion Rate']*100), backgroundColor:'#84CC16', borderRadius:4}]
   },
   options:{
-    responsive:true,
-    plugins:{legend:{display:false}},
-    scales:{y:{grid:{color:'#1f3a52'}, ticks:{callback:v=>v+'%'}}, x:{grid:{display:false}, ticks:{font:{size:10}}}}
+    plugins:{legend:{display:false}, tooltip:{callbacks:{label:c => c.parsed.y.toFixed(0) + '% of ' + lf[c.dataIndex]['Total'] + ' leads'}}},
+    scales:{y:{grid:{color:GRID}, beginAtZero:true, ticks:{callback:v=>v+'%'}}, x:{grid:{display:false}, ticks:{font:{size:10.5}}}}
   }
 });
 
@@ -319,12 +414,11 @@ new Chart(document.getElementById('winRateChart'), {
   type:'bar',
   data:{
     labels: wr.map(r=>r['Account Type']),
-    datasets:[{label:'Win rate', data:wr.map(r=>r['Win Rate']*100), backgroundColor:'#F4B740', borderRadius:3}]
+    datasets:[{label:'Win rate', data:wr.map(r=>r['Win Rate']*100), backgroundColor:'#F4B740', borderRadius:4}]
   },
   options:{
-    responsive:true,
-    plugins:{legend:{display:false}},
-    scales:{y:{grid:{color:'#1f3a52'}, ticks:{callback:v=>v+'%'}}, x:{grid:{display:false}}}
+    plugins:{legend:{display:false}, tooltip:{callbacks:{label:c => c.parsed.y.toFixed(0) + '% of ' + wr[c.dataIndex]['Opportunities'] + ' opportunities'}}},
+    scales:{y:{grid:{color:GRID}, beginAtZero:true, ticks:{callback:v=>v+'%'}}, x:{grid:{display:false}}}
   }
 });
 
@@ -333,8 +427,8 @@ new Chart(document.getElementById('winRateChart'), {
 if (typeof Chart !== 'undefined') {
   renderCharts();
 } else {
-  document.querySelectorAll('canvas').forEach(c => {
-    c.outerHTML = '<p style="color:var(--text-faint); font-size:13px;">Chart could not load (offline or the Chart.js file was blocked). The numbers and tables above are unaffected.</p>';
+  document.querySelectorAll('.chart-box').forEach(c => {
+    c.outerHTML = '<p style="color:var(--text-faint); font-size:13px;">Chart could not load (offline or the Chart.js file was blocked). The numbers and tables are unaffected.</p>';
   });
 }
 </script>
